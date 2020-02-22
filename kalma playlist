@@ -319,6 +319,8 @@ https://www.doofree88.com/streaming/uk-skysports-mix_480/index.m3u8
 https://www.doofree88.com/streaming/uk-skysports-epl_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/SkySportsFootball.uk.png" group-title="Football",Sky Sports Football
 https://www.doofree88.com/streaming/uk-skysports-football_720/index.m3u8
+EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/2a/cc/ee/2accee3ed2f6c675d66001711dcbd1c4.png" group-title="Football",Premier Football 2
+http://119.59.116.136:8889/threstr/premierleague/chunks.m3u8
 
 #EXTINF:-1,Sport klub 1
 http://185.180.12.34:8080/SK1HR/tracks-v1a1/mono.m3u8?token=test 
