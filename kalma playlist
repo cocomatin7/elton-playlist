@@ -402,6 +402,14 @@ http://skdn.redi-vo.com/iptv/ch8516?code=8601338691674826&key=21599
 http://skdn.redi-vo.com/iptv/ch517?code=8601338691674826&key=27619
 #EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/522.png",BeInSport NBA HD 
 http://skdn.redi-vo.com/iptv/ch522?code=8601338691674826&key=52241
+#EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/255.png",RMC Sport 1 HD
+http://skdn.redi-vo.com/iptv/ch255?code=8601338691674826&key=43852
+#EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/253.png",RMC Sport 2 HD
+http://skdn.redi-vo.com/iptv/ch253?code=8601338691674826&key=43971
+#EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/254.png",RMC Sport 3 HD
+http://skdn.redi-vo.com/iptv/ch254?code=8601338691674826&key=13496
+#EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/243.png",RMC Sport 4 HD
+http://skdn.redi-vo.com/iptv/ch243?code=8601338691674826&key=62334
 
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/rs/Arenasport1.rs.png" group-title="Sports",Arena Sports 1
