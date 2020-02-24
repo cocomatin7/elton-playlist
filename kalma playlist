@@ -23,9 +23,9 @@ http://hls-pull-switchinternational.speedws.com/live/test1/playlist.m3u8
 #EXTINF:-1,STARTV E
 Https://8343f7014c0ea438.mediapackage.us-west-2.amazonaws.com/out/v1/790a5751da5e481a95c245b29c325e5f/index_1.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.digitaltveurope.com/files/2014/12/AMCSlogo.jpg" group-title="enternainment",Africa Movie Channel Series
+#EXTINF:-1 tvg-logo="https://www.digitaltveurope.com/files/2014/12/AMCSlogo.jpg" group-title="Entertainment",Africa Movie Channel Series
 https://1043645968.rsc.cdn77.org/1043645968/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://www.digitaltveurope.com/files/2016/01/AMC.jpg" group-title="enternainment",Africa Movie Channel
+#EXTINF:-1 tvg-logo="https://www.digitaltveurope.com/files/2016/01/AMC.jpg" group-title="Entertainment",Africa Movie Channel
 https://1117758083.rsc.cdn77.org/1117758083/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://logok.org/wp-content/uploads/2014/05/E-Logo_Black.png" group-title="Entertainment",E!
 http://ott.artmott.com/E!/tracks-v1a1/mono.m3u8
