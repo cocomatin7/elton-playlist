@@ -323,10 +323,10 @@ https://1427531085.rsc.cdn77.org/1427531085/tracks-v1a1/mono.m3u8
 https://1002631743.rsc.cdn77.org/1002631743/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://www.bastionegroup.com/wp-content/uploads/2019/03/ReelPX_Vintage.png" group-title="Movies",Reel Px Vintage
 https://1946514655.rsc.cdn77.org/1946514655/tracks-v1a1/mono.m3u8
-#EXTINF:0,sky-movies-action
-http://content.torrent-tv.ru/WVE0N1NyYXF4RjhxejhHclUrbkdnMnBES1JWcVlsLzlDM1R1aUllVmdkOHF0dWFKTlFLV1pidG9jdlJBYW83NGd6VFJTM1Ruc01QTm1sUzNYQXFlUVE9PQ/13162.acelive
-#EXTINF:0,sky-movies-family
-http://content.torrent-tv.ru/WVE0N1NyYXF4RjhxejhHclUrbkdnMnBES1JWcVlsLzlDM1R1aUllVmdkOHF0dWFKTlFLV1pidG9jdlJBYW83NGd6VFJTM1Ruc01QTm1sUzNYQXFlUVE9PQ/13163.acelive
+#EXTINF:-1 tvg-id="" tvg-name="STUDIO UNIVERSAL" tvg-logo="" group-title="Movies",STUDIO UNIVERSAL
+http://iptvactivador.online:25461/LISTAM3UGRATIS/LISTASM3UGRATIS/58
+#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL CHANNEL" tvg-logo="" group-title="Movies",UNIVERSAL CHANNEL
+http://iptvactivador.online:25461/LISTAM3UGRATIS/LISTASM3UGRATIS/71
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/th/beINSports1.th.png" group-title="Sports",beIN Sports 1 Asia
 http://anevia115.mncnow.id/live/eds/BeIN1/sa_hls/BeIN1-avc1_2499968=11-BeIN1-mp4a_98800_eng=3.m3u8
