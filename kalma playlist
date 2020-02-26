@@ -360,7 +360,7 @@ http://anevia115.mncnow.id/live/eds/BeIN2/sa_hls/BeIN2-avc1_2499968=10-BeIN2-mp4
 https://www.doofree88.com/streaming/epl-bein1_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/th/beINSports2.th.png" group-title="Sports",beIN Sports 2 Asia
 https://www.doofree88.com/streaming/epl-bein2_720/index.m3u8
-#EXTINF:-1 tvg-logo="http://i.pinimg.com/originals/2a/cc/ee/2accee3ed2f6c675d66001711dcbd1c4.png" group-title="Football",Premier Football 2
+#EXTINF:-1 tvg-logo="http://i.pinimg.com/originals/2a/cc/ee/2accee3ed2f6c675d66001711dcbd1c4.png" group-title="Sports",Premier Football 2
 https://www.livedoomovies.com/02_PremierHD2_720p/chunklist2.m3u8
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/BTSport1.uk.png" group-title="Sports",BT Sports 1
 https://www.doofree88.com/streaming/uk-btsport1hd_720/index.m3u8
@@ -380,6 +380,43 @@ https://www.doofree88.com/streaming/uk-skysports-f1_720/index.m3u8
 https://www.doofree88.com/streaming/uk-skysports-mainevent_720/index.m3u8
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/SkySportsMix.uk.png" group-title="Sports",Sky Sports Mix
 https://www.doofree88.com/streaming/uk-skysports-mix_480/index.m3u8
+#EXTINF:-1 tvg-chno="4" tvg-id="beIN Sports 1 ARB" tvg-name="beIN SPORTS 1HD" tvg-logo="http://channelstream.net/images/prog/channel/bein_1.png" group-title="beIN SPORTS | LIVE ",beIN SPORTS 1HD
+http://topiptv.net:5890/aziz/1234/16
+#EXTINF:-1 tvg-chno="5" tvg-id="beIN Sports 2 ARB" tvg-name="beIN SPORTS 2HD" tvg-logo="http://channelstream.net/images/prog/channel/bein_2.png" group-title="beIN SPORTS | LIVE ",beIN SPORTS 2HD
+http://topiptv.net:5890/aziz/1234/17
+#EXTINF:-1 tvg-chno="6" tvg-id="beIN Sports 3 ARB" tvg-name="beIN SPORTS 3HD" tvg-logo="http://channelstream.net/images/prog/channel/bein_3.png" group-title="beIN SPORTS | LIVE ",beIN SPORTS 3HD
+http://topiptv.net:5890/aziz/1234/18
+#EXTINF:-1 tvg-chno="7" tvg-id="beIN Sports 4 ARB" tvg-name="beIN SPORTS 4HD" tvg-logo="http://channelstream.net/images/prog/channel/bein_4.png" group-title="beIN SPORTS | LIVE ",beIN SPORTS 4HD
+http://topiptv.net:5890/aziz/1234/19
+#EXTINF:-1 tvg-chno="8" tvg-id="beIN Sports 5 ARB" tvg-name="beIN SPORTS 5HD" tvg-logo="http://channelstream.net/images/prog/channel/bein_5.png" group-title="beIN SPORTS | LIVE ",beIN SPORTS 5HD
+http://topiptv.net:5890/aziz/1234/20
+#EXTINF:-1 tvg-chno="9" tvg-id="beIN Sports 6 ARB" tvg-name="beIN SPORTS 6HD" tvg-logo="http://channelstream.net/images/prog/channel/bein_6.png" group-title="beIN SPORTS | LIVE ",beIN SPORTS 6HD
+http://topiptv.net:5890/aziz/1234/21
+#EXTINF:-1 tvg-chno="10" tvg-id="beIN Sports 7 ARB" tvg-name="beIN SPORTS 7HD" tvg-logo="http://channelstream.net/images/prog/channel/bein_7.png" group-title="beIN SPORTS | LIVE ",beIN SPORTS 7HD
+http://topiptv.net:5890/aziz/1234/22
+#EXTINF:-1 tvg-chno="11" tvg-id="beIN Sports 8 ARB" tvg-name="beIN SPORTS 8HD" tvg-logo="http://channelstream.net/images/prog/channel/bein_8.png" group-title="beIN SPORTS | LIVE ",beIN SPORTS 8HD
+http://topiptv.net:5890/aziz/1234/23
+#EXTINF:-1 tvg-chno="12" tvg-id="beIN Sports 9 ARB" tvg-name="beIN SPORTS 9HD" tvg-logo="http://channelstream.net/images/prog/channel/bein_9.png" group-title="beIN SPORTS | LIVE ",beIN SPORTS 9HD
+http://topiptv.net:5890/aziz/1234/24
+#EXTINF:-1 tvg-chno="13" tvg-id="beIN Sports 10 ARB" tvg-name="beIN SPORTS 10HD" tvg-logo="http://channelstream.net/images/prog/channel/bein_10.png" group-title="beIN SPORTS | LIVE ",beIN SPORTS 10HD
+http://topiptv.net:5890/aziz/1234/25
+#EXTINF:-1 tvg-chno="14" tvg-id="beIN Sports 11 HD ARB" tvg-name="beIN SPORTS 11HD" tvg-logo="https://cdn.bein.net/mena/wp-content/uploads/sites/4/2015/09/Sports_HD11.png" group-title="beIN SPORTS | LIVE ",beIN SPORTS 11HD
+http://topiptv.net:5890/aziz/1234/26
+#EXTINF:-1 tvg-chno="15" tvg-id="beIN Sports 12 HD ARB" tvg-name="beIN SPORTS 12HD" tvg-logo="https://cdn.bein.net/mena/wp-content/uploads/sites/4/2015/09/Sports_HD12.png" group-title="beIN SPORTS | LIVE ",beIN SPORTS 12HD
+http://topiptv.net:5890/aziz/1234/27
+#EXTINF:-1 tvg-chno="16" tvg-id="beIN Sports 13 HD ARB" tvg-name="beIN SPORTS 13HD" tvg-logo="https://cdn.bein.net/mena/wp-content/uploads/sites/4/2015/09/Sports_HD13.png" group-title="beIN SPORTS | LIVE ",beIN SPORTS 13HD
+http://topiptv.net:5890/aziz/1234/28
+#EXTINF:-1 tvg-chno="17" tvg-id="beIN Sports 14 HD ARB" tvg-name="beIN SPORTS 14HD" tvg-logo="https://cdn.bein.net/mena/wp-content/uploads/sites/4/2015/09/Sports_HD14.png" group-title="beIN SPORTS | LIVE ",beIN SPORTS 14HD
+http://topiptv.net:5890/aziz/1234/29
+#EXTINF:-1 tvg-chno="18" tvg-id="beIN Sports 15 HD ARB" tvg-name="beIN SPORTS 15HD" tvg-logo="https://cdn.bein.net/mena/wp-content/uploads/sites/4/2015/09/Sports_HD15.png" group-title="beIN SPORTS | LIVE ",beIN SPORTS 15HD
+http://topiptv.net:5890/aziz/1234/30
+#EXTINF:-1 tvg-chno="19" tvg-id="beIN Sports 16 HD ARB" tvg-name="beIN SPORTS 16HD" tvg-logo="https://cdn.bein.net/mena/wp-content/uploads/sites/4/2015/09/Sports_HD16.png" group-title="beIN SPORTS | LIVE ",beIN SPORTS 16HD
+http://topiptv.net:5890/aziz/1234/31
+#EXTINF:-1 tvg-chno="20" tvg-id="beIN Sports 17 HD ARB" tvg-name="beIN SPORTS 17HD" tvg-logo="https://cdn.bein.net/mena/wp-content/uploads/sites/4/2015/09/Sports_HD17.png" group-title="beIN SPORTS | LIVE ",beIN SPORTS 17HD
+http://topiptv.net:5890/aziz/1234/32
+#EXTINF:-1 tvg-chno="21" tvg-name="beIN SPORTS NBA" tvg-logo="https://cdn.bein.net/mena/wp-content/uploads/sites/4/2015/09/NBA-3.png" group-title="beIN SPORTS | LIVE ",beIN SPORTS NBA
+http://topiptv.net:5890/aziz/1234/33
+
 
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/4Music.uk.png" group-title="UK",4Music
