@@ -329,7 +329,7 @@ https://1946514655.rsc.cdn77.org/1946514655/tracks-v1a1/mono.m3u8
 http://iptvactivador.online:25461/LISTAM3UGRATIS/LISTASM3UGRATIS/58
 #EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL CHANNEL" tvg-logo="" group-title="Movies",UNIVERSAL CHANNEL
 http://iptvactivador.online:25461/LISTAM3UGRATIS/LISTASM3UGRATIS/71
-#EXTINF:-1 tvg-id="82451" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRFRnYV3DqJQhnyY7fckiS46GnsKjHD-jNa3XFzDLBMHkAG4DPl" group-title="Sport",BT Sport 2 https://mmm.sportbar.biz/lba/NmI3OTZiMzU0YmRiODMwZGNkMWY1NzZmMjNmZTA4OWI=/g3/ukbt2sport.m3u8?token=NmI3OTZiMzU0YmRiODMwZGNkMWY1NzZmMjNmZTA4OWI=&id=NWNlNjdmMTljOGI5YjJlYTg2YjdhYzdhNTMwOThhYjQ=&vip=1571038404&dip=MzQ1ZmU3OWJhMGM3YmNiYzUxYzBjN2Y0ODRkOTUwOTY=&pip=125.163.107.94&hip=M2VkYzNiMGMwZTAxYzY0NDA4ZTMxYWJhOWQ2NTRjMDA=
+
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/qa/beINSports1.qa.png" group-title="Sports",beIN Sports 1
 http://51.15.8.16:8081/arbiarb/beinsports1/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/qa/beINSports2.qa.png" group-title="Sports",beIN Sports 2
@@ -380,6 +380,10 @@ https://www.doofree88.com/streaming/uk-skysports-football_720/index.m3u8
 http://npse.brots.world/espn2.m3u8
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/nz/ESPN2.nz.png" group-title="Sports",ESPN 2
 https://gma2.blab.email/espn2.m3u8
+#EXTINF:-1,WWE HD
+https://bk7l2w4nlx53-hls-live.5centscdn.com/WWE/961ac1c875f5884f31bdd177365ef1e3.sdp/chunks.m3u8
+
+
 
 #EXTINF:-1 tvg-chno="4" tvg-id="beIN Sports 1 ARB" tvg-name="beIN SPORTS 1HD" tvg-logo="http://channelstream.net/images/prog/channel/bein_1.png" group-title="beIN SPORTS | LIVE ",beIN SPORTS 1HD
 http://topiptv.net:5890/aziz/1234/16
@@ -432,6 +436,8 @@ https://bozztv.com/36bay2/gin/giniko_bbctwo_1000kb_36bay2/index.m3u8
 http://51.52.156.22:8888/http/003
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/ITV1.uk.png" group-title="UK",ITV
 http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main1800.m3u8
+#EXTINF:11,ITV UK
+http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main600.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/ITV2.uk.png" group-title="UK",ITV 2
 http://51.52.156.22:8888/http/005
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/ITV3.uk.png" group-title="UK",ITV 3
