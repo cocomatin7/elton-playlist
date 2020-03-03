@@ -2333,5 +2333,26 @@ http://vvn.neoredi.com/iptv/ch3512?code=590138456678768&key=16615
 #EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3511.png",ESPN HD
 http://vvn.neoredi.com/iptv/ch3511?code=590138456678768&key=54244
 
+#EXTINF:-1 tvg-logo="http://images2.fanpop.com/images/photos/4300000/Thundercats-thundercats-4312341-500-313.jpgg" group-title="24/7",Random
+https://stream.allsprk.tv/live/0/index.m3u8
+#EXTINF:-1,Random 1
+https://stream.allsprk.tv/live/1/index.m3u8
+#EXTINF:-1,Random 2
+https://stream.allsprk.tv/live/2/index.m3u8
+#EXTINF:-1,Random 3
+https://stream.allsprk.tv/live/3/index.m3u8
+#EXTINF:-1,Random 4
+https://stream.allsprk.tv/live/4/index.m3u8
+#EXTINF:-1,Random 5
+https://stream.allsprk.tv/live/5/index.m3u8
+#EXTINF:-1,Random 6
+https://stream.allsprk.tv/live/6/index.m3u8
+#EXTINF:-1,Random 7
+https://stream.allsprk.tv/live/7/index.m3u8
+#EXTINF:-1,Random 8
+https://stream.allsprk.tv/live/8/index.m3u8
+#EXTINF:-1,Random 
+https://stream.allsprk.tv/live/9/index.m3u8
+
 
 
