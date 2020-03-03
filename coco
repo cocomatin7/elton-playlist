@@ -381,6 +381,8 @@ http://51.15.8.16:8081/arbiarb/beinsports12/chunks.m3u8
 https://www.doofree88.com/streaming/epl-bein1_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/th/beINSports2.th.png" group-title="Sports",beIN Sports 2 Asia
 https://www.doofree88.com/streaming/epl-bein2_720/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mZKxIBA.jpg" group-title="Sports",ERT Sports HD
+https://ert-live.siliconweb.com/media/ert_sports/ert_sportshigh.m3u8
 #EXTINF:-1 tvg-logo="http://i.pinimg.com/originals/2a/cc/ee/2accee3ed2f6c675d66001711dcbd1c4.png" group-title="Football",Premier Football 2 HD
 https://www.livedoomovies.com/02_PremierHD2_720p/chunklist2.m3u8
 #EXTINF:-1 tvg-logo="http://i.pinimg.com/originals/2a/cc/ee/2accee3ed2f6c675d66001711dcbd1c4.png" group-title="Football",Premier Football
@@ -419,6 +421,22 @@ https://www.doofree88.com/streaming/uk-skysports-f1_720/index.m3u8
 https://www.doofree88.com/streaming/uk-skysports-mainevent_720/index.m3u8
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/SkySportsMix.uk.png" group-title="Sports",Sky Sports Mix
 https://www.doofree88.com/streaming/uk-skysports-mix_480/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.mizzima.tv/wp-content/uploads/2018/03/mizzima_tv_logo_transparant.png" group-title="မြန်မာဘာသာ",Mizzima TV
+http://220.158.149.28:8180/TV00000000000000000170@HHZ
+#EXTINF:-1 tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/skynethd.png" group-title="မြန်မာဘာသာ",Skynet Sport HD
+https://www.livedoomovies.com/03_skynetsporthd_720p/chunklist2.m3u8
+#EXTINF:-1 tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/skynet1.png" group-title="မြန်မာဘာသာ",Skynet Sport 1
+https://www.livedoomovies.com/03_skynetsport1_480p/chunklist2.m3u8
+#EXTINF:-1 tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/skynet2.png" group-title="မြန်မာဘာသာ",Skynet Sport 2
+https://www.livedoomovies.com/03_skynetsport2_480p/chunklist2.m3u8
+#EXTINF:-1 tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/skynet3.png" group-title="မြန်မာဘာသာ",Skynet Sport 3
+https://www.livedoomovies.com/03_skynetsport3_480p/chunklist2.m3u8
+#EXTINF:-1 tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/skynet4.png" group-title="မြန်မာဘာသာ",Skynet Sport 4
+https://www.livedoomovies.com/03_skynetsport4_480p/chunklist2.m3u8
+#EXTINF:-1 tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/skynet5.png" group-title="မြန်မာဘာသာ",Skynet Sport 5
+https://www.livedoomovies.com/03_skynetsport5_480p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/skynet6.png" group-title="မြန်မာဘာသာ",Skynet Sport 6
+https://www.livedoomovies.com/03_skynetsport6_480p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/hr/SportKlub1.hr.png" group-title="Sports",Sport Klub 1
 http://185.180.12.34:8080/SK1HR/index.m3u8?token=test
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/hr/SportKlub2.hr.png" group-title="Sports",Sport Klub 2
@@ -1995,3 +2013,86 @@ http://live.redtraffic.xyz/threesome.m3u8
 http://live.redtraffic.xyz/russian.m3u8
 #EXTINF:0,RedTraffic Lesbian
 http://live.redtraffic.xyz/lesbian.m3u8
+
+#EXTINF:-1,BEIN SPORT HD1 L
+http://hostiptv.com:8089/roch/roch123/16330
+
+#EXTINF:-1,BEIN SPORT HD2 L
+http://hostiptv.com:8089/roch/roch123/16331
+
+#EXTINF:-1,BEIN SPORT HD4 L
+http://hostiptv.com:8089/roch/roch123/16333
+
+#EXTINF:-1,BEIN SPORT HD5 L
+http://hostiptv.com:8089/roch/roch123/16334
+
+#EXTINF:-1,BEIN SPORT HD6 L
+http://hostiptv.com:8089/roch/roch123/16335
+
+#EXTINF:-1,BEIN SPORT HD8 L
+http://hostiptv.com:8089/roch/roch123/16337
+
+#EXTINF:-1,BEIN SPORT HD9 L
+http://hostiptv.com:8089/roch/roch123/16338
+
+#EXTINF:-1,BEIN SPORT HD10 L
+http://hostiptv.com:8089/roch/roch123/16339
+
+#EXTINF:-1,BEIN SPORT  HD11 L
+http://hostiptv.com:8089/roch/roch123/16340
+
+#EXTINF:-1,BEIN SPORT  HD12 L
+http://hostiptv.com:8089/roch/roch123/16341
+
+#EXTINF:-1,BEIN SPORT  HD13 L
+http://hostiptv.com:8089/roch/roch123/16342
+
+#EXTINF:-1,BEIN SPORTS HD1
+http://hostiptv.com:8089/roch/roch123/16372
+
+#EXTINF:-1,BEIN SPORTS HD2
+http://hostiptv.com:8089/roch/roch123/16373
+
+#EXTINF:-1,BEIN SPORTS HD3
+http://hostiptv.com:8089/roch/roch123/16374
+
+#EXTINF:-1,BEIN SPORTS HD5
+http://hostiptv.com:8089/roch/roch123/16376
+
+#EXTINF:-1,beIN SPORTS NEWS HD HEVC
+http://hostiptv.com:8089/roch/roch123/16328
+
+#EXTINF:-1,BEIN SPORTS HD2 HEVC
+http://hostiptv.com:8089/roch/roch123/16344
+
+#EXTINF:-1,BEIN SPORTS HD4 HEVC
+http://hostiptv.com:8089/roch/roch123/16346
+
+#EXTINF:-1,BEIN SPORTS HD5 HEVC
+http://hostiptv.com:8089/roch/roch123/16347
+
+#EXTINF:-1,BEIN SPORTS HD8 HEVC
+http://hostiptv.com:8089/roch/roch123/16350
+
+#EXTINF:-1,BEIN SPORT  HD6 FULL HD
+http://hostiptv.com:8089/roch/roch123/16363
+
+#EXTINF:-1,BEIN SPORT  HD9 FULL HD
+http://hostiptv.com:8089/roch/roch123/16366
+
+#EXTINF:-1,BEIN SPORT  HD10 FULL HD
+http://hostiptv.com:8089/roch/roch123/16367
+
+#EXTINF:-1,beIN SPORTS 2 -4K
+http://v1.ola1iptv.com:25461/apps256/soiid5VWKx/16
+
+#EXTINF:-1,beIN SPORTS 4 -4K
+http://v1.ola1iptv.com:25461/apps256/soiid5VWKx/18
+
+#EXTINF:-1,beIN SPORTS 8 -4K
+http://v1.ola1iptv.com:25461/apps256/soiid5VWKx/22
+
+#EXTINF:-1,beIN SPORTS 10 -4K
+http://v1.ola1iptv.com:25461/apps256/soiid5VWKx/24
+
+
