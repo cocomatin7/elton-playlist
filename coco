@@ -2095,6 +2095,31 @@ http://v1.ola1iptv.com:25461/apps256/soiid5VWKx/22
 #EXTINF:-1,beIN SPORTS 10 -4K
 http://v1.ola1iptv.com:25461/apps256/soiid5VWKx/24
 
+#EXTINF:-1,beinsport1
+http://v1.ola1iptv.com:25461/apps256/soiid5VWKx/1786
+
+#EXTINF:-1,beinsport2
+http://v1.ola1iptv.com:25461/apps256/soiid5VWKx/1787
+
+#EXTINF:-1,beinsport3
+http://v1.ola1iptv.com:25461/apps256/soiid5VWKx/1788
+
+#EXTINF:-1,beinsport4
+http://v1.ola1iptv.com:25461/apps256/soiid5VWKx/1789
+
+#EXTINF:-1,beinsport hd
+http://v1.ola1iptv.com:25461/apps256/soiid5VWKx/1790
+
+#EXTINF:-1,beinsport6 sd
+http://v1.ola1iptv.com:25461/apps256/soiid5VWKx/1793
+
+#EXTINF:-1,beinsport 8 sd
+http://v1.ola1iptv.com:25461/apps256/soiid5VWKx/1794
+
+#EXTINF:-1,beinsport 9 sd
+http://v1.ola1iptv.com:25461/apps256/soiid5VWKx/1795
+
+
 #EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1860.png",BBC News
 http://vvn.neoredi.com/iptv/ch1860?code=590138456678768&key=12677
 
