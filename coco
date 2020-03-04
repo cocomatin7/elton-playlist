@@ -527,6 +527,11 @@ http://topiptv.net:5890/aziz/1234/31
 http://topiptv.net:5890/aziz/1234/32
 #EXTINF:-1 tvg-chno="21" tvg-name="beIN SPORTS NBA" tvg-logo="https://cdn.bein.net/mena/wp-content/uploads/sites/4/2015/09/NBA-3.png" group-title="beIN SPORTS | LIVE ",beIN SPORTS NBA
 http://topiptv.net:5890/aziz/1234/33
+#EXTINF:-1
+
+#EXTINF:-1,ART SPORT 2
+ott.artmott.com/ArtSport2/tracks-v1a1/mono.m3u8
+#EXTINF:-1
 
 
 
