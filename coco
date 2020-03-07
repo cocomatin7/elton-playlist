@@ -1,26 +1,26 @@
 #EXTM3U
-#EXTINF:-1,supersport 3
-http://iptv-line.com:7899/eltonjohn/0752590661/48743
-#EXTINF:-1,supersport 7
-http://iptv-line.com:7899/eltonjohn/0752590661/48739
-#EXTINF:-1,supersport 8
-http://iptv-line.com:7899/eltonjohn/0752590661/48738
-#EXTINF:-1,supersport 9
-http://iptv-line.com:7899/eltonjohn/0752590661/48737
-#EXTINF:-1,maisha magic east
-http://iptv-line.com:7899/eltonjohn/0752590661/55289
-#EXTINF:-1,mnet
-http://iptv-line.com:7899/eltonjohn/0752590661/55399
-#EXTINF:-1,mnet movies premiere
-http://iptv-line.com:7899/eltonjohn/0752590661/55394
-#EXTINF:-1,mnet plus 1
-http://iptv-line.com:7899/eltonjohn/0752590661/55402
-#EXTINF:-1,wwe superslam
-http://iptv-line.com:7899/eltonjohn/0752590661/55378
-#EXTINF:-1,MNET CITY
-http://iptv-line.com:7899/eltonjohn/0752590661/55414
-
-
+#EXTINF:-1,beinsport 1 sd
+http://vvn.neoredi.com/iptv/ch8111?code=103131497823984&key=13249
+#EXTINF:-1,beinsport 2 sd
+http://vvn.neoredi.com/iptv/ch8112?code=103131497823984&key=63339
+#EXTINF:-1,beinsport 3
+http://vvn.neoredi.com/iptv/ch8113?code=103131497823984&key=49878
+#EXTINF:-1,beinsport 4 sd
+http://vvn.neoredi.com/iptv/ch8114?code=103131497823984&key=14962
+#EXTINF:-1,beinsport 5 sd
+http://vvn.neoredi.com/iptv/ch8115?code=103131497823984&key=47227
+#EXTINF:-1,beinsport 6 sd
+http://vvn.neoredi.com/iptv/ch8116?code=103131497823984&key=41121
+#EXTINF:-1,beinsport 7 sd
+http://vvn.neoredi.com/iptv/ch8116?code=103131497823984&key=41121
+#EXTINF:-1,beinsport 8 sd
+http://vvn.neoredi.com/iptv/ch8118?code=103131497823984&key=40631
+#EXTINF:-1,beinsport 9 sd
+http://vvn.neoredi.com/iptv/ch8510?code=103131497823984&key=53286
+#EXTINF:-1,beinsport 10 sd
+http://vvn.neoredi.com/iptv/ch8511?code=103131497823984&key=40509
+#EXTINF:-1,beinsport 11 HD
+http://vvn.neoredi.com/iptv/ch512?code=103131497823984&key=62995
 
 #EXTINF:-1 tvg-logo="http://azamtv.com/tan/assets/images/logo.png" group-title="Tanzania",Azam TV 1
 https://1151586843.rsc.cdn77.org/1151586843/tracks-v1a1/mono.m3u8
