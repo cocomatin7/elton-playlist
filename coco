@@ -21,6 +21,24 @@ http://vvn.neoredi.com/iptv/ch8510?code=103131497823984&key=53286
 http://vvn.neoredi.com/iptv/ch8511?code=103131497823984&key=40509
 #EXTINF:-1,beinsport 11 HD
 http://vvn.neoredi.com/iptv/ch512?code=103131497823984&key=62995
+#EXTINF:-1,INFO SPORTS HD
+http://vvn.neoredi.com/iptv/ch250?code=103131497823984&key=56800
+#EXTINF:-1,RMC Sport 1 HD
+http://vvn.neoredi.com/iptv/ch255?code=103131497823984&key=26369
+#EXTINF:-1,RMC Sport 2 HD
+http://vvn.neoredi.com/iptv/ch253?code=103131497823984&key=49424
+#EXTINF:-1,RMC Sport 3 HD HD
+http://vvn.neoredi.com/iptv/ch254?code=103131497823984&key=63994
+#EXTINF:-1,BT Sport 1
+http://vvn.neoredi.com/iptv/ch1828?code=103131497823984&key=15416
+#EXTINF:-1,BT Sport 2 HD
+http://vvn.neoredi.com/iptv/ch1829?code=103131497823984&key=45329
+#EXTINF:-1,BT Sport 3 HD
+http://vvn.neoredi.com/iptv/ch1830?code=103131497823984&key=11598
+#EXTINF:-1,INFO SPORTS HD
+
+
+
 
 #EXTINF:-1 tvg-logo="http://azamtv.com/tan/assets/images/logo.png" group-title="Tanzania",Azam TV 1
 https://1151586843.rsc.cdn77.org/1151586843/tracks-v1a1/mono.m3u8
