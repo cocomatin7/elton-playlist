@@ -37,8 +37,8 @@ http://vvn.neoredi.com/iptv/ch1828?code=103131497823984&key=15416
 http://vvn.neoredi.com/iptv/ch1829?code=103131497823984&key=45329
 #EXTINF:-1,BT Sport 3 HD
 http://vvn.neoredi.com/iptv/ch1830?code=103131497823984&key=11598
-#EXTINF:-1,INFO SPORTS HD
-
+#EXTINF:-1,ITV 1  
+http://vvn.neoredi.com/iptv/ch1805?code=103131497823984&key=28232
 
 
 #EXTINF:-1 tvg-logo="http://azamtv.com/tan/assets/images/logo.png" group-title="Tanzania",Azam TV 1
