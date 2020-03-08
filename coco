@@ -39,7 +39,8 @@ http://vvn.neoredi.com/iptv/ch1829?code=103131497823984&key=45329
 http://vvn.neoredi.com/iptv/ch1830?code=103131497823984&key=11598
 #EXTINF:-1,ITV 1  
 http://vvn.neoredi.com/iptv/ch1805?code=103131497823984&key=28232
-
+#EXTINF:-1,EPISODE 1
+C:\Users\elton\Desktop\276b709519c88f05944c172b45e418e3-480p.mp4
 
 #EXTINF:-1 tvg-logo="http://azamtv.com/tan/assets/images/logo.png" group-title="Tanzania",Azam TV 1
 https://1151586843.rsc.cdn77.org/1151586843/tracks-v1a1/mono.m3u8
