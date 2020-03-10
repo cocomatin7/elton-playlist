@@ -1,4 +1,26 @@
 #EXTM3U
+
+#EXTINF:-1 tvg-logo="https://azamtv.co.tz/tan/thumb/c/124/70/channels/channel_image1569411147.jpg" group-title="Tanzania",Azam UTV
+https://1886448880.rsc.cdn77.org/1886448880/tracks-v1a1/mono.m3u8
+#EXTINF:-1,channel ten
+http://hls-pull-switchinternational.speedws.com/live/test1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://startv.co.tz/startvweb//templates/startvtemplate/images/startv.png" group-title="Tanzania",Star TV
+https:c4af3793bf76b33c.mediapackage.us-west-2.amazonaws.com/out/v1/1d3644d62aa24a7faa517fa2ee4dfb36/index_5.m3u8
+#EXTINF:-1,star Tollywood 
+https://dzsyqiq0bqmiv.cloudfront.net/out/v1/7a70e65e9b1248e0a4335fd0c7d490b5/index.m3u8
+#EXTINF:-1,sta movies plus 
+https://d36c5r2n2jqqur.cloudfront.net/out/v1/85bafa9bd4164584ba02d6132628a914/index.m3u8
+#EXTINF:-1,star enternainment
+https://3ae97e9482b0d011.mediapackage.us-west-2.amazonaws.com/out/v1/936a64de8b1d4b46bfcee7bd230bfd37/index.m3u8
+#EXTINF:-1,star religion
+https://dhcnmu459epi9.cloudfront.net/out/v1/ebef7cceb9ca4341b062a41e973ebafe/index.m3u8
+#EXTINF:-1,star kids
+https://dk060jrsrag5c.cloudfront.net/out/v1/09eb64a75d794f63ad7e2ee993edc619/index.m3u8
+#EXTINF:-1 
+
+
+
+
 #EXTINF:-1 tvg-id="n/a" tvg-logo="https://img.new.livestream.com/events/000000000027a5ec/047eaee7-f538-4ee0-877b-a3740f81dd2f.png" group-title="Local",DAL: Fox 4
 http://api.new.livestream.com/accounts/6395980/events/2598380/live.m3u8
 #EXTINF:-1 tvg-id="n/a" tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CNN-Logo.png" group-title="Local",US CNN
@@ -416,11 +438,6 @@ http://ok2.se:8000/bc2bF7U9uAvPVB6iY/62d2F9UKTGKoHUsDK/7319
 http://ok2.se:8000/bc2bF7U9uAvPVB6iY/62d2F9UKTGKoHUsDK/7325
 #EXTINF:-1 group-title="NEW/IND" tvg-id="n/a" tvg-logo="n/a",SET MAX (NA) (IN)
 http://ok2.se:8000/bc2bF7U9uAvPVB6iY/62d2F9UKTGKoHUsDK/3815
-
-#EXTINF:-1 tvg-logo="https://azamtv.co.tz/tan/thumb/c/124/70/channels/channel_image1569411147.jpg" group-title="Tanzania",Azam UTV
-https://1886448880.rsc.cdn77.org/1886448880/tracks-v1a1/mono.m3u8
-#EXTINF:-1,channel ten
-http://hls-pull-switchinternational.speedws.com/live/test1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.digitaltveurope.com/files/2014/12/AMCSlogo.jpg" group-title="Entertainment",Africa Movie Channel Series
 #EXTINF:-1 tvg-logo="https://www.digitaltveurope.com/files/2016/01/AMC.jpg" group-title="Entertainment",Africa Movie Channel
