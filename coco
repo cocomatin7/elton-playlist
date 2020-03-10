@@ -16,7 +16,8 @@ https://3ae97e9482b0d011.mediapackage.us-west-2.amazonaws.com/out/v1/936a64de8b1
 https://dhcnmu459epi9.cloudfront.net/out/v1/ebef7cceb9ca4341b062a41e973ebafe/index.m3u8
 #EXTINF:-1,star kids
 https://dk060jrsrag5c.cloudfront.net/out/v1/09eb64a75d794f63ad7e2ee993edc619/index.m3u8
-#EXTINF:-1 
+#EXTINF:-1,safari tv
+https://dk060jrsrag5c.cloudfront.net/out/v1/09eb64a75d794f63ad7e2ee993edc619/index.m3u8
 
 
 
@@ -315,10 +316,6 @@ http://cdnak8.cast4u.info/channels/3/10803.m3u8
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 #EXTINF:-1 tvg-id="n/a" tvg-logo="" group-title="English",US TLC HD
 https://streamidvo.multitvsolution.in/TLC_HD-a/playlist.m3u8
-#EXTINF:-1 tvg-id="n/a" tvg-logo="" group-title="English",US BEIN Movies HD 1
-http://95.170.215.120/hls/m3u8/Bein-Movies1.m3u8
-#EXTINF:-1 tvg-id="n/a" tvg-logo="" group-title="English",US BEIN Movies HD 2
-http://95.170.215.120/hls/m3u8/Bein-Movies2.m3u8
 #EXTINF:-1 tvg-id="n/a" tvg-logo=" " tvg-logo="https://imgbbb.com/images/2019/08/25/Docu-Box.jpg" group-title="English",Docu Box
 http://livecdnh3.tvanywhere.ae/hls/docubox/04.m3u8
 #EXTINF:-1 tvg-id="n/a" tvg-logo=" " tvg-logo="https://imgbbb.com/images/2019/08/25/National-GEO-People.jpg" group-title="English",National GEO People
@@ -1356,31 +1353,45 @@ http://pockettv.xyz/api/zee.m3u8?c=sanskartv
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Radio", Vividh Barathi
 http://vividhbharati-lh.akamaihd.net/i/vividhbharati_1@507811/master.m3u8
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Radio", Air Marathi
 http://airmarathi-lh.akamaihd.net/i/airmarathi_1@507815/master.m3u8
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Radio", FM Rainbow Mumbai
 http://nondelhi-lh.akamaihd.net/i/rainmumb_1@830454/master.m3u8
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Radio", FM Gold Mumbai
 http://nondelhi-lh.akamaihd.net/i/goldmumb_1@830453/master.m3u8
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Radio", Air Pune
 http://nondelhi-lh.akamaihd.net/i/airpune_1@825822/master.m3u8
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Radio", Air Pune FM
 http://airlsmp2-lh.akamaihd.net/i/AIRLSMP057_1@350382/master.m3u8
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Radio", Radio Mirchi 98.3 Mumbai
 http://mirchimumbai-lh.akamaihd.net/i/Mirchi_Mumbai@693088/index_1_a-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,TZ:RFA
+https://s3.radio.co/s8df0149e0/listen
+#EXTINF:-1,TZ:KISS FM
+https://s3.radio.co/sbe50ddddb/listen
+#EXTINF:-1,TZ:TBC TAIFA
+https://usa9-vn.mixstream.net:8080/;listen.mp3
+#EXTINF:-1,TZ:TBC FM
+http://s12.myradiostream.com:4574/;listen.mp3
+#EXTINF:-1,TZ:TBC INTERNATIONAL
+http://s18.myradiostream.com:10246/;listen.mp3
+#EXTINF:-1,TZ:CLOUDS FM
+http://eu6.fastcast4u.com:5306/
+#EXTINF:-1,TZ:WASAFI FM
+http://streamingv2.shoutcast.com/889-wasafi-fm
+#EXTINF:-1,TZ:EFM
+http://107.182.231.73:7127/efm
+#EXTINF:-1
+
+#EXTINF:-1
+
+#EXTINF:-1
+
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDc5ZmQ3MzUtYTY4OS00YTE3LTkwNmItNmQ2ODIwNWM3MzY1XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_QL50_SY1000_SX750_AL_.jpg" group-title="VOD", Tanhaji
 https://dasorto.s3.us-east-2.amazonaws.com/Tanhaji+The+Unsung+Warrior+(2020).mkv
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BNWQzNGQxY2YtNWZjOC00MGU4LTgzNTUtODliOGQzYTkxYzM1XkEyXkFqcGdeQXVyMTA5NzIyMDY5._V1_QL50_SY1000_CR0,0,691,1000_AL_.jpg" group-title="VOD", Good News
 https://firebasestorage.googleapis.com/v0/b/light-lacing-247408.appspot.com/o/bolle%2FGood%20Newz%2FHDMovieshub.club%20-%20Good%20Newwz.720p.AMZN.WEB-DL.800MB.H.264.mkv?alt=media&token=7884a6e6-5200-470c-8bbf-c8cba83ca442
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDY4NDU4YjgtNWU1OS00YTVhLWJhY2MtMjEzOGY0YTU1OWVkXkEyXkFqcGdeQXVyNzkxOTEyMjI@._V1_QL50_SY1000_SX750_AL_.jpg" group-title="VOD", Commando 3
 https://www.dropbox.com/s/uyfpusgtzemz6m5/www.benytv.xyz-Commando-3-1080P-Hindi.mkv?dl=1
 
