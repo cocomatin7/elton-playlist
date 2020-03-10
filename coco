@@ -669,10 +669,6 @@ http://livecdnh1.tvanywhere.ae:80/hls/star_movies/05.m3u8
 https://mgm-ssai.akamaized.net/amagi_hls_data_mgmAAAAAA-theworks/CDN/720x404_1425600/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/MoviesNow.in.png" group-title="Movies",Movies Now
 https://timesnow.airtel.tv/live/MN_pull/master.m3u8 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/MNX2.in.png" group-title="Movies",MNX Movies
-https://timesnow.airtel.tv/live/MNX_pull/master.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/SonyPix.in.png" group-title="Movies",Sony Pix
-https://streamer-1.toffeelive.com/live/sony_pix_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/SonyMoviesChristmas.uk.png" group-title="Movies",Sony Movies
 http://51.52.156.22:8888/http/009
 #EXTINF:-1,FOX LIFE
@@ -743,9 +739,9 @@ http://vvn.neoredi.com/iptv/ch8510?code=103131497823984&key=53286
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/qa/beINSports10.qa.png" group-title="Sports",beIN Sports 10
 http://vvn.neoredi.com/iptv/ch8511?code=103131497823984&key=40509
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/qa/beINSports11.qa.png" group-title="Sports",beIN Sports 11
-http://4kiptv.vip:25461/TdtiD71aLZXevxy/ZdCEc6g3LcEazdM/5241
+http://vvn.neoredi.com/iptv/ch512?code=103131497823984&key=62995
 #EXTINF:-1,INFO SPORTS HD
-http://4kiptv.vip:25461/TdtiD71aLZXevxy/ZdCEc6g3LcEazdM/49243
+http://vvn.neoredi.com/iptv/ch250?code=103131497823984&key=56800
 #EXTINF:-1,RMC Sport 1 HD
 http://vvn.neoredi.com/iptv/ch255?code=103131497823984&key=26369
 #EXTINF:-1,RMC Sport 2 HD
