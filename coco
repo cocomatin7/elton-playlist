@@ -1381,12 +1381,21 @@ http://eu6.fastcast4u.com:5306/
 http://streamingv2.shoutcast.com/889-wasafi-fm
 #EXTINF:-1,TZ:EFM
 http://107.182.231.73:7127/efm
-#EXTINF:-1,trial
-http://cloudFront-video.gslb.startimestv.com/live/Wasafi_968_250_320x240_196854/5770732
+#EXTINF:-1,TZ:TIMES FM
+http://154.66.224.11:8000/Timesfm
+#EXTINF:-1,TZ:RADIO ONE
+http://radioonetanzania.radioca.st/stream
+#EXTINF:-1,TZ:CHOICE FM
+http://51.255.235.165:5362/
+#EXTINF:-1,TZ:EAST AFRICA RADIO
+http://eatv.radioca.st/stream
+#EXTINF:-1,UK:CAPITAL FM MANCHERSTER
+http://media-ice.musicradio.com:80/CapitalManchester
+#EXTINF:-1,UK:TALKSPORT RADIO
+http://radio.talksport.com/stream
+#EXTINF:-1,UK:TALKSPORT 2 RADIO
+http://radio.talksport.com/stream2
 #EXTINF:-1
-
-#EXTINF:-1
-
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDc5ZmQ3MzUtYTY4OS00YTE3LTkwNmItNmQ2ODIwNWM3MzY1XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_QL50_SY1000_SX750_AL_.jpg" group-title="VOD", Tanhaji
 https://dasorto.s3.us-east-2.amazonaws.com/Tanhaji+The+Unsung+Warrior+(2020).mkv
