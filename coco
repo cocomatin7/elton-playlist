@@ -1382,8 +1382,7 @@ http://streamingv2.shoutcast.com/889-wasafi-fm
 #EXTINF:-1,TZ:EFM
 http://107.182.231.73:7127/efm
 #EXTINF:-1,trial
-http://s12.myradiostream.com:4574/;listen.mp3
-
+http://cloudFront-video.gslb.startimestv.com/live/Wasafi_968_250_320x240_196854/5770732.ts
 #EXTINF:-1
 
 #EXTINF:-1
