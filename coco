@@ -1381,7 +1381,8 @@ http://eu6.fastcast4u.com:5306/
 http://streamingv2.shoutcast.com/889-wasafi-fm
 #EXTINF:-1,TZ:EFM
 http://107.182.231.73:7127/efm
-#EXTINF:-1
+#EXTINF:-1,trial
+http://s12.myradiostream.com:4574/;listen.mp3
 
 #EXTINF:-1
 
