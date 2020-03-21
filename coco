@@ -1,9 +1,19 @@
 #EXTM3U
-
+EXTINF:-1 tvg-logo="http://azamtv.com/tan/assets/images/logo.png" group-title="Tanzania",Azam TV 1
+https://1599637243.rsc.cdn77.org/1599637243/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://azamtv.com/tan/assets/images/logo.png" group-title="Tanzania",Azam TV 2
+https://1779763728.rsc.cdn77.org/1656669498/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://azamtv.com/tan/assets/images/azam_hd1d.png" group-title="Tanzania",Azam Sports HD
+https://1046528484.rsc.cdn77.org/1046528484/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://azamtv.com/tan/thumb/c/124/70/channels/channel_image1508329528.png" group-title="Tanzania",Azam Sports 2
 https://1812661481.rsc.cdn77.org/1812661481/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://azamtv.co.tz/tan/thumb/c/124/70/channels/channel_image1569411147.jpg" group-title="Tanzania",Azam UTV
 https://1886448880.rsc.cdn77.org/1886448880/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://azamtv.co.tz/tan/thumb/c/124/70/channels/channel_image1445504028.jpg"group-title="Tanzania",ZBC 2 
+https://1367936109.rsc.cdn77.org/1367936109/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DYLftywVQAIHKS4.jpg" group-title="Tanzania",Wasafi tv
+#EXTINF:-1,sinema zetu
+https://1122725381.rsc.cdn77.org/1122725381/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://channeten.co.tz/tan/chanel_image.jpg" group-tittle="Tanzania",Chanel ten
 http://hls-pull-switchinternational.speedws.com/live/test1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://startv.co.tz/startvweb//templates/startvtemplate/images/startv.png" group-title="Tanzania",Star TV
@@ -940,6 +950,7 @@ https://stream.ecable.tv/afc/BANDAKANY.mp4/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://nbs.ug/wp-content/uploads/2019/08/NBS-TV-Logo-1.png" group-title="Uganda",NBS
+http://1641497600.rsc.cdn77.org/1641497600/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.ntv.co.ug/image/view/-/4552762/data/1967367/-/bom96qz/-/logoMain.png" group-title="Uganda",NTV Uganda
 http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/47789.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/bigeye.ug/wp-content/uploads/2015/11/abs-tv.png" group-title="Uganda",ABS TV
@@ -947,8 +958,11 @@ https://1572241182.rsc.cdn77.org/1572241182/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1068883900326440960/EOSPO0Uv_400x400.jpg" group-title="Uganda",Baba TV
 https://1394530432.rsc.cdn77.org/1394530432/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://bangafi.com/wp-content/uploads/2018/06/BBS_lrg.jpg"group-title="Uganda",BBS TV
+https://1949201381.rsc.cdn77.org/1949201381/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://scontent.fdar5-1.fna.fbcdn.net/v/t31.0-8/s960x960/1265003_407804016008462_2031868846_o.jpg?_nc_cat=103&_nc_oc=AQk6wdphL_kbhwkIyYQ2cROjkMgoxUw2YxNxyfE3Re3Ss_KsRg0rOz-GjrjrjQFvEYo&_nc_ht=scontent.fdar5-1.fna&oh=0ed2992a0bbc5c15dc8d4ce8efa86c35&oe=5E935666" group-title="Uganda",Bunyoro
+https://1736512303.rsc.cdn77.org/1736512303/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.yellow.ug/img/ug/r/1541711681-25-channel-44-television.png" group-title="Uganda",Channel 44
+https://1628512558.rsc.cdn77.org/1628512558/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://azamtv.com/tan/thumb/c/124/70/channels/channel_image1453372301.jpg" group-title="Uganda",Delta TV
 #EXTINF:-1 tvg-logo="http://imc.ug/images/dreamx.png" group-title="Uganda",Dream TV
 http://128.199.114.2:8080/hls/stream.m3u8
@@ -959,6 +973,7 @@ https://1053392593.rsc.cdn77.org/1053392593/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://thedronemedia.ug/wp-content/uploads/2017/07/salt.png" group-title="Uganda",Salt TV
 http://dcunilive38-lh.akamaihd.net/i/dclive_1@692676/index_150_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/www.bigeye.ug/wp-content/uploads/2013/09/top-tv-uganda-logo.jpg" group-title="Uganda",TOP TV
+https://1534044618.rsc.cdn77.org/1534044618/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://tvwest.co.ug/wp-content/uploads/2017/03/WORD-1-300x286.png" group-title="Uganda",TV West
 https://1348158211.rsc.cdn77.org/1348158211/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://urbantv.co.ug/wp-content/uploads/2019/11/Urban-Log.png" group-title="Uganda",Urban TV
