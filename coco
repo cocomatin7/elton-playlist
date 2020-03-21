@@ -420,34 +420,24 @@ http://livecdnh2.tvanywhere.ae/hls/mbc_bolly/03.m3u8
 http://livecdnh3.tvanywhere.ae/hls/mbcmax/04.m3u8
 #EXTINF:-1,E ENTAIRNMENT
 http://ott.artmott.com/E!/tracks-v1a1/mono.m3u8
-#EXTINF:-1,sony entairnment
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://d1or4efq32i6bx.cloudfront.net/logo/4_153.png" group-title="Entertainment", Sony SD
 http://1959377946.rsc.cdn77.org/1959377946/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Sony max
+#EXTINF:-1,#EXTINF:-1 tvg-id="n/a" tvg-logo="" group-title="Entertainment",Sony Max 
 http://1132864118.rsc.cdn77.org/1132864118/index.m3u8
-#EXTINF:-1,Colors tv SD
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Colors_tv2017.png" group-title="Entertainment",IN Colors SD 
 http://1784075063.rsc.cdn77.org/1784075063/index.m3u8
 http://ndasat.net:8000/live/493093298206867/1593574628/6876.m3u8 
-#EXTINF:-1,E ENTAIRNMENT
-http://ott.artmott.com/E!/tracks-v1a1/mono.m3u8
-#EXTINF:-1,sony entairnment
 #EXTINF:-1,ZEE BOLLYWOOD
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/classic/index.m3u8
-#EXTINF:-1,STAR PLUS HD
+#EXTINF:0 tvg-id="1132" tvg-logo="https://www.startv.com/media/3356/star-plus-hd_800x600.png" "Entertainment",Star Plus HD
 https://itpolly.iptv.digijadoo.net/live/star_plus/chunks.m3u8
-#EXTINF:-1,STAR GOLD
-https://itpolly.iptv.digijadoo.net/live/star_gold/chunks.m3u8
-#EXTINF:-1,COLORS HD
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Colors_tv2017.png" group-title="Entertainment",IN Colors HD
 https://itpolly.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
-#EXTINF:-1,ZEE CINEMA HD
+#EXTINF:-1 tvg-id="n/a"  tvg-logo="" group-title="Entertainment", Zee Cinema
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zcinemahd/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ca/HGTV.ca.png" group-title="Entertainment",HGTV
 https://liveanevia.mncnow.id/live/eds/HGTV/sa_hls/HGTV-avc1_2499968=12-HGTV-mp4a_98800_eng=3.m3u8
-#EXTINF:-1 tvg-logo="https://st
-#EXTINF:-1,ZEE BOLLYWOOD
-http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/classic/index.m3u8
-#EXTINF:-1,STAR PLUS HD
-https://itpolly.iptv.digijadoo.net/live/star_plus/chunks.m3u8
-#EXTINF:-1,STAR GOLD
+#EXTINF:-1 tvg-id="n/a"  tvg-logo="" group-title="Entertainment", Star Gold
 https://itpolly.iptv.digijadoo.net/live/star_gold/chunks.m3u8
 #EXTINF::-1 tvg-logo="https://static.iptv-epg.com/br/Lifetime.br.png" group-title="Entertainment",Lifetime
 https://liveanevia.mncnow.id/live/eds/Lifetime/sa_hls/Lifetime.m3u8
@@ -552,16 +542,14 @@ http://d2ktlibtvvj8vp.cloudfront.net/trace_africa/4/prog_index.m3u8
 http://d2ktlibtvvj8vp.cloudfront.net/trace_naija/4/prog_index.m3u8
 #EXTINF:-1 tvg-logo="https://trace.tv/trace-tropical/wp-content/uploads/sites/25/2016/11/logo_tropical-1.png" group-title="music",Trace tropical
 https://d2ktlibtvvj8vp.cloudfront.net/trace_tropical/6/prog_index.m3u8
-#EXTINF:-1,Trace urban
+#EXTINF:-1 tvg-logo="https://trace.company/wp-content/uploads/2017/08/TRACE-logo-urban-01-1.png" group-title="music",Traceurban
 https://d2ktlibtvvj8vp.cloudfront.net/trace_urbaninter/3/prog_index.m3u8
 #EXTINF:-1 tvg-logo="https://trace.company/wp-content/uploads/2017/08/TRACE-logo-kitoko-01-1.png" group-title="music",Tracekitoko
-http://d2ktlibtvvj8vp.cloudfront.net/trace_kitoko/6/prog_index.m3u8
+http://d2ktlibtvvj8vp.cloudfront.net/trace_kitoko/3/prog_index.m3u8
 #EXTINF:-1,MTV BASE
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 #EXTINF:-1,MTV DANCE
 http://91.149.172.100:80/channel?id=20&u=demo&p=demo
-#EXTINF:-1 tvg-logo="http://www.arte.tv/sites/en/corporate/files/logo-arte-concert_rose_2l.png" group-title="Music",Arte Concert
-http://84.22.33.254/unicast.arte/index.m3u8
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-gqqocQj-_pI/VRLfFV1bJFI/AAAAAAAAARI/vHexq1CZ3r8/s1600/CMC-Music-Channel.png" group-title="Music",California Music Channel
 https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/en/b/b7/9XOEnglishMusicTelevisionChannelLogo.jpg" group-title="Music",9XO
