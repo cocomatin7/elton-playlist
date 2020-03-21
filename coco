@@ -418,8 +418,6 @@ http://livecdnh3.tvanywhere.ae:80/hls/mbcaction/index.m3u8
 http://livecdnh2.tvanywhere.ae/hls/mbc_bolly/03.m3u8
 #EXTINF:-1 tvg-id="MBC Max ARB" tvg-name="MBC Max ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/X6EliFm.png" group-title="Movies",MBC Max HD
 http://livecdnh3.tvanywhere.ae/hls/mbcmax/04.m3u8
-#EXTINF:-1,E ENTAIRNMENT
-http://ott.artmott.com/E!/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="n/a" tvg-logo="https://d1or4efq32i6bx.cloudfront.net/logo/4_153.png" group-title="Entertainment", Sony SD
 http://1959377946.rsc.cdn77.org/1959377946/tracks-v1a1/mono.m3u8
 #EXTINF:-1,#EXTINF:-1 tvg-id="n/a" tvg-logo="" group-title="Entertainment",Sony Max 
@@ -427,7 +425,7 @@ http://1132864118.rsc.cdn77.org/1132864118/index.m3u8
 #EXTINF:-1 tvg-id="n/a" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Colors_tv2017.png" group-title="Entertainment",IN Colors SD 
 http://1784075063.rsc.cdn77.org/1784075063/index.m3u8
 http://ndasat.net:8000/live/493093298206867/1593574628/6876.m3u8 
-#EXTINF:-1,ZEE BOLLYWOOD
+#EXTINF:-1 tvg-id="n/a" tvg-logo="" group-title="Entertainment",IN Zee Bollywood
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/classic/index.m3u8
 #EXTINF:0 tvg-id="1132" tvg-logo="https://www.startv.com/media/3356/star-plus-hd_800x600.png" "Entertainment",Star Plus HD
 https://itpolly.iptv.digijadoo.net/live/star_plus/chunks.m3u8
@@ -461,11 +459,11 @@ https://d2ktlibtvvj8vp.cloudfront.net/trace_sportsstars/4/prog_index.m3u8
 http://109.231.229.37:3401/voxafuk/voxafhlsout/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://wfc.tv/images/Logo-WF.png" group-title="Entertainment",World Fashion TV 
 http://wfc.bonus-tv.ru:80/cdn/wfcint/tracks-v2a1/index.m3u8
-#EXTINF:-1,ZEE EFC
+#EXTINF:-1 tvg-id="n/a" tvg-logo="" group-title="Entertainment",IN/Music Zee ETC
 http://ndasat.net:8000/live/493093298206867/1593574628/6880.m3u8
-#EXTINF:-1,Zee TV HD
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.googleapis.com/drive/v3/files/1C3H1rpuQosfXgHwk_X4X_YRBl151rIUl?alt=media&key=AIzaSyCBCEkxRT6ylhJS4XTS3-iy0zA0Y9UzV8E" group-title="Entertainment", Zee TV SD
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zeetvhd/index.m3u8
-#EXTINF:-1,&TV HD
+#EXTINF:-1 tvg-id="Andtv HD" tvg-logo="https://www.googleapis.com/drive/v3/files/1EA0AyGmJA_l5UdaaEM8SOR1WzjPxjjM-?alt=media&key=AIzaSyCBCEkxRT6ylhJS4XTS3-iy0zA0Y9UzV8E" group-title="Entertainment", &TV HD
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andtvhd/index.m3u8
 #EXTINF:-1,MUSIC INDIA
 http://ndasat.net:8000/live/493093298206867/1593574628/6845.m3u8
