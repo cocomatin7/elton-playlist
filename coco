@@ -592,14 +592,6 @@ http://ms-azure-video.gslb.startimestv.com/live/JIMJAM_890_500_480x360_194010/pl
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?advertisingId=&appName=web&appVersion=2.9.4-5a4e0d260864cab32bb296709789424ab48df204&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=954c037d-1a11-44d3-b488-9d06f8a3e068&deviceLat=33.9560&deviceLon=-118.3887&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=81.0.4044.26&includeExtendedEvents=false&sid=e6f1682e-cc62-437a-bd0d-082bea9a4059&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/sa/NickJr.sa.png" group-title="Kids/Animation",Nick Jr
 https://liveanevia.mncnow.id/live/eds/NickJr/sa_hls/NickJr-avc1_1000000=8-mp4a_98800_eng=4.m3u8
-#EXTINF:-1,NICKELODEON
-http://185.176.117.242/live/eds/Nickelodeon/HLS_encr/Nickelodeon.m3u8
-#EXTINF:-1,DISNEY CHANEL
-http://185.176.117.242/live/eds/Disney_Channel/HLS_encr/index.m3u8
-#EXTINF:-1,DISNEY JUNIOR
-https://anevia115.mncnow.id/live/eds/DisneyJunior/sa_hls/DisneyJunior.m3u8
-#EXTINF:0 "Kids/Animation",Boomerang
-http://livecdnh3.tvanywhere.ae/hls/boomerang/04.m3u8
 #EXTINF:21,Pluto TV Kids
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/51c75f7bb6f26ba1cd00002f/master.m3u8?advertisingId=&appName=web&appVersion=2.9.4-5a4e0d260864cab32bb296709789424ab48df204&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=954c037d-1a11-44d3-b488-9d06f8a3e068&deviceLat=33.9560&deviceLon=-118.3887&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=81.0.4044.26&includeExtendedEvents=false&sid=e6f1682e-cc62-437a-bd0d-082bea9a4059&userId=&serverSideAds=true
 #EXTINF:-1,Discovery Kids
@@ -609,13 +601,13 @@ https://sony247channels.akamaized.net/hls/live/2011746/SonyYaySD/master.m3u8?hdn
 https://streamer-1.toffeelive.com/live/sony_yay_720/index.m3u8
 #EXTINF:-1, Shemaroo Kids
 https://livechannel.shemaroome.com/linearplayout/kids-linear-channel/chunklist_1280x720_cf.m3u8
-#EXTINF:0 "Kids",Boomerang
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/de/Boomerang.de.png" group-title="Kids/Animation",Boomerang
 http://livecdnh3.tvanywhere.ae/hls/boomerang/04.m3u8
-#EXTINF:-1,Cartoon Network
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/de/CartoonNetwork.de.png" group-title="Kids/Animation",Cartoon Network
 http://av.xemtivinet.net:8080/hls/cartoon/index.m3u8
-#EXTINF:-1,Disney
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ee/DisneyChannel.ee.png" group-title="Kids/Animation",Disney Channel
 http://ott.artmott.com/DisneyChannel/tracks-v1a1/mono.m3u8
-#EXTINF:-1,FIX AND FOX
+#EXTINF:-1 tvg-logo="http://www.fixundfoxi.tv/fileadmin/img/logo.png" group-title="Kids/Animation",Fix & Foxi
 http://1301485333.rsc.cdn77.org/1301485333/index.m3u8 
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/NatGeoWild.us.png" group-title="Learning",National Geo Wild
@@ -752,6 +744,16 @@ http://vvn.neoredi.com/iptv/ch8510?code=103131497823984&key=53286
 http://vvn.neoredi.com/iptv/ch8511?code=103131497823984&key=40509
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/qa/beINSports11.qa.png" group-title="Sports",beIN Sports 11
 http://vvn.neoredi.com/iptv/ch512?code=103131497823984&key=62995
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/afc53720-a686-4376-8ab3-a910f1821c0e_original.png" group-title="SPORTS",True Premier Football 1
+https://tv4.chang55.com/live2/tv4ch10.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/afc53720-a686-4376-8ab3-a910f1821c0e_original.png" group-title="SPORTS",True Premier Football 2
+https://tv4.chang55.com/live2/tv4ch11.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/afc53720-a686-4376-8ab3-a910f1821c0e_original.png" group-title="SPORTS",True Premier Football 3
+https://tv4.chang55.com/live2/tv4ch12.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD4.png" group-title="SPORTS",True Premier Football 4
+https://tv4.chang55.com/live2/tv4ch13.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/afc53720-a686-4376-8ab3-a910f1821c0e_original.png" group-title="SPORTS",True Premier Football 5
+https://tv4.chang55.com/live2/tv4ch14.stream/chunks.m3u8
 
 
 
