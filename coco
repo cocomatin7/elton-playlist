@@ -744,16 +744,27 @@ http://vvn.neoredi.com/iptv/ch8510?code=103131497823984&key=53286
 http://vvn.neoredi.com/iptv/ch8511?code=103131497823984&key=40509
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/qa/beINSports11.qa.png" group-title="Sports",beIN Sports 11
 http://vvn.neoredi.com/iptv/ch512?code=103131497823984&key=62995
-#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/afc53720-a686-4376-8ab3-a910f1821c0e_original.png" group-title="SPORTS",True Premier Football 1
-https://tv4.chang55.com/live2/tv4ch10.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/afc53720-a686-4376-8ab3-a910f1821c0e_original.png" group-title="SPORTS",True Premier Football 2
-https://tv4.chang55.com/live2/tv4ch11.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/afc53720-a686-4376-8ab3-a910f1821c0e_original.png" group-title="SPORTS",True Premier Football 3
-https://tv4.chang55.com/live2/tv4ch12.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD4.png" group-title="SPORTS",True Premier Football 4
-https://tv4.chang55.com/live2/tv4ch13.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/afc53720-a686-4376-8ab3-a910f1821c0e_original.png" group-title="SPORTS",True Premier Football 5
-https://tv4.chang55.com/live2/tv4ch14.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0jdg1c6r/th1.png" group-title="Sports 2",Premier Football HD 1
+https://www.livedoomovies.com/02_PremierHD1_720p/chunklist2.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QCqzyCPT/th2.png" group-title="Sports 2",Premier Football HD 2
+https://www.livedoomovies.com/02_PremierHD2_720p/chunklist2.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ncHgQKjY/th3.png" group-title="Sports 2",Premier Football HD 3
+https://www.livedoomovies.com/02_PremierHD3_720p/chunklist2.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fyM2mZLT/th4.png" group-title="Sports 2",Premier Football HD 4
+https://www.livedoomovies.com/02_PremierHD4_720p/chunklist2.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/1RKYPgCg/th5.png" group-title="Sports 2",Premier Football HD 5
+https://www.livedoomovies.com/02_PremierHD5_720p/chunklist2.m3u8
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/rs/Arenasport1.rs.png" group-title="Sports 2",Arena Sports 1
+http://ott.artmott.com/ArenaSport1MW/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/rs/Arenasport2.rs.png" group-title="Sports 2",Arena Sports 2
+http://185.180.12.34:8080/ARENA2HR/index.m3u8?token=test
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/rs/Arenasport3.rs.png" group-title="Sports 2",Arena Sports 3
+http://185.180.12.34:8080/ARENA3HR/index.m3u8?token=test
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/rs/Arenasport4.rs.png" group-title="Sports 2",Arena Sports 4
+http://185.180.12.34:8080/ARENA4HR/index.m3u8?token=test
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/rs/Arenasport5.rs.png" group-title="Sports 2",Arena Sports 5
+http://ott.artmott.com/ArenaSport5MW/tracks-v1a1/mono.m3u8
 
 
 
