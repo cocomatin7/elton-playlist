@@ -729,8 +729,6 @@ https://sony247channels.akamaized.net/hls/live/2011747/AXNHD/master.m3u8?hdnea=e
 http://cdnak8.cast4u.info/channels/2/10802.m3u8
 #EXTINF:-1 tvg-id="n/a" tvg-logo="" group-title="Movies",USA TV HD
 http://cdnak8.cast4u.info/channels/4/10803.m3u8
-
-
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/SsVKw4nd/Screenshot-89.png" group-title="Movies",FILM BOX
 https://1648401168.rsc.cdn77.org/1648401168/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/SsVKw4nd/Screenshot-89.png" group-title="Movies",FILM BOX ARTHOUSE
@@ -779,6 +777,31 @@ http://185.180.12.34:8080/ARENA3HR/index.m3u8?token=test
 http://185.180.12.34:8080/ARENA4HR/index.m3u8?token=test
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/rs/Arenasport5.rs.png" group-title="Sports 2",Arena Sports 5
 http://ott.artmott.com/ArenaSport5MW/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Abudhabi Sports 1
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports1
+#EXTINF:-1,Abudhabi Sports 2
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports2
+#EXTINF:-1,Abudhabi Sports 3
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports3
+#EXTIINF:-1,Abudhabi Sports 4
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports4
+#EXTINF:-1,Alkass sport 1
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1 
+#EXTINF:-1,Alkass sport 2
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2 
+#EXTINF:-1,Alkass sport 3
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3
+#EXTINF:-1,Alkass sport 4
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4
+#EXTINF:-1,Alkass sport 5
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5
+#EXTINF:-1,Dubai Sports 1
+http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
+#EXTINF:-1,Dubai Sports 2
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1300000.m3u8?
+#EXTINF:-1,Dubai Sports 3
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8?
+
 
 
 
