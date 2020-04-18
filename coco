@@ -2782,5 +2782,1462 @@ http://iptvtree.net:8080/zhongjin/82394d2392a2/7564
 #EXTINF:-1,AR: beIN Sports 3 HD
 http://iptvtree.net:8080/zhongjin/82394d2392a2/102
 
-
+#EXTINF:-1 tvg-ID="" tvg-name=" ONE TV SD" tvg-logo="" group-title="reda2020", ONE TV SD
+http://iptvpro.vision-new.org:8789/reda2020/reda2020/23328
+#EXTINF:-1 tvg-ID="" tvg-name=" RMC STORY SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/3e/RMC_Story_logo_2018.svg/1200px-RMC_Story_logo_2018.svg.png" group-title="reda2020", RMC STORY SD
+http://iptvpro.vision-new.org:8789/reda2020/reda2020/23336
+#EXTINF:-1 tvg-ID="Non Stop People FR" tvg-name=" NON STOP PEOPLE TV SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Logo_d%C3%A9riv%C3%A9_Non_Stop_People.png" group-title="reda2020", NON STOP PEOPLE TV SD
+http://iptvpro.vision-new.org:8789/reda2020/reda2020/23323
+#EXTINF:-1 tvg-ID="" tvg-name=" CLIQUE TV SD" tvg-logo="https://static.wixstatic.com/media/5406f2_baa48ccde3e44b3faf2ea8c337defe8d~mv2.jpg/v1/fill/w_328,h_276,al_c,q_80,usm_0.66_1.00_0.01/5406f2_baa48ccde3e44b3faf2ea8c337defe8d~mv2.webp" group-title="reda2020", CLIQUE TV SD
+http://iptvpro.vision-new.org:8789/reda2020/reda2020/23288
+#EXTINF:-1 tvg-ID="" tvg-name=" GRAND LILLE TV SD" tvg-logo="" group-title="reda2020", GRAND LILLE TV SD
+http://iptvpro.vision-new.org:8789/reda2020/reda2020/23307
+#EXTINF:-1 tvg-ID="NRJ 12 FR" tvg-name=" NRJ12 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/9/93/NRJ_12_logo_2015.svg/100px-NRJ_12_logo_2015.svg.png" group-title="reda2020", NRJ12 SD
+http://iptvpro.vision-new.org:8789/reda2020/reda2020/1019
+#EXTINF:-1 tvg-ID="ElleGirl FR" tvg-name=" ELLE GIRLS SD" tvg-logo="http://163.172.27.155/logo_plus/FRANCE/ELLEGIRLHD.png" group-title="reda2020", ELLE GIRLS SD
+http://iptvpro.vision-new.org:8789/reda2020/reda2020/23300
+#EXTINF:-1 tvg-ID="BET FR" tvg-name=" BET SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/BET_Logo.svg/200px-BET_Logo.svg.png" group-title="reda2020", BET SD
+http://iptvpro.vision-new.org:8789/reda2020/reda2020/23279
+#EXTINF:-1 tvg-ID="Viceland FR" tvg-name=" VICELAND TV SD" tvg-logo="https://i.pinimg.com/474x/44/1e/59/441e59fcee264e09ab7d3946eabca5bb--logo-marque-wordmark.jpg" group-title="reda2020", VICELAND TV SD
+http://iptvpro.vision-new.org:8789/reda2020/reda2020/23350
+#EXTINF:-1 tvg-ID="Cherie 25 FR" tvg-name=" CHERIE 25 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/f/f0/Ch%C3%A9rie_25_logo_2015.svg/120px-Ch%C3%A9rie_25_logo_2015.svg.png" group-title="reda2020", CHERIE 25 SD
+http://iptvpro.vision-new.org:8789/reda2020/reda2020/1027
+#EXTINF:-1 tvg-ID="" tvg-name=" VIA GRAND PARIS SD" tvg-logo="https://pbs.twimg.com/profile_images/956193130784665605/H8XcaR2r_400x400.jpg" group-title="reda2020", VIA GRAND PARIS SD
+http://iptvpro.vision-new.org:8789/reda2020/reda2020/23349
+#EXTINF:-1 tvg-ID="TF1 Series Film FR" tvg-name=" TF1 SÉRIES FILMS SD" tvg-logo="http://163.172.27.155/logo_plus/FRANCE/TF1SERIESFILMSHD.png" group-title="reda2020", TF1 SÉRIES FILMS SD
+http://iptvpro.vision-new.org:8789/reda2020/reda2020/1022
+#EXTINF:-1 tvg-ID="Canal 8 FR" tvg-name=" C8 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/7/7d/Logo_C8.svg/150px-Logo_C8.svg.png" group-title="reda2020", C8 SD
+http://iptvpro.vision-new.org:8789/reda2020/reda2020/188
+#EXTINF:-1 tvg-ID="Canal Star FR" tvg-name=" CSTAR SD" tvg-logo="http://163.172.27.155/logo_plus/FRANCE/CSTARHD.png" group-title="reda2020", CSTAR SD
+http://iptvpro.vision-new.org:8789/reda2020/reda2020/23291
+#EXTINF:-1 tvg-ID="Weo TV FR" tvg-name=" WEO SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/Logo_WEO_TV_2013-2014.png" group-title="reda2020", WEO SD
+http://iptvpro.vision-new.org:8789/reda2020/reda2020/23352
+#EXTINF:-1 tvg-ID="RTL 9 FR" tvg-name=" RTL9 SD" tvg-logo="http://163.172.27.155/logo_plus/FRANCE/RTL9HD.png" group-title="reda2020", RTL9 SD
+http://iptvpro.vision-new.org:8789/reda2020/reda2020/1029
+#EXTINF:-1 tvg-ID="tfx.fr" tvg-name=" TFX SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/8/83/TFX_logo_2018.svg/200px-TFX_logo_2018.svg.png" group-title="reda2020", TFX SD
+http://iptvpro.vision-new.org:8789/reda2020/reda2020/1015
+#EXTINF:-1 tvg-ID="W9 FR" tvg-name=" W9 SD" tvg-logo="http://163.172.27.155/logo_plus/FRANCE/W9.png" group-title="reda2020", W9 SD
+http://iptvpro.vision-new.org:8789/reda2020/reda2020/421
+#EXTINF:-1 tvg-ID="PlanetePlus FR" tvg-name=" PLANETE SD" tvg-logo="https://tel.img.pmdstatic.net/fit/http.3A.2F.2Fimages.2Eone.2Eprismamedia.2Ecom.2Fchannel.2F9.2F4.2F5.2F5.2Fc.2F9.2F2.2Fa.2F2.2Fb.2F4.2F4.2Fa.2F1.2F1.2F1.2Epng/1200x630/crop-from/top/quality/80/planete.png" group-title="reda2020", PLANETE SD
+http://iptvpro.vision-new.org:8789/reda2020/reda2020/23331
+#EXTINF:-1 tvg-ID="PlanetePlus CrimeplusInvestigation FR" tvg-name=" PLANETE  CI SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/49/Planete_Plus_CI_2017.png/150px-Planete_Plus_CI_2017.png" group-title="reda2020", PLANETE  CI SD
+http://iptvpro.vision-new.org:8789/reda2020/reda2020/23333
+#EXTINF:-1 tvg-ID="PlanetePlus Action and Experience FR" tvg-name=" PLANETE  A&E SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/PLAN%C3%88TE%2B_A%26E.png/180px-PLAN%C3%88TE%2B_A%26E.png" group-title="reda2020", PLANETE  A&E SD
+http://iptvpro.vision-new.org:8789/reda2020/reda2020/23332
+#EXTINF:-1 tvg-ID="Discovery Channel FR" tvg-name=" DISCOVERY CHANNEL SD" tvg-logo="http://163.172.27.155/logo_plus/FRANCE/DISCOVERYHD.png" group-title="reda2020", DISCOVERY CHANNEL SD
+http://iptvpro.vision-new.org:8789/reda2020/reda2020/23293
+#EXTINF:-1 tvg-ID="Discovery Science FR" tvg-name=" DISCOVERY SCIENCES SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Discovery_science_new_logo_2017.png/180px-Discovery_science_new_logo_2017.png" group-title="reda2020", DISCOVERY SCIENCES SD
+http://iptvpro.vision-new.org:8789/reda2020/reda2020/23296
+#EXTINF:-1 tvg-ID="Discovery Investigation FR" tvg-name=" DISCOVERY INVESTIGATIONS SD" tvg-logo="http://163.172.27.155/logo_plus/FRANCE/DISCOVERYINVESTIGATIONHD.png" group-title="reda2020", DISCOVERY INVESTIGATIONS SD
+http://iptvpro.vision-new.org:8789/reda2020/reda2020/23295
+#EXTINF:-1 tvg-ID="" tvg-name=" DISCOVERY FAMILY SD" tvg-logo="https://r.ddmcdn.com/s_f/o_1/DFC/uploads/2015/07/163218LOGO.jpeg" group-title="reda2020", DISCOVERY FAMILY SD
+http://iptvpro.vision-new.org:8789/reda2020/reda2020/23294
+#EXTINF:-1 tvg-ID="National Geographic FR" tvg-name=" NATIONAL GEO SD" tvg-logo="http://163.172.27.155/logo_plus/FRANCE/NGCHD.png" group-title="reda2020", NATIONAL GEO SD
+http://iptvpro.vision-new.org:8789/reda2020/reda2020/23318
+#EXTINF:-1 tvg-ID="Nat Geo Wild FR" tvg-name=" NATIONAL GEO WILD SD" tvg-logo="http://163.172.27.155/logo_plus/FRANCE/NGCWILDHD.png" group-title="reda2020", NATIONAL GEO WILD SD
+http://iptvpro.vision-new.org:8789/reda2020/reda2020/23319
+#EXTINF:-1 tvg-ID="Science and Vie TV FR" tvg-name=" SCIENCE & VIE TV SD" tvg-logo="http://163.172.27.155/logo_plus/FRANCE/SCIENCEETVIEHD.png" group-title="reda2020", SCIENCE & VIE TV SD
+http://iptvpro.vision-new.org:8789/reda2020/reda2020/23337
+#EXTINF:-1 tvg-ID="Animaux FR" tvg-name=" ANIMAUX SD" tvg-logo="http://163.172.27.155/logo_plus/FRANCE/ANIMAUXHD.png" group-title="reda2020", ANIMAUX SD
+http://iptvpro.vision-new.org:8789/reda2020/reda2020/23276
+#EXTINF:-1 tvg-ID="Ushuaia TV FR" tvg-name=" USHUAIA SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/f/fb/Ushuaia_TV_2012.png/200px-Ushuaia_TV_2012.png" group-title="reda2020", USHUAIA SD
+http://iptvpro.vision-new.org:8789/reda2020/reda2020/1055
+#EXTINF:-1 tvg-ID="RMC Decouverte FR" tvg-name=" RMC DECOUVERTE SD" tvg-logo="http://163.172.27.155/logo_plus/FRANCE/RMCDECOUVERTEHD.png" group-title="reda2020", RMC DECOUVERTE SD
+http://iptvpro.vision-new.org:8789/reda2020/reda2020/23334
+#EXTINF:-1 tvg-ID="Voyage FR" tvg-name=" VOYAGE SD" tvg-logo="http://163.172.27.155/logo_plus/FRANCE/VOYAGEHD.png" group-title="reda2020", VOYAGE SD
+http://iptvpro.vision-new.org:8789/reda2020/reda2020/23365
+#EXTINF:-1 tvg-ID="Trek FR" tvg-name=" TREK SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/f/f8/Trek_logo_2015.svg/200px-Trek_logo_2015.svg.png" group-title="reda2020", TREK SD
+http://iptvpro.vision-new.org:8789/reda2020/reda2020/23366
+#EXTINF:-1 tvg-ID="Crime District FR" tvg-name=" CRIME DISTRICT SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Crime_district.jpg/200px-Crime_district.jpg" group-title="reda2020", CRIME DISTRICT SD
+http://iptvpro.vision-new.org:8789/reda2020/reda2020/23290
+#EXTINF:-1 tvg-ID="Histoire FR" tvg-name=" HISTOIRE SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/c/c7/Histoire_TF1.png/150px-Histoire_TF1.png" group-title="reda2020", HISTOIRE SD
+http://iptvpro.vision-new.org:8789/reda2020/reda2020/1056
+#EXTINF:-1 tvg-ID="UltraNature" tvg-name=" LA CHAINE METEO SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/7/72/La_Cha%C3%AEne_M%C3%A9t%C3%A9o.png/150px-La_Cha%C3%AEne_M%C3%A9t%C3%A9o.png" group-title="reda2020", LA CHAINE METEO SD
+http://iptvpro.vision-new.org:8789/reda2020/reda2020/23311
+#EXTINF:-1 tvg-ID="euronews FR" tvg-name=" EURONEWS SD" tvg-logo="http://www.iconharmony.com/icons/harmony/harmony1100_82X110_EuroNews_se.jpg" group-title="reda2020", EURONEWS SD
+http://iptvpro.vision-new.org:8789/reda2020/reda2020/23302
+#EXTINF:-1 tvg-ID="France 24 FR" tvg-name=" FRANCE 24 SD" tvg-logo="http://163.172.27.155/logo_plus/FRANCE/FRANCE24.png" group-title="reda2020", FRANCE 24 SD
+http://iptvpro.vision-new.org:8789/reda2020/reda2020/23404
+#EXTINF:-1 tvg-ID="BFM TV FR" tvg-name=" BFM TV SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/2/26/Logo_BFMTV_2017.svg/170px-Logo_BFMTV_2017.svg.png" group-title="reda2020", BFM TV SD
+http://iptvpro.vision-new.org:8789/reda2020/reda2020/424
+#EXTINF:-1 tvg-ID="BFM Business FR" tvg-name=" BFM BUSINESS SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/f/fb/BFM_Business_logo_2016.svg/1200px-BFM_Business_logo_2016.svg.png" group-title="reda2020", BFM BUSINESS SD
+http://iptvpro.vision-new.org:8789/reda2020/reda2020/23280
+#EXTINF:-1 tvg-ID="" tvg-name=" BFM PARIS SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/0/0e/BFM_Paris_logo_2016.svg/1200px-BFM_Paris_logo_2016.svg.png" group-title="reda2020", BFM PARIS SD
+http://iptvpro.vision-new.org:8789/reda2020/reda2020/23281
+#EXTINF:-1 tvg-ID="lci.fr" tvg-name=" LCI SD" tvg-logo="http://www.iconharmony.com/icons/harmony/harmony1100_82X110_LaChaineInfo_fr.jpg" group-title="reda2020", LCI SD
+http://iptvpro.vision-new.org:8789/reda2020/reda2020/23313
+#EXTINF:-1 tvg-ID="LCP FR" tvg-name=" LA CHAINE PARLEMENTAIRE SD" tvg-logo="http://163.172.27.155/logo_plus/FRANCE/LCP.png" group-title="reda2020", LA CHAINE PARLEMENTAIRE SD
+http://iptvpro.vision-new.org:8789/reda2020/reda2020/23312
+#EXTINF:-1 tvg-ID="LCP.fr" tvg-name=" LCP SD" tvg-logo="http://www.lemediaplus.com/wp-content/uploads/2016/03/lcp.gif" group-title="reda2020", LCP SD
+http://iptvpro.vision-new.org:8789/reda2020/reda2020/1016
+#EXTINF:-1 tvg-ID="Canal News FR" tvg-name=" CNEWS SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Canal_News_logo.svg/200px-Canal_News_logo.svg.png" group-title="reda2020", CNEWS SD
+http://iptvpro.vision-new.org:8789/reda2020/reda2020/1017
+#EXTINF:-1 tvg-ID="FranceInfo FR" tvg-name=" FRANCE INFO SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Franceinfo.svg/220px-Franceinfo.svg.png" group-title="reda2020", FRANCE INFO SD
+http://iptvpro.vision-new.org:8789/reda2020/reda2020/23305
+#EXTINF:-1 tvg-ID="M6 Music FR" tvg-name=" M6 MUSIC SD" tvg-logo="http://163.172.27.155/logo_plus/FRANCE/M6MUSICHD.png" group-title="reda2020", M6 MUSIC SD
+http://iptvpro.vision-new.org:8789/reda2020/reda2020/1033
+#EXTINF:-1 tvg-ID="Trace Urban FR" tvg-name=" TRACE URBAN SD" tvg-logo="http://163.172.27.155/logo_plus/FRANCE/TRACEURBANHD.png" group-title="reda2020", TRACE URBAN SD
+http://iptvpro.vision-new.org:8789/reda2020/reda2020/23347
+#EXTINF:-1 tvg-ID="Trace Tropical FR" tvg-name=" TRACE TROPICAL SD" tvg-logo="https://www.megazap.fr/photo/art/grande/8637004-13623308.jpg?v=1449688163" group-title="reda2020", TRACE TROPICAL SD
+http://iptvpro.vision-new.org:8789/reda2020/reda2020/23346
+#EXTINF:-1 tvg-ID="MTV FR" tvg-name=" MTV FRANCE SD" tvg-logo="http://163.172.27.155/logo_plus/FRANCE/MTVFRANCEHD.png" group-title="reda2020", MTV FRANCE SD
+http://iptvpro.vision-new.org:8789/reda2020/reda2020/23316
+#EXTINF:-1 tvg-ID="NRJ Hits FR" tvg-name=" NRJ HITS TV SD" tvg-logo="http://163.172.27.155/logo_plus/FRANCE/NRJHITSHD.png" group-title="reda2020", NRJ HITS TV SD
+http://iptvpro.vision-new.org:8789/reda2020/reda2020/23326
+#EXTINF:-1 tvg-ID="" tvg-name=" CSTAR HITS SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/CStar_Hits_France_logo.jpg/1200px-CStar_Hits_France_logo.jpg" group-title="reda2020", CSTAR HITS SD
+http://iptvpro.vision-new.org:8789/reda2020/reda2020/23292
+#EXTINF:-1 tvg-ID="Melody FR" tvg-name=" MELODY TV SD" tvg-logo="" group-title="reda2020", MELODY TV SD
+http://iptvpro.vision-new.org:8789/reda2020/reda2020/23315
+#EXTINF:-1 tvg-id="" tvg-name="FR: 13 EME RUE" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"13 EME RUE
+http://jessicatv.site:8080/scoffy/94c4179c1453/181
+#EXTINF:-1 tvg-id="" tvg-name="FR: 6ter" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"6ter
+http://jessicatv.site:8080/scoffy/94c4179c1453/183
+#EXTINF:-1 tvg-id="" tvg-name="FR: A LA CARTE 1" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"A LA CARTE 1
+http://jessicatv.site:8080/scoffy/94c4179c1453/231
+#EXTINF:-1 tvg-id="" tvg-name="FR: A LA CARTE 2" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"A LA CARTE 2
+http://jessicatv.site:8080/scoffy/94c4179c1453/232
+#EXTINF:-1 tvg-id="" tvg-name="FR: A LA CARTE 3" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"A LA CARTE 3
+http://jessicatv.site:8080/scoffy/94c4179c1453/233
+#EXTINF:-1 tvg-id="" tvg-name="FR: A LA CARTE 4" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"A LA CARTE 4
+http://jessicatv.site:8080/scoffy/94c4179c1453/234
+#EXTINF:-1 tvg-id="" tvg-name="FR: A LA CARTE 5" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"A LA CARTE 5
+http://jessicatv.site:8080/scoffy/94c4179c1453/235
+#EXTINF:-1 tvg-id="" tvg-name="FR: A LA CARTE 6" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"A LA CARTE 6
+http://jessicatv.site:8080/scoffy/94c4179c1453/236
+#EXTINF:-1 tvg-id="" tvg-name="FR: A LA CARTE 7" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"A LA CARTE 7
+http://jessicatv.site:8080/scoffy/94c4179c1453/237
+#EXTINF:-1 tvg-id="" tvg-name="FR: A LA CARTE 8" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"A LA CARTE 8
+http://jessicatv.site:8080/scoffy/94c4179c1453/238
+#EXTINF:-1 tvg-id="" tvg-name="FR: A LA CARTE 9" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"A LA CARTE 9
+http://jessicatv.site:8080/scoffy/94c4179c1453/239
+#EXTINF:-1 tvg-id="" tvg-name="FR: A LA CARTE 10" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"A LA CARTE 10
+http://jessicatv.site:8080/scoffy/94c4179c1453/240
+#EXTINF:-1 tvg-id="" tvg-name="FR: A LA CARTE 12" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"A LA CARTE 12
+http://jessicatv.site:8080/scoffy/94c4179c1453/53727
+#EXTINF:-1 tvg-id="" tvg-name="FR: A+" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"A+
+http://jessicatv.site:8080/scoffy/94c4179c1453/53672
+#EXTINF:-1 tvg-id="" tvg-name="FR: AB" tvg-logo="" group-title="scoffy"AB
+http://jessicatv.site:8080/scoffy/94c4179c1453/122246
+#EXTINF:-1 tvg-id="" tvg-name="FR: AB EXPLORE" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"AB EXPLORE
+http://jessicatv.site:8080/scoffy/94c4179c1453/23418
+#EXTINF:-1 tvg-id="" tvg-name="FR: AB MOTEUR" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"AB MOTEUR
+http://jessicatv.site:8080/scoffy/94c4179c1453/39576
+#EXTINF:-1 tvg-id="" tvg-name="FR: AB1" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"AB1
+http://jessicatv.site:8080/scoffy/94c4179c1453/165
+#EXTINF:-1 tvg-id="" tvg-name="FR: AB3" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"AB3
+http://jessicatv.site:8080/scoffy/94c4179c1453/878
+#EXTINF:-1 tvg-id="" tvg-name="FR: ABXplore" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"ABXplore
+http://jessicatv.site:8080/scoffy/94c4179c1453/49755
+#EXTINF:-1 tvg-id="" tvg-name="FR: ACTION" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"ACTION
+http://jessicatv.site:8080/scoffy/94c4179c1453/182
+#EXTINF:-1 tvg-id="" tvg-name="FR: ALICE STUDIO" tvg-logo="" group-title="scoffy"ALICE STUDIO
+http://jessicatv.site:8080/scoffy/94c4179c1453/122444
+#EXTINF:-1 tvg-id="" tvg-name="FR: ALSACE 20" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"ALSACE 20
+http://jessicatv.site:8080/scoffy/94c4179c1453/53681
+#EXTINF:-1 tvg-id="" tvg-name="FR: Alsace TV" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"Alsace TV
+http://jessicatv.site:8080/scoffy/94c4179c1453/75544
+#EXTINF:-1 tvg-id="" tvg-name="FR: ALTICE STUDIO" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"ALTICE STUDIO
+http://jessicatv.site:8080/scoffy/94c4179c1453/13364
+#EXTINF:-1 tvg-id="" tvg-name="FR: ANIMAUX" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"ANIMAUX
+http://jessicatv.site:8080/scoffy/94c4179c1453/193
+#EXTINF:-1 tvg-id="" tvg-name="FR: ANIMAUX" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"ANIMAUX
+http://jessicatv.site:8080/scoffy/94c4179c1453/39551
+#EXTINF:-1 tvg-id="" tvg-name="FR: Antenne Reunion" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"Antenne Reunion
+http://jessicatv.site:8080/scoffy/94c4179c1453/75575
+#EXTINF:-1 tvg-id="" tvg-name="FR: ARTE" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"ARTE
+http://jessicatv.site:8080/scoffy/94c4179c1453/163
+#EXTINF:-1 tvg-id="" tvg-name="FR: Auto Moto" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"Auto Moto
+http://jessicatv.site:8080/scoffy/94c4179c1453/152
+#EXTINF:-1 tvg-id="" tvg-name="FR: AUTOMOTO LA CHAINE" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"AUTOMOTO LA CHAINE
+http://jessicatv.site:8080/scoffy/94c4179c1453/78541
+#EXTINF:-1 tvg-id="" tvg-name="FR: BABY TV" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"BABY TV
+http://jessicatv.site:8080/scoffy/94c4179c1453/51323
+#EXTINF:-1 tvg-id="" tvg-name="FR: Bblack" tvg-logo="" group-title="scoffy"Bblack
+http://jessicatv.site:8080/scoffy/94c4179c1453/146249
+#EXTINF:-1 tvg-id="" tvg-name="FR: Bblack CLASSIC" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"Bblack CLASSIC
+http://jessicatv.site:8080/scoffy/94c4179c1453/11845
+#EXTINF:-1 tvg-id="" tvg-name="FR: Bblack! Caribbean" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"Bblack! Caribbean
+http://jessicatv.site:8080/scoffy/94c4179c1453/11843
+#EXTINF:-1 tvg-id="" tvg-name="FR: beIN Sports 1" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"beIN Sports 1
+http://jessicatv.site:8080/scoffy/94c4179c1453/79828
+#EXTINF:-1 tvg-id="" tvg-name="FR: beIN Sports 2" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"beIN Sports 2
+http://jessicatv.site:8080/scoffy/94c4179c1453/14095
+#EXTINF:-1 tvg-id="" tvg-name="FR: beIN Sports 3" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"beIN Sports 3
+http://jessicatv.site:8080/scoffy/94c4179c1453/14091
+#EXTINF:-1 tvg-id="" tvg-name="FR: beIN Sports 1" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"beIN Sports 1
+http://jessicatv.site:8080/scoffy/94c4179c1453/144
+#EXTINF:-1 tvg-id="" tvg-name="FR: beIN Sports 2" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"beIN Sports 2
+http://jessicatv.site:8080/scoffy/94c4179c1453/145
+#EXTINF:-1 tvg-id="" tvg-name="FR: beIN Sports 3" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"beIN Sports 3
+http://jessicatv.site:8080/scoffy/94c4179c1453/146
+#EXTINF:-1 tvg-id="" tvg-name="FR: beIN Sports 4" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"beIN Sports 4
+http://jessicatv.site:8080/scoffy/94c4179c1453/69932
+#EXTINF:-1 tvg-id="" tvg-name="FR: beIN Sports 5" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"beIN Sports 5
+http://jessicatv.site:8080/scoffy/94c4179c1453/52227
+#EXTINF:-1 tvg-id="" tvg-name="FR: beIN Sports 6" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"beIN Sports 6
+http://jessicatv.site:8080/scoffy/94c4179c1453/52228
+#EXTINF:-1 tvg-id="" tvg-name="FR: beIN Sports 7" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"beIN Sports 7
+http://jessicatv.site:8080/scoffy/94c4179c1453/52232
+#EXTINF:-1 tvg-id="" tvg-name="FR: beIN Sports 8" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"beIN Sports 8
+http://jessicatv.site:8080/scoffy/94c4179c1453/52259
+#EXTINF:-1 tvg-id="" tvg-name="FR: beIN Sports 9" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"beIN Sports 9
+http://jessicatv.site:8080/scoffy/94c4179c1453/52222
+#EXTINF:-1 tvg-id="" tvg-name="FR: beIN Sports 10" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"beIN Sports 10
+http://jessicatv.site:8080/scoffy/94c4179c1453/52245
+#EXTINF:-1 tvg-id="" tvg-name="FR: beIN Sports Max 4" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"beIN Sports Max 4
+http://jessicatv.site:8080/scoffy/94c4179c1453/3599
+#EXTINF:-1 tvg-id="" tvg-name="FR: beIN Sports Max 5" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"beIN Sports Max 5
+http://jessicatv.site:8080/scoffy/94c4179c1453/6083
+#EXTINF:-1 tvg-id="" tvg-name="FR: beIN Sports Max 6" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"beIN Sports Max 6
+http://jessicatv.site:8080/scoffy/94c4179c1453/4368
+#EXTINF:-1 tvg-id="" tvg-name="FR: beIN Sports Max 7" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"beIN Sports Max 7
+http://jessicatv.site:8080/scoffy/94c4179c1453/4369
+#EXTINF:-1 tvg-id="" tvg-name="FR: beIN Sports Max 8" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"beIN Sports Max 8
+http://jessicatv.site:8080/scoffy/94c4179c1453/4370
+#EXTINF:-1 tvg-id="" tvg-name="FR: beIN Sports Max 9" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"beIN Sports Max 9
+http://jessicatv.site:8080/scoffy/94c4179c1453/4371
+#EXTINF:-1 tvg-id="" tvg-name="FR: beIN Sports Max 10" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"beIN Sports Max 10
+http://jessicatv.site:8080/scoffy/94c4179c1453/6088
+#EXTINF:-1 tvg-id="" tvg-name="FR: beIN Sports Max 6" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"beIN Sports Max 6
+http://jessicatv.site:8080/scoffy/94c4179c1453/76574
+#EXTINF:-1 tvg-id="" tvg-name="FR: beIN Sports Max 7" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"beIN Sports Max 7
+http://jessicatv.site:8080/scoffy/94c4179c1453/76580
+#EXTINF:-1 tvg-id="" tvg-name="FR: beIN Sports Max 8" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"beIN Sports Max 8
+http://jessicatv.site:8080/scoffy/94c4179c1453/76573
+#EXTINF:-1 tvg-id="" tvg-name="FR: beIN Sports Max 9" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"beIN Sports Max 9
+http://jessicatv.site:8080/scoffy/94c4179c1453/76568
+#EXTINF:-1 tvg-id="" tvg-name="FR: beIN Sportss 1" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"beIN Sportss 1
+http://jessicatv.site:8080/scoffy/94c4179c1453/75449
+#EXTINF:-1 tvg-id="" tvg-name="FR: beIN Sportss 1" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"beIN Sportss 1
+http://jessicatv.site:8080/scoffy/94c4179c1453/75445
+#EXTINF:-1 tvg-id="" tvg-name="FR: beIN Sportss 2" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"beIN Sportss 2
+http://jessicatv.site:8080/scoffy/94c4179c1453/75450
+#EXTINF:-1 tvg-id="" tvg-name="FR: beIN Sportss 2" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"beIN Sportss 2
+http://jessicatv.site:8080/scoffy/94c4179c1453/75446
+#EXTINF:-1 tvg-id="" tvg-name="FR: beIN Sportss 3" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"beIN Sportss 3
+http://jessicatv.site:8080/scoffy/94c4179c1453/75451
+#EXTINF:-1 tvg-id="" tvg-name="FR: beINS PORT 2" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"beINS PORT 2
+http://jessicatv.site:8080/scoffy/94c4179c1453/53636
+#EXTINF:-1 tvg-id="" tvg-name="FR: BERBERE TELEVISION" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"BERBERE TELEVISION
+http://jessicatv.site:8080/scoffy/94c4179c1453/36513
+#EXTINF:-1 tvg-id="" tvg-name="FR: BET" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"BET
+http://jessicatv.site:8080/scoffy/94c4179c1453/184
+#EXTINF:-1 tvg-id="" tvg-name="FR: BFM Business" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"BFM Business
+http://jessicatv.site:8080/scoffy/94c4179c1453/1919
+#EXTINF:-1 tvg-id="" tvg-name="FR: BFM" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"BFM
+http://jessicatv.site:8080/scoffy/94c4179c1453/167
+#EXTINF:-1 tvg-id="" tvg-name="FR: BFM PARIS" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"BFM PARIS
+http://jessicatv.site:8080/scoffy/94c4179c1453/4353
+#EXTINF:-1 tvg-id="" tvg-name="FR: BFM Sport" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"BFM Sport
+http://jessicatv.site:8080/scoffy/94c4179c1453/2948
+#EXTINF:-1 tvg-id="" tvg-name="FR: BIP TV" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"BIP TV
+http://jessicatv.site:8080/scoffy/94c4179c1453/75540
+#EXTINF:-1 tvg-id="" tvg-name="FR: Blaze" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"Blaze
+http://jessicatv.site:8080/scoffy/94c4179c1453/84196
+#EXTINF:-1 tvg-id="" tvg-name="FR: BOING" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"BOING
+http://jessicatv.site:8080/scoffy/94c4179c1453/213
+#EXTINF:-1 tvg-id="" tvg-name="FR: BOOMERANG 1" tvg-logo="" group-title="scoffy"BOOMERANG 1
+http://jessicatv.site:8080/scoffy/94c4179c1453/95046
+#EXTINF:-1 tvg-id="" tvg-name="FR: Boomerang" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"Boomerang
+http://jessicatv.site:8080/scoffy/94c4179c1453/1931
+#EXTINF:-1 tvg-id="" tvg-name="FR: Boomerang France" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"Boomerang France
+http://jessicatv.site:8080/scoffy/94c4179c1453/77658
+#EXTINF:-1 tvg-id="" tvg-name="FR: BOSS Movies 1" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"BOSS Movies 1
+http://jessicatv.site:8080/scoffy/94c4179c1453/16890
+#EXTINF:-1 tvg-id="" tvg-name="FR: BOSS Movies 2" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"BOSS Movies 2
+http://jessicatv.site:8080/scoffy/94c4179c1453/16894
+#EXTINF:-1 tvg-id="" tvg-name="FR: BOSS Movies 3" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"BOSS Movies 3
+http://jessicatv.site:8080/scoffy/94c4179c1453/16891
+#EXTINF:-1 tvg-id="" tvg-name="FR: BOSS Movies 4" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"BOSS Movies 4
+http://jessicatv.site:8080/scoffy/94c4179c1453/16896
+#EXTINF:-1 tvg-id="" tvg-name="FR: BOSS Movies 5" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"BOSS Movies 5
+http://jessicatv.site:8080/scoffy/94c4179c1453/16897
+#EXTINF:-1 tvg-id="" tvg-name="FR: BOSS Movies 6" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"BOSS Movies 6
+http://jessicatv.site:8080/scoffy/94c4179c1453/16892
+#EXTINF:-1 tvg-id="" tvg-name="FR: BOSS Movies 7" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"BOSS Movies 7
+http://jessicatv.site:8080/scoffy/94c4179c1453/16898
+#EXTINF:-1 tvg-id="" tvg-name="FR: BOSS Movies 8" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"BOSS Movies 8
+http://jessicatv.site:8080/scoffy/94c4179c1453/16727
+#EXTINF:-1 tvg-id="" tvg-name="FR: BOSS Movies 9" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"BOSS Movies 9
+http://jessicatv.site:8080/scoffy/94c4179c1453/16720
+#EXTINF:-1 tvg-id="" tvg-name="FR: BOX OFFICE 1" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"BOX OFFICE 1
+http://jessicatv.site:8080/scoffy/94c4179c1453/15401
+#EXTINF:-1 tvg-id="" tvg-name="FR: BOX OFFICE 2" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"BOX OFFICE 2
+http://jessicatv.site:8080/scoffy/94c4179c1453/15402
+#EXTINF:-1 tvg-id="" tvg-name="FR: BOX OFFICE 3" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"BOX OFFICE 3
+http://jessicatv.site:8080/scoffy/94c4179c1453/15403
+#EXTINF:-1 tvg-id="" tvg-name="FR: BOX OFFICE 4" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"BOX OFFICE 4
+http://jessicatv.site:8080/scoffy/94c4179c1453/15404
+#EXTINF:-1 tvg-id="" tvg-name="FR: BOX OFFICE 5" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"BOX OFFICE 5
+http://jessicatv.site:8080/scoffy/94c4179c1453/15405
+#EXTINF:-1 tvg-id="" tvg-name="FR: BOX OFFICE 6" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"BOX OFFICE 6
+http://jessicatv.site:8080/scoffy/94c4179c1453/15406
+#EXTINF:-1 tvg-id="" tvg-name="FR: BOX OFFICE 7" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"BOX OFFICE 7
+http://jessicatv.site:8080/scoffy/94c4179c1453/15407
+#EXTINF:-1 tvg-id="" tvg-name="FR: BOX OFFICE 8" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"BOX OFFICE 8
+http://jessicatv.site:8080/scoffy/94c4179c1453/15408
+#EXTINF:-1 tvg-id="" tvg-name="FR: BOX OFFICE 9" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"BOX OFFICE 9
+http://jessicatv.site:8080/scoffy/94c4179c1453/42226
+#EXTINF:-1 tvg-id="" tvg-name="FR: BOX OFFICE 10" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"BOX OFFICE 10
+http://jessicatv.site:8080/scoffy/94c4179c1453/57256
+#EXTINF:-1 tvg-id="" tvg-name="FR: BOX OFFICE 11" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"BOX OFFICE 11
+http://jessicatv.site:8080/scoffy/94c4179c1453/42221
+#EXTINF:-1 tvg-id="" tvg-name="FR: BOX OFFICE 12" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"BOX OFFICE 12
+http://jessicatv.site:8080/scoffy/94c4179c1453/42720
+#EXTINF:-1 tvg-id="" tvg-name="FR: BOX OFFICE 13" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"BOX OFFICE 13
+http://jessicatv.site:8080/scoffy/94c4179c1453/42223
+#EXTINF:-1 tvg-id="" tvg-name="FR: BOX OFFICE 14" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"BOX OFFICE 14
+http://jessicatv.site:8080/scoffy/94c4179c1453/42224
+#EXTINF:-1 tvg-id="" tvg-name="FR: BOX OFFICE 15" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"BOX OFFICE 15
+http://jessicatv.site:8080/scoffy/94c4179c1453/42225
+#EXTINF:-1 tvg-id="" tvg-name="FR: BOX OFFICE ACTION" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"BOX OFFICE ACTION
+http://jessicatv.site:8080/scoffy/94c4179c1453/57255
+#EXTINF:-1 tvg-id="" tvg-name="FR: BOX OFFICE ANIMATION" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"BOX OFFICE ANIMATION
+http://jessicatv.site:8080/scoffy/94c4179c1453/57259
+#EXTINF:-1 tvg-id="" tvg-name="FR: BOX OFFICE COMEDIE" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"BOX OFFICE COMEDIE
+http://jessicatv.site:8080/scoffy/94c4179c1453/57258
+#EXTINF:-1 tvg-id="" tvg-name="FR: BOX OFFICE Crime-DRAME" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"BOX OFFICE Crime-DRAME
+http://jessicatv.site:8080/scoffy/94c4179c1453/57257
+#EXTINF:-1 tvg-id="" tvg-name="FR: BOX OFFICE HORREUR" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"BOX OFFICE HORREUR
+http://jessicatv.site:8080/scoffy/94c4179c1453/57260
+#EXTINF:-1 tvg-id="" tvg-name="FR: BOX OFFICE ROMANCE" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"BOX OFFICE ROMANCE
+http://jessicatv.site:8080/scoffy/94c4179c1453/57264
+#EXTINF:-1 tvg-id="" tvg-name="FR: Brava" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"Brava
+http://jessicatv.site:8080/scoffy/94c4179c1453/15328
+#EXTINF:-1 tvg-id="" tvg-name="FR: C NEWS (iTele)" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"C NEWS (iTele)
+http://jessicatv.site:8080/scoffy/94c4179c1453/75522
+#EXTINF:-1 tvg-id="" tvg-name="FR: C NEWS" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"C NEWS
+http://jessicatv.site:8080/scoffy/94c4179c1453/168
+#EXTINF:-1 tvg-id="" tvg-name="FR: C STAR" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"C STAR
+http://jessicatv.site:8080/scoffy/94c4179c1453/1900
+#EXTINF:-1 tvg-id="" tvg-name="FR: C8" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"C8
+http://jessicatv.site:8080/scoffy/94c4179c1453/161
+#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL ALPHA JU" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"CANAL ALPHA JU
+http://jessicatv.site:8080/scoffy/94c4179c1453/78509
+#EXTINF:-1 tvg-id="" tvg-name="FR: Canal Cinema" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"Canal Cinema
+http://jessicatv.site:8080/scoffy/94c4179c1453/57565
+#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"CANAL
+http://jessicatv.site:8080/scoffy/94c4179c1453/62186
+#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL Fl" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"CANAL Fl
+http://jessicatv.site:8080/scoffy/94c4179c1453/58464
+#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL J" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"CANAL J
+http://jessicatv.site:8080/scoffy/94c4179c1453/212
+#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL PLAY 1" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"CANAL PLAY 1
+http://jessicatv.site:8080/scoffy/94c4179c1453/53707
+#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL PLAY 02" tvg-logo="http://vod-gate.sytes.net/files/t20.png" group-title="scoffy"CANAL PLAY 02
+http://jessicatv.site:8080/scoffy/94c4179c1453/1887
+#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL PLAY 3" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"CANAL PLAY 3
+http://jessicatv.site:8080/scoffy/94c4179c1453/228
+#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL PLAY 4" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"CANAL PLAY 4
+http://jessicatv.site:8080/scoffy/94c4179c1453/229
+#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL PLAY 5" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"CANAL PLAY 5
+http://jessicatv.site:8080/scoffy/94c4179c1453/13603
+#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL PLAY 6" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"CANAL PLAY 6
+http://jessicatv.site:8080/scoffy/94c4179c1453/13722
+#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL PLAY 7" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"CANAL PLAY 7
+http://jessicatv.site:8080/scoffy/94c4179c1453/230
+#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL PLAY 8" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"CANAL PLAY 8
+http://jessicatv.site:8080/scoffy/94c4179c1453/14041
+#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL PLAY 9" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"CANAL PLAY 9
+http://jessicatv.site:8080/scoffy/94c4179c1453/13724
+#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL PLAY 10" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"CANAL PLAY 10
+http://jessicatv.site:8080/scoffy/94c4179c1453/1890
+#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL PLAY 11" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"CANAL PLAY 11
+http://jessicatv.site:8080/scoffy/94c4179c1453/46111
+#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL PLAY 12" tvg-logo="" group-title="scoffy"CANAL PLAY 12
+http://jessicatv.site:8080/scoffy/94c4179c1453/146590
+#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL PLAY 13" tvg-logo="" group-title="scoffy"CANAL PLAY 13
+http://jessicatv.site:8080/scoffy/94c4179c1453/146591
+#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL PLAY 14" tvg-logo="" group-title="scoffy"CANAL PLAY 14
+http://jessicatv.site:8080/scoffy/94c4179c1453/146592
+#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL PLAY 15" tvg-logo="" group-title="scoffy"CANAL PLAY 15
+http://jessicatv.site:8080/scoffy/94c4179c1453/146593
+#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL PLAY 16" tvg-logo="" group-title="scoffy"CANAL PLAY 16
+http://jessicatv.site:8080/scoffy/94c4179c1453/146594
+#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL PLAY 17" tvg-logo="" group-title="scoffy"CANAL PLAY 17
+http://jessicatv.site:8080/scoffy/94c4179c1453/146595
+#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL PLAY 18" tvg-logo="" group-title="scoffy"CANAL PLAY 18
+http://jessicatv.site:8080/scoffy/94c4179c1453/146596
+#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL PLAY MULTIVISION 1" tvg-logo="" group-title="scoffy"CANAL PLAY MULTIVISION 1
+http://jessicatv.site:8080/scoffy/94c4179c1453/146587
+#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL PLAY MULTIVISION 2" tvg-logo="" group-title="scoffy"CANAL PLAY MULTIVISION 2
+http://jessicatv.site:8080/scoffy/94c4179c1453/146588
+#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL PLAY MULTIVISION 3" tvg-logo="" group-title="scoffy"CANAL PLAY MULTIVISION 3
+http://jessicatv.site:8080/scoffy/94c4179c1453/146589
+#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL Series" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"CANAL Series
+http://jessicatv.site:8080/scoffy/94c4179c1453/73771
+#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL SPORT" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"CANAL SPORT
+http://jessicatv.site:8080/scoffy/94c4179c1453/10118
+#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL ZOOM" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"CANAL ZOOM
+http://jessicatv.site:8080/scoffy/94c4179c1453/53682
+#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL+ 6TER" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"CANAL+ 6TER
+http://jessicatv.site:8080/scoffy/94c4179c1453/47793
+#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL+ Cinema" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"CANAL+ Cinema
+http://jessicatv.site:8080/scoffy/94c4179c1453/172
+#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL+ Decale" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"CANAL+ Decale
+http://jessicatv.site:8080/scoffy/94c4179c1453/171
+#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL+ Family" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"CANAL+ Family
+http://jessicatv.site:8080/scoffy/94c4179c1453/1894
+#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL+" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"CANAL+
+http://jessicatv.site:8080/scoffy/94c4179c1453/170
+#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL+ J" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"CANAL+ J
+http://jessicatv.site:8080/scoffy/94c4179c1453/42203
+#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL+ M6" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"CANAL+ M6
+http://jessicatv.site:8080/scoffy/94c4179c1453/47794
+#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL+ NEWS" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"CANAL+ NEWS
+http://jessicatv.site:8080/scoffy/94c4179c1453/55695
+#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL+ Play 1" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"CANAL+ Play 1
+http://jessicatv.site:8080/scoffy/94c4179c1453/227
+#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL+ PLUS" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"CANAL+ PLUS
+http://jessicatv.site:8080/scoffy/94c4179c1453/52168
+#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL+ PREMIER" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"CANAL+ PREMIER
+http://jessicatv.site:8080/scoffy/94c4179c1453/21538
+#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL+ Series CLUB" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"CANAL+ Series CLUB
+http://jessicatv.site:8080/scoffy/94c4179c1453/47796
+#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL+ Series" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"CANAL+ Series
+http://jessicatv.site:8080/scoffy/94c4179c1453/173
+#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL+ Sport" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"CANAL+ Sport
+http://jessicatv.site:8080/scoffy/94c4179c1453/143
+#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL+ Sport FI" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"CANAL+ Sport FI
+http://jessicatv.site:8080/scoffy/94c4179c1453/62313
+#EXTINF:-1 tvg-id="" tvg-name="FR: CARTOON NETWORK" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"CARTOON NETWORK
+http://jessicatv.site:8080/scoffy/94c4179c1453/210
+#EXTINF:-1 tvg-id="" tvg-name="FR: CGTN Franais" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"CGTN Franais
+http://jessicatv.site:8080/scoffy/94c4179c1453/53651
+#EXTINF:-1 tvg-id="" tvg-name="FR: CGTN" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"CGTN
+http://jessicatv.site:8080/scoffy/94c4179c1453/15325
+#EXTINF:-1 tvg-id="" tvg-name="FR: Charlie Chaplin" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"Charlie Chaplin
+http://jessicatv.site:8080/scoffy/94c4179c1453/57244
+#EXTINF:-1 tvg-id="" tvg-name="FR: Chasse & Peche" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"Chasse & Peche
+http://jessicatv.site:8080/scoffy/94c4179c1453/196
+#EXTINF:-1 tvg-id="" tvg-name="FR: Cherie 25" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"Cherie 25
+http://jessicatv.site:8080/scoffy/94c4179c1453/1911
+#EXTINF:-1 tvg-id="" tvg-name="FR: Cina+ Classic" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"Cina+ Classic
+http://jessicatv.site:8080/scoffy/94c4179c1453/52218
+#EXTINF:-1 tvg-id="" tvg-name="FR: Cina+ Famiz" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"Cina+ Famiz
+http://jessicatv.site:8080/scoffy/94c4179c1453/52239
+#EXTINF:-1 tvg-id="" tvg-name="FR: Cina+ Premier" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"Cina+ Premier
+http://jessicatv.site:8080/scoffy/94c4179c1453/52220
+#EXTINF:-1 tvg-id="" tvg-name="FR: CINE+ Action" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"CINE+ Action
+http://jessicatv.site:8080/scoffy/94c4179c1453/75523
+#EXTINF:-1 tvg-id="" tvg-name="FR: CINE+ CLASSIC" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"CINE+ CLASSIC
+http://jessicatv.site:8080/scoffy/94c4179c1453/175
+#EXTINF:-1 tvg-id="" tvg-name="FR: CINE+ Club" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"CINE+ Club
+http://jessicatv.site:8080/scoffy/94c4179c1453/179
+#EXTINF:-1 tvg-id="" tvg-name="FR: CINE+ Comedie" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"CINE+ Comedie
+http://jessicatv.site:8080/scoffy/94c4179c1453/75529
+#EXTINF:-1 tvg-id="" tvg-name="FR: CINE+ EMOTION" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"CINE+ EMOTION
+http://jessicatv.site:8080/scoffy/94c4179c1453/876
+#EXTINF:-1 tvg-id="" tvg-name="FR: CINE+ FAMIZ" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"CINE+ FAMIZ
+http://jessicatv.site:8080/scoffy/94c4179c1453/1896
+#EXTINF:-1 tvg-id="" tvg-name="FR: CINE+ FRISSON" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"CINE+ FRISSON
+http://jessicatv.site:8080/scoffy/94c4179c1453/1895
+#EXTINF:-1 tvg-id="" tvg-name="FR: CINE+ FX" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"CINE+ FX
+http://jessicatv.site:8080/scoffy/94c4179c1453/174
+#EXTINF:-1 tvg-id="" tvg-name="FR: CINE+ ISSON" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"CINE+ ISSON
+http://jessicatv.site:8080/scoffy/94c4179c1453/69159
+#EXTINF:-1 tvg-id="" tvg-name="FR: CINE+ MISSON" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"CINE+ MISSON
+http://jessicatv.site:8080/scoffy/94c4179c1453/61567
+#EXTINF:-1 tvg-id="" tvg-name="FR: CINE+ PREMIER" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"CINE+ PREMIER
+http://jessicatv.site:8080/scoffy/94c4179c1453/176
+#EXTINF:-1 tvg-id="" tvg-name="FR: CINE+ Star" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"CINE+ Star
+http://jessicatv.site:8080/scoffy/94c4179c1453/75514
+#EXTINF:-1 tvg-id="" tvg-name="FR: CINEMA BOX OFFICE 1" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"CINEMA BOX OFFICE 1
+http://jessicatv.site:8080/scoffy/94c4179c1453/63000
+#EXTINF:-1 tvg-id="" tvg-name="FR: CINEMA BOX OFFICE 2" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"CINEMA BOX OFFICE 2
+http://jessicatv.site:8080/scoffy/94c4179c1453/63001
+#EXTINF:-1 tvg-id="" tvg-name="FR: CINEMA BOX OFFICE 3" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"CINEMA BOX OFFICE 3
+http://jessicatv.site:8080/scoffy/94c4179c1453/63002
+#EXTINF:-1 tvg-id="" tvg-name="FR: CINEMA BOX OFFICE 4" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"CINEMA BOX OFFICE 4
+http://jessicatv.site:8080/scoffy/94c4179c1453/63003
+#EXTINF:-1 tvg-id="" tvg-name="FR: CINEMA BOX OFFICE 5" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"CINEMA BOX OFFICE 5
+http://jessicatv.site:8080/scoffy/94c4179c1453/63004
+#EXTINF:-1 tvg-id="" tvg-name="FR: CINEma Emotion" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"CINEma Emotion
+http://jessicatv.site:8080/scoffy/94c4179c1453/75665
+#EXTINF:-1 tvg-id="" tvg-name="FR: Ciné Classic" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"Ciné Classic
+http://jessicatv.site:8080/scoffy/94c4179c1453/84235
+#EXTINF:-1 tvg-id="" tvg-name="FR: Ciné Famiz" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"Ciné Famiz
+http://jessicatv.site:8080/scoffy/94c4179c1453/84229
+#EXTINF:-1 tvg-id="" tvg-name="FR: Ciné frisson" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"Ciné frisson
+http://jessicatv.site:8080/scoffy/94c4179c1453/84234
+#EXTINF:-1 tvg-id="" tvg-name="FR: Ciné FX" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"Ciné FX
+http://jessicatv.site:8080/scoffy/94c4179c1453/77663
+#EXTINF:-1 tvg-id="" tvg-name="FR: Ciné Polar" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"Ciné Polar
+http://jessicatv.site:8080/scoffy/94c4179c1453/82950
+#EXTINF:-1 tvg-id="" tvg-name="FR: Ciné POLAR+" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"Ciné POLAR+
+http://jessicatv.site:8080/scoffy/94c4179c1453/69157
+#EXTINF:-1 tvg-id="" tvg-name="FR: Ciné Premier" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"Ciné Premier
+http://jessicatv.site:8080/scoffy/94c4179c1453/84230
+#EXTINF:-1 tvg-id="" tvg-name="FR: Club bing TV" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"Club bing TV
+http://jessicatv.site:8080/scoffy/94c4179c1453/23413
+#EXTINF:-1 tvg-id="" tvg-name="FR: Club RTL" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"Club RTL
+http://jessicatv.site:8080/scoffy/94c4179c1453/82963
+#EXTINF:-1 tvg-id="" tvg-name="FR: COMEDIE" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"COMEDIE
+http://jessicatv.site:8080/scoffy/94c4179c1453/42181
+#EXTINF:-1 tvg-id="" tvg-name="FR: Comedie+" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"Comedie+
+http://jessicatv.site:8080/scoffy/94c4179c1453/180
+#EXTINF:-1 tvg-id="" tvg-name="FR: Crime District" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"Crime District
+http://jessicatv.site:8080/scoffy/94c4179c1453/6223
+#EXTINF:-1 tvg-id="" tvg-name="FR: Crime+ Investigation" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"Crime+ Investigation
+http://jessicatv.site:8080/scoffy/94c4179c1453/36529
+#EXTINF:-1 tvg-id="" tvg-name="FR: D5" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"D5
+http://jessicatv.site:8080/scoffy/94c4179c1453/53343
+#EXTINF:-1 tvg-id="" tvg-name="FR: D5 Music" tvg-logo="" group-title="scoffy"D5 Music
+http://jessicatv.site:8080/scoffy/94c4179c1453/145487
+#EXTINF:-1 tvg-id="" tvg-name="FR: D8" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"D8
+http://jessicatv.site:8080/scoffy/94c4179c1453/4846
+#EXTINF:-1 tvg-id="" tvg-name="FR: DAZN 1" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"DAZN 1
+http://jessicatv.site:8080/scoffy/94c4179c1453/54437
+#EXTINF:-1 tvg-id="" tvg-name="FR: DAZN 2" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"DAZN 2
+http://jessicatv.site:8080/scoffy/94c4179c1453/54444
+#EXTINF:-1 tvg-id="" tvg-name="FR: Discovery Channel" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"Discovery Channel
+http://jessicatv.site:8080/scoffy/94c4179c1453/185
+#EXTINF:-1 tvg-id="" tvg-name="FR: Discovery Family" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"Discovery Family
+http://jessicatv.site:8080/scoffy/94c4179c1453/10145
+#EXTINF:-1 tvg-id="" tvg-name="FR: Discovery FAMLIY" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"Discovery FAMLIY
+http://jessicatv.site:8080/scoffy/94c4179c1453/40147
+#EXTINF:-1 tvg-id="" tvg-name="FR: Discovery FRANCE" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"Discovery FRANCE
+http://jessicatv.site:8080/scoffy/94c4179c1453/76566
+#EXTINF:-1 tvg-id="" tvg-name="FR: Discovery SCI" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"Discovery SCI
+http://jessicatv.site:8080/scoffy/94c4179c1453/57892
+#EXTINF:-1 tvg-id="" tvg-name="FR: Discovery sci-fi" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"Discovery sci-fi
+http://jessicatv.site:8080/scoffy/94c4179c1453/40144
+#EXTINF:-1 tvg-id="" tvg-name="FR: Discovery Science" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"Discovery Science
+http://jessicatv.site:8080/scoffy/94c4179c1453/186
+#EXTINF:-1 tvg-id="" tvg-name="FR: Disney Channel +1" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"Disney Channel +1
+http://jessicatv.site:8080/scoffy/94c4179c1453/1927
+#EXTINF:-1 tvg-id="" tvg-name="FR: Disney Channel" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"Disney Channel
+http://jessicatv.site:8080/scoffy/94c4179c1453/1198
+#EXTINF:-1 tvg-id="" tvg-name="FR: Disney CINEMA" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"Disney CINEMA
+http://jessicatv.site:8080/scoffy/94c4179c1453/207
+#EXTINF:-1 tvg-id="" tvg-name="FR: Disney CINEMAGIC" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"Disney CINEMAGIC
+http://jessicatv.site:8080/scoffy/94c4179c1453/52172
+#EXTINF:-1 tvg-id="" tvg-name="FR: Disney JUNIOR" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"Disney JUNIOR
+http://jessicatv.site:8080/scoffy/94c4179c1453/1197
+#EXTINF:-1 tvg-id="" tvg-name="FR: Disney XD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"Disney XD
+http://jessicatv.site:8080/scoffy/94c4179c1453/208
+#EXTINF:-1 tvg-id="" tvg-name="FR: DisneyChannel 1" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"DisneyChannel 1
+http://jessicatv.site:8080/scoffy/94c4179c1453/75461
+#EXTINF:-1 tvg-id="" tvg-name="FR: DJAZZ TV" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"DJAZZ TV
+http://jessicatv.site:8080/scoffy/94c4179c1453/28489
+#EXTINF:-1 tvg-id="" tvg-name="FR: E!" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"E!
+http://jessicatv.site:8080/scoffy/94c4179c1453/2978
+#EXTINF:-1 tvg-id="" tvg-name="FR: Egypte des Pharaons" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"Egypte des Pharaons
+http://jessicatv.site:8080/scoffy/94c4179c1453/57211
+#EXTINF:-1 tvg-id="" tvg-name="FR: ELLE GIRL" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"ELLE GIRL
+http://jessicatv.site:8080/scoffy/94c4179c1453/39666
+#EXTINF:-1 tvg-id="" tvg-name="FR: EQUIDA" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"EQUIDA
+http://jessicatv.site:8080/scoffy/94c4179c1453/68678
+#EXTINF:-1 tvg-id="" tvg-name="FR: EQUIDIA" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"EQUIDIA
+http://jessicatv.site:8080/scoffy/94c4179c1453/147
+#EXTINF:-1 tvg-id="" tvg-name="FR: Equidia Life" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"Equidia Life
+http://jessicatv.site:8080/scoffy/94c4179c1453/75541
+#EXTINF:-1 tvg-id="" tvg-name="FR: EQUIDIA LIVE" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"EQUIDIA LIVE
+http://jessicatv.site:8080/scoffy/94c4179c1453/39668
+#EXTINF:-1 tvg-id="" tvg-name="FR: Equipe 21" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"Equipe 21
+http://jessicatv.site:8080/scoffy/94c4179c1453/42117
+#EXTINF:-1 tvg-id="" tvg-name="FR: Euro Channel" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"Euro Channel
+http://jessicatv.site:8080/scoffy/94c4179c1453/52215
+#EXTINF:-1 tvg-id="" tvg-name="FR: euronews" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"euronews
+http://jessicatv.site:8080/scoffy/94c4179c1453/169
+#EXTINF:-1 tvg-id="" tvg-name="FR: EUROSPORT 1" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"EUROSPORT 1
+http://jessicatv.site:8080/scoffy/94c4179c1453/151
+#EXTINF:-1 tvg-id="" tvg-name="FR: EUROSPORT 2" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"EUROSPORT 2
+http://jessicatv.site:8080/scoffy/94c4179c1453/1195
+#EXTINF:-1 tvg-id="" tvg-name="FR: EXTREME SPORT" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"EXTREME SPORT
+http://jessicatv.site:8080/scoffy/94c4179c1453/6236
+#EXTINF:-1 tvg-id="" tvg-name="FR: Fashion TV INTERNATIONAL" tvg-logo="" group-title="scoffy"Fashion TV INTERNATIONAL
+http://jessicatv.site:8080/scoffy/94c4179c1453/146555
+#EXTINF:-1 tvg-id="" tvg-name="FR: Fashion TV Paris" tvg-logo="" group-title="scoffy"Fashion TV Paris
+http://jessicatv.site:8080/scoffy/94c4179c1453/146554
+#EXTINF:-1 tvg-id="" tvg-name="FR: Foot 24" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"Foot 24
+http://jessicatv.site:8080/scoffy/94c4179c1453/52174
+#EXTINF:-1 tvg-id="" tvg-name="FR: FOOT 24/24" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"FOOT 24/24
+http://jessicatv.site:8080/scoffy/94c4179c1453/78548
+#EXTINF:-1 tvg-id="" tvg-name="FR: Foot+" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"Foot+
+http://jessicatv.site:8080/scoffy/94c4179c1453/76577
+#EXTINF:-1 tvg-id="" tvg-name="FR: FOOT+ 24" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"FOOT+ 24
+http://jessicatv.site:8080/scoffy/94c4179c1453/1193
+#EXTINF:-1 tvg-id="" tvg-name="FR: FOOT+ 24/24" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"FOOT+ 24/24
+http://jessicatv.site:8080/scoffy/94c4179c1453/10780
+#EXTINF:-1 tvg-id="" tvg-name="FR: FRANCE 2" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"FRANCE 2
+http://jessicatv.site:8080/scoffy/94c4179c1453/154
+#EXTINF:-1 tvg-id="" tvg-name="FR: FRANCE 3" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"FRANCE 3
+http://jessicatv.site:8080/scoffy/94c4179c1453/155
+#EXTINF:-1 tvg-id="" tvg-name="FR: FRANCE 4" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"FRANCE 4
+http://jessicatv.site:8080/scoffy/94c4179c1453/156
+#EXTINF:-1 tvg-id="" tvg-name="FR: FRANCE 5" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"FRANCE 5
+http://jessicatv.site:8080/scoffy/94c4179c1453/157
+#EXTINF:-1 tvg-id="" tvg-name="FR: FRANCE 24 English" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"FRANCE 24 English
+http://jessicatv.site:8080/scoffy/94c4179c1453/75536
+#EXTINF:-1 tvg-id="" tvg-name="FR: FRANCE 24" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"FRANCE 24
+http://jessicatv.site:8080/scoffy/94c4179c1453/870
+#EXTINF:-1 tvg-id="" tvg-name="FR: FRANCE 24 News" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"FRANCE 24 News
+http://jessicatv.site:8080/scoffy/94c4179c1453/75533
+#EXTINF:-1 tvg-id="" tvg-name="FR: FRANCE INFO" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"FRANCE INFO
+http://jessicatv.site:8080/scoffy/94c4179c1453/1892
+#EXTINF:-1 tvg-id="" tvg-name="FR: FRANCE Q" tvg-logo="" group-title="scoffy"FRANCE Q
+http://jessicatv.site:8080/scoffy/94c4179c1453/122239
+#EXTINF:-1 tvg-id="" tvg-name="FR: FRANCE Ô" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"FRANCE Ô
+http://jessicatv.site:8080/scoffy/94c4179c1453/159
+#EXTINF:-1 tvg-id="" tvg-name="FR: Francophonie" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"Francophonie
+http://jessicatv.site:8080/scoffy/94c4179c1453/40185
+#EXTINF:-1 tvg-id="" tvg-name="FR: FRANCOPHONIE 24" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"FRANCOPHONIE 24
+http://jessicatv.site:8080/scoffy/94c4179c1453/6252
+#EXTINF:-1 tvg-id="" tvg-name="FR: FRTOUTE L HISTOIRE" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"FRTOUTE L HISTOIRE
+http://jessicatv.site:8080/scoffy/94c4179c1453/53695
+#EXTINF:-1 tvg-id="" tvg-name="FR: GAME ONE 1" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"GAME ONE 1
+http://jessicatv.site:8080/scoffy/94c4179c1453/78511
+#EXTINF:-1 tvg-id="" tvg-name="FR: GAME ONE" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"GAME ONE
+http://jessicatv.site:8080/scoffy/94c4179c1453/1930
+#EXTINF:-1 tvg-id="" tvg-name="FR: Ginx" tvg-logo="" group-title="scoffy"Ginx
+http://jessicatv.site:8080/scoffy/94c4179c1453/52598
+#EXTINF:-1 tvg-id="" tvg-name="FR: GIRONDINS TV" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"GIRONDINS TV
+http://jessicatv.site:8080/scoffy/94c4179c1453/53649
+#EXTINF:-1 tvg-id="" tvg-name="FR: GOLF Channel FRANCE" tvg-logo="" group-title="scoffy"GOLF Channel FRANCE
+http://jessicatv.site:8080/scoffy/94c4179c1453/95420
+#EXTINF:-1 tvg-id="" tvg-name="FR: GOLF Channel" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"GOLF Channel
+http://jessicatv.site:8080/scoffy/94c4179c1453/1934
+#EXTINF:-1 tvg-id="" tvg-name="FR: GOLF+" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"GOLF+
+http://jessicatv.site:8080/scoffy/94c4179c1453/39677
+#EXTINF:-1 tvg-id="" tvg-name="FR: GONG" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"GONG
+http://jessicatv.site:8080/scoffy/94c4179c1453/6255
+#EXTINF:-1 tvg-id="" tvg-name="FR: GONG MAX" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"GONG MAX
+http://jessicatv.site:8080/scoffy/94c4179c1453/10151
+#EXTINF:-1 tvg-id="" tvg-name="FR: GRAND LILLETV" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"GRAND LILLETV
+http://jessicatv.site:8080/scoffy/94c4179c1453/15344
+#EXTINF:-1 tvg-id="" tvg-name="FR: Gulli" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"Gulli
+http://jessicatv.site:8080/scoffy/94c4179c1453/216
+#EXTINF:-1 tvg-id="" tvg-name="FR:1" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"HD1
+http://jessicatv.site:8080/scoffy/94c4179c1453/42242
+#EXTINF:-1 tvg-id="" tvg-name="FR: HISTOIRE" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"HISTOIRE
+http://jessicatv.site:8080/scoffy/94c4179c1453/201
+#EXTINF:-1 tvg-id="" tvg-name="FR: Hit TV" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"Hit TV
+http://jessicatv.site:8080/scoffy/94c4179c1453/84608
+#EXTINF:-1 tvg-id="" tvg-name="FR: I24 NEWS" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"I24 NEWS
+http://jessicatv.site:8080/scoffy/94c4179c1453/15850
+#EXTINF:-1 tvg-id="" tvg-name="FR: IL-TV" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"IL-TV
+http://jessicatv.site:8080/scoffy/94c4179c1453/1912
+#EXTINF:-1 tvg-id="" tvg-name="FR: INFOSPORT" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"INFOSPORT
+http://jessicatv.site:8080/scoffy/94c4179c1453/42107
+#EXTINF:-1 tvg-id="" tvg-name="FR: INFOSPORT+" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"INFOSPORT+
+http://jessicatv.site:8080/scoffy/94c4179c1453/1190
+#EXTINF:-1 tvg-id="" tvg-name="FR: Investigation Discovery" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"Investigation Discovery
+http://jessicatv.site:8080/scoffy/94c4179c1453/4376
+#EXTINF:-1 tvg-id="" tvg-name="FR: iTELE" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"iTELE
+http://jessicatv.site:8080/scoffy/94c4179c1453/10377
+#EXTINF:-1 tvg-id="" tvg-name="FR: J-One" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"J-One
+http://jessicatv.site:8080/scoffy/94c4179c1453/202
+#EXTINF:-1 tvg-id="" tvg-name="FR: Kanal 24" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"Kanal 24
+http://jessicatv.site:8080/scoffy/94c4179c1453/71328
+#EXTINF:-1 tvg-id="" tvg-name="FR: KOMBAT SPORT" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"KOMBAT SPORT
+http://jessicatv.site:8080/scoffy/94c4179c1453/258
+#EXTINF:-1 tvg-id="" tvg-name="FR: KS BABY FIRST" tvg-logo="" group-title="scoffy"KS BABY FIRST
+http://jessicatv.site:8080/scoffy/94c4179c1453/145915
+#EXTINF:-1 tvg-id="" tvg-name="FR: KS COMEDY" tvg-logo="" group-title="scoffy"KS COMEDY
+http://jessicatv.site:8080/scoffy/94c4179c1453/145913
+#EXTINF:-1 tvg-id="" tvg-name="FR: KS EPIC" tvg-logo="" group-title="scoffy"KS EPIC
+http://jessicatv.site:8080/scoffy/94c4179c1453/145912
+#EXTINF:-1 tvg-id="" tvg-name="FR: KS FALCO" tvg-logo="" group-title="scoffy"KS FALCO
+http://jessicatv.site:8080/scoffy/94c4179c1453/145914
+#EXTINF:-1 tvg-id="" tvg-name="FR: KS HITS" tvg-logo="" group-title="scoffy"KS HITS
+http://jessicatv.site:8080/scoffy/94c4179c1453/145918
+#EXTINF:-1 tvg-id="" tvg-name="FR: KS HORROR" tvg-logo="" group-title="scoffy"KS HORROR
+http://jessicatv.site:8080/scoffy/94c4179c1453/145916
+#EXTINF:-1 tvg-id="" tvg-name="FR: KS HUMOR" tvg-logo="" group-title="scoffy"KS HUMOR
+http://jessicatv.site:8080/scoffy/94c4179c1453/145910
+#EXTINF:-1 tvg-id="" tvg-name="FR: KS KIDS" tvg-logo="" group-title="scoffy"KS KIDS
+http://jessicatv.site:8080/scoffy/94c4179c1453/145921
+#EXTINF:-1 tvg-id="" tvg-name="FR: KS PREMIER 2" tvg-logo="" group-title="scoffy"KS PREMIER 2
+http://jessicatv.site:8080/scoffy/94c4179c1453/145919
+#EXTINF:-1 tvg-id="" tvg-name="FR: KS PREMIER 3" tvg-logo="" group-title="scoffy"KS PREMIER 3
+http://jessicatv.site:8080/scoffy/94c4179c1453/145920
+#EXTINF:-1 tvg-id="" tvg-name="FR: KS PREMIER 4" tvg-logo="" group-title="scoffy"KS PREMIER 4
+http://jessicatv.site:8080/scoffy/94c4179c1453/145917
+#EXTINF:-1 tvg-id="" tvg-name="FR: KS PËRALLA" tvg-logo="" group-title="scoffy"KS PËRALLA
+http://jessicatv.site:8080/scoffy/94c4179c1453/145922
+#EXTINF:-1 tvg-id="" tvg-name="FR: KS SERIAL" tvg-logo="" group-title="scoffy"KS SERIAL
+http://jessicatv.site:8080/scoffy/94c4179c1453/145925
+#EXTINF:-1 tvg-id="" tvg-name="FR: KS STUPCAT" tvg-logo="" group-title="scoffy"KS STUPCAT
+http://jessicatv.site:8080/scoffy/94c4179c1453/145911
+#EXTINF:-1 tvg-id="" tvg-name="FR: KS THRILLER" tvg-logo="" group-title="scoffy"KS THRILLER
+http://jessicatv.site:8080/scoffy/94c4179c1453/145926
+#EXTINF:-1 tvg-id="" tvg-name="FR: KS ÇIFTELI" tvg-logo="" group-title="scoffy"KS ÇIFTELI
+http://jessicatv.site:8080/scoffy/94c4179c1453/145928
+#EXTINF:-1 tvg-id="" tvg-name="FR: KTO" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"KTO
+http://jessicatv.site:8080/scoffy/94c4179c1453/14085
+#EXTINF:-1 tvg-id="" tvg-name="FR: L Equipe 21" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"L Equipe 21
+http://jessicatv.site:8080/scoffy/94c4179c1453/39566
+#EXTINF:-1 tvg-id="" tvg-name="FR: L EQUIPE" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"L EQUIPE
+http://jessicatv.site:8080/scoffy/94c4179c1453/150
+#EXTINF:-1 tvg-id="" tvg-name="FR: L univers & ses mysteres" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"L univers & ses mysteres
+http://jessicatv.site:8080/scoffy/94c4179c1453/57215
+#EXTINF:-1 tvg-id="" tvg-name="FR: LA CHAINE NORMANDE" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"LA CHAINE NORMANDE
+http://jessicatv.site:8080/scoffy/94c4179c1453/1923
+#EXTINF:-1 tvg-id="" tvg-name="FR: LA CHAINE NORMANDIE" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"LA CHAINE NORMANDIE
+http://jessicatv.site:8080/scoffy/94c4179c1453/91027
+#EXTINF:-1 tvg-id="" tvg-name="FR: LA CHAINE PARLEMENTAIRE" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"LA CHAINE PARLEMENTAIRE
+http://jessicatv.site:8080/scoffy/94c4179c1453/78561
+#EXTINF:-1 tvg-id="" tvg-name="FR: LA DEUX" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"LA DEUX
+http://jessicatv.site:8080/scoffy/94c4179c1453/52149
+#EXTINF:-1 tvg-id="" tvg-name="FR: La Tele" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"La Tele
+http://jessicatv.site:8080/scoffy/94c4179c1453/13700
+#EXTINF:-1 tvg-id="" tvg-name="FR: LA TROIS" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"LA TROIS
+http://jessicatv.site:8080/scoffy/94c4179c1453/52147
+#EXTINF:-1 tvg-id="" tvg-name="FR: La Une" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"La Une
+http://jessicatv.site:8080/scoffy/94c4179c1453/82955
+#EXTINF:-1 tvg-id="" tvg-name="FR: LCI" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"LCI
+http://jessicatv.site:8080/scoffy/94c4179c1453/4342
+#EXTINF:-1 tvg-id="" tvg-name="FR: LCP 24" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"LCP 24
+http://jessicatv.site:8080/scoffy/94c4179c1453/40128
+#EXTINF:-1 tvg-id="" tvg-name="FR: LCP" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"LCP
+http://jessicatv.site:8080/scoffy/94c4179c1453/6258
+#EXTINF:-1 tvg-id="" tvg-name="FR: LCP PUBLIC SENAT" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"LCP PUBLIC SENAT
+http://jessicatv.site:8080/scoffy/94c4179c1453/75464
+#EXTINF:-1 tvg-id="" tvg-name="FR: LES LAPINS CRETINS TV 24/7" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"LES LAPINS CRETINS TV 24/7
+http://jessicatv.site:8080/scoffy/94c4179c1453/63592
+#EXTINF:-1 tvg-id="" tvg-name="FR: LFM TV" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"LFM TV
+http://jessicatv.site:8080/scoffy/94c4179c1453/23414
+#EXTINF:-1 tvg-id="" tvg-name="FR: LFM TV Karaoke" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"LFM TV Karaoke
+http://jessicatv.site:8080/scoffy/94c4179c1453/63010
+#EXTINF:-1 tvg-id="" tvg-name="FR: Luxe TV" tvg-logo="" group-title="scoffy"Luxe TV
+http://jessicatv.site:8080/scoffy/94c4179c1453/91819
+#EXTINF:-1 tvg-id="" tvg-name="FR: m2o Tv" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"m2o Tv
+http://jessicatv.site:8080/scoffy/94c4179c1453/84605
+#EXTINF:-1 tvg-id="" tvg-name="FR: M6" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"M6
+http://jessicatv.site:8080/scoffy/94c4179c1453/158
+#EXTINF:-1 tvg-id="" tvg-name="FR: M6 Music" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"M6 Music
+http://jessicatv.site:8080/scoffy/94c4179c1453/224
+#EXTINF:-1 tvg-id="" tvg-name="FR: M6 MUSIC HIT" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"M6 MUSIC HIT
+http://jessicatv.site:8080/scoffy/94c4179c1453/16732
+#EXTINF:-1 tvg-id="" tvg-name="FR: Mangas" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"Mangas
+http://jessicatv.site:8080/scoffy/94c4179c1453/214
+#EXTINF:-1 tvg-id="" tvg-name="FR: MATELE TV" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"MATELE TV
+http://jessicatv.site:8080/scoffy/94c4179c1453/75552
+#EXTINF:-1 tvg-id="" tvg-name="FR: Mayday" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"Mayday
+http://jessicatv.site:8080/scoffy/94c4179c1453/57209
+#EXTINF:-1 tvg-id="" tvg-name="FR: MB Live" tvg-logo="" group-title="scoffy"MB Live
+http://jessicatv.site:8080/scoffy/94c4179c1453/122263
+#EXTINF:-1 tvg-id="" tvg-name="FR: MCM" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"MCM
+http://jessicatv.site:8080/scoffy/94c4179c1453/4355
+#EXTINF:-1 tvg-id="" tvg-name="FR: MCM POP" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"MCM POP
+http://jessicatv.site:8080/scoffy/94c4179c1453/27387
+#EXTINF:-1 tvg-id="" tvg-name="FR: MCM TOP" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"MCM TOP
+http://jessicatv.site:8080/scoffy/94c4179c1453/223
+#EXTINF:-1 tvg-id="" tvg-name="FR: MELODY" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"MELODY
+http://jessicatv.site:8080/scoffy/94c4179c1453/27959
+#EXTINF:-1 tvg-id="" tvg-name="FR: MEZZO FR" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"MEZZO FR
+http://jessicatv.site:8080/scoffy/94c4179c1453/79819
+#EXTINF:-1 tvg-id="" tvg-name="FR: MEZZO" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"MEZZO
+http://jessicatv.site:8080/scoffy/94c4179c1453/15333
+#EXTINF:-1 tvg-id="" tvg-name="FR: Mezzo Live" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"Mezzo Live
+http://jessicatv.site:8080/scoffy/94c4179c1453/24866
+#EXTINF:-1 tvg-id="" tvg-name="FR: MOTORSPORT TV" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"MOTORSPORT TV
+http://jessicatv.site:8080/scoffy/94c4179c1453/148
+#EXTINF:-1 tvg-id="" tvg-name="FR: Mr Bean" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"Mr Bean
+http://jessicatv.site:8080/scoffy/94c4179c1453/57241
+#EXTINF:-1 tvg-id="" tvg-name="FR: MTV BASE" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"MTV BASE
+http://jessicatv.site:8080/scoffy/94c4179c1453/15338
+#EXTINF:-1 tvg-id="" tvg-name="FR: MTV Club" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"MTV Club
+http://jessicatv.site:8080/scoffy/94c4179c1453/14079
+#EXTINF:-1 tvg-id="" tvg-name="FR: MTV Dance" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"MTV Dance
+http://jessicatv.site:8080/scoffy/94c4179c1453/883
+#EXTINF:-1 tvg-id="" tvg-name="FR: MTV" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"MTV
+http://jessicatv.site:8080/scoffy/94c4179c1453/220
+#EXTINF:-1 tvg-id="" tvg-name="FR: MTV FRANCE" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"MTV FRANCE
+http://jessicatv.site:8080/scoffy/94c4179c1453/42209
+#EXTINF:-1 tvg-id="" tvg-name="FR: MTV HITS" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"MTV HITS
+http://jessicatv.site:8080/scoffy/94c4179c1453/15336
+#EXTINF:-1 tvg-id="" tvg-name="FR: MUSIC TV" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"MUSIC TV
+http://jessicatv.site:8080/scoffy/94c4179c1453/46110
+#EXTINF:-1 tvg-id="" tvg-name="FR: MY COMEDY" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"MY COMEDY
+http://jessicatv.site:8080/scoffy/94c4179c1453/26307
+#EXTINF:-1 tvg-id="" tvg-name="FR: MY CUISINE" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"MY CUISINE
+http://jessicatv.site:8080/scoffy/94c4179c1453/16731
+#EXTINF:-1 tvg-id="" tvg-name="FR: MYZEN TV" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"MYZEN TV
+http://jessicatv.site:8080/scoffy/94c4179c1453/78544
+#EXTINF:-1 tvg-id="" tvg-name="FR: NAT GEO" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"NAT GEO
+http://jessicatv.site:8080/scoffy/94c4179c1453/34353
+#EXTINF:-1 tvg-id="" tvg-name="FR: NAT GEO Wild" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"NAT GEO Wild
+http://jessicatv.site:8080/scoffy/94c4179c1453/187
+#EXTINF:-1 tvg-id="" tvg-name="FR: NAT GRO Wild" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"NAT GRO Wild
+http://jessicatv.site:8080/scoffy/94c4179c1453/76778
+#EXTINF:-1 tvg-id="" tvg-name="FR: Nautical" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"Nautical
+http://jessicatv.site:8080/scoffy/94c4179c1453/53125
+#EXTINF:-1 tvg-id="" tvg-name="FR: NBC Golf" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"NBC Golf
+http://jessicatv.site:8080/scoffy/94c4179c1453/71359
+#EXTINF:-1 tvg-id="" tvg-name="FR: NETFLIX FILM 1" tvg-logo="" group-title="scoffy"NETFLIX FILM 1
+http://jessicatv.site:8080/scoffy/94c4179c1453/145297
+#EXTINF:-1 tvg-id="" tvg-name="FR: NETFLIX FILM 2" tvg-logo="" group-title="scoffy"NETFLIX FILM 2
+http://jessicatv.site:8080/scoffy/94c4179c1453/145300
+#EXTINF:-1 tvg-id="" tvg-name="FR: NETFLIX FILM 3" tvg-logo="" group-title="scoffy"NETFLIX FILM 3
+http://jessicatv.site:8080/scoffy/94c4179c1453/145295
+#EXTINF:-1 tvg-id="" tvg-name="FR: NETFLIX FILM 4" tvg-logo="" group-title="scoffy"NETFLIX FILM 4
+http://jessicatv.site:8080/scoffy/94c4179c1453/145296
+#EXTINF:-1 tvg-id="" tvg-name="FR: NETFLIX FILM 5" tvg-logo="" group-title="scoffy"NETFLIX FILM 5
+http://jessicatv.site:8080/scoffy/94c4179c1453/145301
+#EXTINF:-1 tvg-id="" tvg-name="FR: NETFLIX FILM 6" tvg-logo="" group-title="scoffy"NETFLIX FILM 6
+http://jessicatv.site:8080/scoffy/94c4179c1453/145299
+#EXTINF:-1 tvg-id="" tvg-name="FR: NETFLIX FILM 7" tvg-logo="" group-title="scoffy"NETFLIX FILM 7
+http://jessicatv.site:8080/scoffy/94c4179c1453/145298
+#EXTINF:-1 tvg-id="" tvg-name="FR: NETFLIX FILM 8" tvg-logo="" group-title="scoffy"NETFLIX FILM 8
+http://jessicatv.site:8080/scoffy/94c4179c1453/145309
+#EXTINF:-1 tvg-id="" tvg-name="FR: Netflix Movies" tvg-logo="" group-title="scoffy"Netflix Movies
+http://jessicatv.site:8080/scoffy/94c4179c1453/122468
+#EXTINF:-1 tvg-id="" tvg-name="FR: nick 4teens" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"nick 4teens
+http://jessicatv.site:8080/scoffy/94c4179c1453/206
+#EXTINF:-1 tvg-id="" tvg-name="FR: nickelodeon +1" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"nickelodeon +1
+http://jessicatv.site:8080/scoffy/94c4179c1453/63585
+#EXTINF:-1 tvg-id="" tvg-name="FR: nickelodeon" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"nickelodeon
+http://jessicatv.site:8080/scoffy/94c4179c1453/204
+#EXTINF:-1 tvg-id="" tvg-name="FR: nickelodeon JUN" tvg-logo="" group-title="scoffy"nickelodeon JUN
+http://jessicatv.site:8080/scoffy/94c4179c1453/146350
+#EXTINF:-1 tvg-id="" tvg-name="FR: nickelodeon Junior" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"nickelodeon Junior
+http://jessicatv.site:8080/scoffy/94c4179c1453/1186
+#EXTINF:-1 tvg-id="" tvg-name="FR: nickelodeon Teen" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"nickelodeon Teen
+http://jessicatv.site:8080/scoffy/94c4179c1453/1185
+#EXTINF:-1 tvg-id="" tvg-name="FR: NJR Hits" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"NJR Hits
+http://jessicatv.site:8080/scoffy/94c4179c1453/48479
+#EXTINF:-1 tvg-id="" tvg-name="FR: NOLLYWOOD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"NOLLYWOOD
+http://jessicatv.site:8080/scoffy/94c4179c1453/36786
+#EXTINF:-1 tvg-id="" tvg-name="FR: NOLYWOOD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"NOLYWOOD
+http://jessicatv.site:8080/scoffy/94c4179c1453/76596
+#EXTINF:-1 tvg-id="" tvg-name="FR: NOVALES TV" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"NOVALES TV
+http://jessicatv.site:8080/scoffy/94c4179c1453/82344
+#EXTINF:-1 tvg-id="" tvg-name="FR: NOVELAS" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"NOVELAS
+http://jessicatv.site:8080/scoffy/94c4179c1453/27960
+#EXTINF:-1 tvg-id="" tvg-name="FR: NRJ 12" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"NRJ 12
+http://jessicatv.site:8080/scoffy/94c4179c1453/226
+#EXTINF:-1 tvg-id="" tvg-name="FR: NRJ Hits" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"NRJ Hits
+http://jessicatv.site:8080/scoffy/94c4179c1453/221
+#EXTINF:-1 tvg-id="" tvg-name="FR: NRJ TV" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"NRJ TV
+http://jessicatv.site:8080/scoffy/94c4179c1453/40182
+#EXTINF:-1 tvg-id="" tvg-name="FR: NT1 FRANCE" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"NT1 FRANCE
+http://jessicatv.site:8080/scoffy/94c4179c1453/68460
+#EXTINF:-1 tvg-id="" tvg-name="FR: NT1" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"NT1
+http://jessicatv.site:8080/scoffy/94c4179c1453/39693
+#EXTINF:-1 tvg-id="" tvg-name="FR: NUMERO 23" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"NUMERO 23
+http://jessicatv.site:8080/scoffy/94c4179c1453/43479
+#EXTINF:-1 tvg-id="" tvg-name="FR: OCS Choc" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"OCS Choc
+http://jessicatv.site:8080/scoffy/94c4179c1453/1184
+#EXTINF:-1 tvg-id="" tvg-name="FR: OCS City" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"OCS City
+http://jessicatv.site:8080/scoffy/94c4179c1453/178
+#EXTINF:-1 tvg-id="" tvg-name="FR: OCS GEANT" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"OCS GEANT
+http://jessicatv.site:8080/scoffy/94c4179c1453/177
+#EXTINF:-1 tvg-id="" tvg-name="FR: OCS Go Cinema 4" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"OCS Go Cinema 4
+http://jessicatv.site:8080/scoffy/94c4179c1453/76600
+#EXTINF:-1 tvg-id="" tvg-name="FR: OCS Max" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"OCS Max
+http://jessicatv.site:8080/scoffy/94c4179c1453/869
+#EXTINF:-1 tvg-id="" tvg-name="FR: OGGY & LES CAFARDS 24/7" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"OGGY & LES CAFARDS 24/7
+http://jessicatv.site:8080/scoffy/94c4179c1453/63590
+#EXTINF:-1 tvg-id="" tvg-name="FR: OL TV" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"OL TV
+http://jessicatv.site:8080/scoffy/94c4179c1453/6238
+#EXTINF:-1 tvg-id="" tvg-name="FR: ONE By" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"ONE By
+http://jessicatv.site:8080/scoffy/94c4179c1453/84607
+#EXTINF:-1 tvg-id="" tvg-name="FR: Orange Cine 1" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"Orange Cine 1
+http://jessicatv.site:8080/scoffy/94c4179c1453/14047
+#EXTINF:-1 tvg-id="" tvg-name="FR: Orange Cine 2" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"Orange Cine 2
+http://jessicatv.site:8080/scoffy/94c4179c1453/14054
+#EXTINF:-1 tvg-id="" tvg-name="FR: Orange Cine 3" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"Orange Cine 3
+http://jessicatv.site:8080/scoffy/94c4179c1453/14049
+#EXTINF:-1 tvg-id="" tvg-name="FR: Orange Cine 4" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"Orange Cine 4
+http://jessicatv.site:8080/scoffy/94c4179c1453/14051
+#EXTINF:-1 tvg-id="" tvg-name="FR: Orange Cine 5" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"Orange Cine 5
+http://jessicatv.site:8080/scoffy/94c4179c1453/14050
+#EXTINF:-1 tvg-id="" tvg-name="FR: Orange Cine Comedy" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"Orange Cine Comedy
+http://jessicatv.site:8080/scoffy/94c4179c1453/69305
+#EXTINF:-1 tvg-id="" tvg-name="FR: Orange Cinema 1" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"Orange Cinema 1
+http://jessicatv.site:8080/scoffy/94c4179c1453/27961
+#EXTINF:-1 tvg-id="" tvg-name="FR: Orange Cinema 3" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"Orange Cinema 3
+http://jessicatv.site:8080/scoffy/94c4179c1453/27965
+#EXTINF:-1 tvg-id="" tvg-name="FR: Orange Cinema 4" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"Orange Cinema 4
+http://jessicatv.site:8080/scoffy/94c4179c1453/27963
+#EXTINF:-1 tvg-id="" tvg-name="FR: Orange Cinema 5" tvg-logo="" group-title="scoffy"Orange Cinema 5
+http://jessicatv.site:8080/scoffy/94c4179c1453/147339
+#EXTINF:-1 tvg-id="" tvg-name="FR: ORANGE CINEMA 6" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"ORANGE CINEMA 6
+http://jessicatv.site:8080/scoffy/94c4179c1453/244
+#EXTINF:-1 tvg-id="" tvg-name="FR: Orange Cinema Action" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"Orange Cinema Action
+http://jessicatv.site:8080/scoffy/94c4179c1453/15394
+#EXTINF:-1 tvg-id="" tvg-name="FR: Orange Cinema Aventure" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"Orange Cinema Aventure
+http://jessicatv.site:8080/scoffy/94c4179c1453/15395
+#EXTINF:-1 tvg-id="" tvg-name="FR: Orange Cinema Comedy" tvg-logo="" group-title="scoffy"Orange Cinema Comedy
+http://jessicatv.site:8080/scoffy/94c4179c1453/147340
+#EXTINF:-1 tvg-id="" tvg-name="FR: Orange Cinema Geant" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"Orange Cinema Geant
+http://jessicatv.site:8080/scoffy/94c4179c1453/15396
+#EXTINF:-1 tvg-id="" tvg-name="FR: Orange Cinema" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"Orange Cinema
+http://jessicatv.site:8080/scoffy/94c4179c1453/76602
+#EXTINF:-1 tvg-id="" tvg-name="FR: Orange Cinema HORREUR" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"Orange Cinema HORREUR
+http://jessicatv.site:8080/scoffy/94c4179c1453/15399
+#EXTINF:-1 tvg-id="" tvg-name="FR: Orange Comment CEst Fait" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"Orange Comment CEst Fait
+http://jessicatv.site:8080/scoffy/94c4179c1453/76603
+#EXTINF:-1 tvg-id="" tvg-name="FR: OUATCH TV" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"OUATCH TV
+http://jessicatv.site:8080/scoffy/94c4179c1453/53661
+#EXTINF:-1 tvg-id="" tvg-name="FR: Paramount Channel Decale" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"Paramount Channel Decale
+http://jessicatv.site:8080/scoffy/94c4179c1453/1907
+#EXTINF:-1 tvg-id="" tvg-name="FR: Paramount Channel" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"Paramount Channel
+http://jessicatv.site:8080/scoffy/94c4179c1453/1183
+#EXTINF:-1 tvg-id="" tvg-name="FR: Paris Premiere" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"Paris Premiere
+http://jessicatv.site:8080/scoffy/94c4179c1453/868
+#EXTINF:-1 tvg-id="" tvg-name="FR: PIWI" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"PIWI
+http://jessicatv.site:8080/scoffy/94c4179c1453/70808
+#EXTINF:-1 tvg-id="" tvg-name="FR: Piwi+" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"Piwi+
+http://jessicatv.site:8080/scoffy/94c4179c1453/4377
+#EXTINF:-1 tvg-id="" tvg-name="FR: Plan te CI" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"Plan te CI
+http://jessicatv.site:8080/scoffy/94c4179c1453/63008
+#EXTINF:-1 tvg-id="" tvg-name="FR: PLANETE" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"PLANETE
+http://jessicatv.site:8080/scoffy/94c4179c1453/75471
+#EXTINF:-1 tvg-id="" tvg-name="FR: PLANETE+ A&E" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"PLANETE+ A&E
+http://jessicatv.site:8080/scoffy/94c4179c1453/1181
+#EXTINF:-1 tvg-id="" tvg-name="FR: PLANETE+ CI" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"PLANETE+ CI
+http://jessicatv.site:8080/scoffy/94c4179c1453/192
+#EXTINF:-1 tvg-id="" tvg-name="FR: PLANETE+" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"PLANETE+
+http://jessicatv.site:8080/scoffy/94c4179c1453/191
+#EXTINF:-1 tvg-id="" tvg-name="FR: PLANETE+ PLUS" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"PLANETE+ PLUS
+http://jessicatv.site:8080/scoffy/94c4179c1453/55384
+#EXTINF:-1 tvg-id="" tvg-name="FR: PLANETTE CI" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"PLANETTE CI
+http://jessicatv.site:8080/scoffy/94c4179c1453/40120
+#EXTINF:-1 tvg-id="" tvg-name="FR: Plug RTL" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"Plug RTL
+http://jessicatv.site:8080/scoffy/94c4179c1453/82962
+#EXTINF:-1 tvg-id="" tvg-name="FR: POLAR+" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"POLAR+
+http://jessicatv.site:8080/scoffy/94c4179c1453/1202
+#EXTINF:-1 tvg-id="" tvg-name="FR: PORTAIL CANAL PLAY" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"PORTAIL CANAL PLAY
+http://jessicatv.site:8080/scoffy/94c4179c1453/78515
+#EXTINF:-1 tvg-id="" tvg-name="FR: PORTALFOX MIX" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"PORTALFOX MIX
+http://jessicatv.site:8080/scoffy/94c4179c1453/28499
+#EXTINF:-1 tvg-id="" tvg-name="FR: PUBLIC SENATl" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"PUBLIC SENATl
+http://jessicatv.site:8080/scoffy/94c4179c1453/27974
+#EXTINF:-1 tvg-id="" tvg-name="FR: RCM Sport 2" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"RCM Sport 2
+http://jessicatv.site:8080/scoffy/94c4179c1453/28213
+#EXTINF:-1 tvg-id="" tvg-name="FR: RFM TV" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"RFM TV
+http://jessicatv.site:8080/scoffy/94c4179c1453/27918
+#EXTINF:-1 tvg-id="" tvg-name="FR: RFM TV MUSIC" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"RFM TV MUSIC
+http://jessicatv.site:8080/scoffy/94c4179c1453/40114
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC ACCESS SPORT 2" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"RMC ACCESS SPORT 2
+http://jessicatv.site:8080/scoffy/94c4179c1453/15413
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC ACCESS SPORT 3" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"RMC ACCESS SPORT 3
+http://jessicatv.site:8080/scoffy/94c4179c1453/63660
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Decouverte" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"RMC Decouverte
+http://jessicatv.site:8080/scoffy/94c4179c1453/198
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC NEWS SPORT" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"RMC NEWS SPORT
+http://jessicatv.site:8080/scoffy/94c4179c1453/17343
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT 1" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"RMC SPORT 1
+http://jessicatv.site:8080/scoffy/94c4179c1453/39293
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT 1" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"RMC SPORT 1
+http://jessicatv.site:8080/scoffy/94c4179c1453/2984
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT 2 Access" tvg-logo="" group-title="scoffy"RMC SPORT 2 Access
+http://jessicatv.site:8080/scoffy/94c4179c1453/91769
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT 2" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"RMC SPORT 2
+http://jessicatv.site:8080/scoffy/94c4179c1453/39291
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT 2" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"RMC SPORT 2
+http://jessicatv.site:8080/scoffy/94c4179c1453/1938
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT 3" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"RMC SPORT 3
+http://jessicatv.site:8080/scoffy/94c4179c1453/16730
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT 3" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"RMC SPORT 3
+http://jessicatv.site:8080/scoffy/94c4179c1453/2983
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT 4" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"RMC SPORT 4
+http://jessicatv.site:8080/scoffy/94c4179c1453/39294
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT 4" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"RMC SPORT 4
+http://jessicatv.site:8080/scoffy/94c4179c1453/3641
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT 5" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"RMC SPORT 5
+http://jessicatv.site:8080/scoffy/94c4179c1453/1940
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT 6" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"RMC SPORT 6
+http://jessicatv.site:8080/scoffy/94c4179c1453/24627
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT 7" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"RMC SPORT 7
+http://jessicatv.site:8080/scoffy/94c4179c1453/20883
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT 8" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"RMC SPORT 8
+http://jessicatv.site:8080/scoffy/94c4179c1453/20884
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT 9" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"RMC SPORT 9
+http://jessicatv.site:8080/scoffy/94c4179c1453/20885
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT 10" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"RMC SPORT 10
+http://jessicatv.site:8080/scoffy/94c4179c1453/20886
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT 11" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"RMC SPORT 11
+http://jessicatv.site:8080/scoffy/94c4179c1453/20888
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT 12" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"RMC SPORT 12
+http://jessicatv.site:8080/scoffy/94c4179c1453/20887
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT 13" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"RMC SPORT 13
+http://jessicatv.site:8080/scoffy/94c4179c1453/20890
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT 14" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"RMC SPORT 14
+http://jessicatv.site:8080/scoffy/94c4179c1453/20889
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT 16" tvg-logo="" group-title="scoffy"RMC SPORT 16
+http://jessicatv.site:8080/scoffy/94c4179c1453/95687
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"RMC SPORT
+http://jessicatv.site:8080/scoffy/94c4179c1453/877
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT NEWS" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"RMC SPORT NEWS
+http://jessicatv.site:8080/scoffy/94c4179c1453/1937
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT News" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"RMC SPORT News
+http://jessicatv.site:8080/scoffy/94c4179c1453/6239
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Story" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"RMC Story
+http://jessicatv.site:8080/scoffy/94c4179c1453/162
+#EXTINF:-1 tvg-id="" tvg-name="FR: ROUGE TV" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"ROUGE TV
+http://jessicatv.site:8080/scoffy/94c4179c1453/23463
+#EXTINF:-1 tvg-id="" tvg-name="FR: RT FRANCE" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"RT FRANCE
+http://jessicatv.site:8080/scoffy/94c4179c1453/15365
+#EXTINF:-1 tvg-id="" tvg-name="FR: RTL 9" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"RTL 9
+http://jessicatv.site:8080/scoffy/94c4179c1453/1178
+#EXTINF:-1 tvg-id="" tvg-name="FR: RTL TVI" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"RTL TVI
+http://jessicatv.site:8080/scoffy/94c4179c1453/82959
+#EXTINF:-1 tvg-id="" tvg-name="FR: RTS 1" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"RTS 1
+http://jessicatv.site:8080/scoffy/94c4179c1453/6057
+#EXTINF:-1 tvg-id="" tvg-name="FR: RTS Deux" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"RTS Deux
+http://jessicatv.site:8080/scoffy/94c4179c1453/6248
+#EXTINF:-1 tvg-id="" tvg-name="FR: RTS INEDIT 1" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"RTS INEDIT 1
+http://jessicatv.site:8080/scoffy/94c4179c1453/7857
+#EXTINF:-1 tvg-id="" tvg-name="FR: RTS UN" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"RTS UN
+http://jessicatv.site:8080/scoffy/94c4179c1453/17357
+#EXTINF:-1 tvg-id="" tvg-name="FR: RTS Une" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"RTS Une
+http://jessicatv.site:8080/scoffy/94c4179c1453/82948
+#EXTINF:-1 tvg-id="" tvg-name="FR: Science & Vie TV" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"Science & Vie TV
+http://jessicatv.site:8080/scoffy/94c4179c1453/199
+#EXTINF:-1 tvg-id="" tvg-name="FR: SEASON" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"SEASON
+http://jessicatv.site:8080/scoffy/94c4179c1453/195
+#EXTINF:-1 tvg-id="" tvg-name="FR: SERIE CLUB" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"SERIE CLUB
+http://jessicatv.site:8080/scoffy/94c4179c1453/1903
+#EXTINF:-1 tvg-id="" tvg-name="FR: STAR TV" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"STAR TV
+http://jessicatv.site:8080/scoffy/94c4179c1453/78520
+#EXTINF:-1 tvg-id="" tvg-name="FR: SUNDANCE TV" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"SUNDANCE TV
+http://jessicatv.site:8080/scoffy/94c4179c1453/16716
+#EXTINF:-1 tvg-id="" tvg-name="FR: SYFY" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"SYFY
+http://jessicatv.site:8080/scoffy/94c4179c1453/867
+#EXTINF:-1 tvg-id="" tvg-name="FR: TCM CINEMA" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"TCM CINEMA
+http://jessicatv.site:8080/scoffy/94c4179c1453/1902
+#EXTINF:-1 tvg-id="" tvg-name="FR: TEBEO" tvg-logo="" group-title="scoffy"TEBEO
+http://jessicatv.site:8080/scoffy/94c4179c1453/146250
+#EXTINF:-1 tvg-id="" tvg-name="FR: Teleclub Zoom" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"Teleclub Zoom
+http://jessicatv.site:8080/scoffy/94c4179c1453/33171
+#EXTINF:-1 tvg-id="" tvg-name="FR: TELETOON 1" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"TELETOON 1
+http://jessicatv.site:8080/scoffy/94c4179c1453/78546
+#EXTINF:-1 tvg-id="" tvg-name="FR: TELETOON" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"TELETOON
+http://jessicatv.site:8080/scoffy/94c4179c1453/42087
+#EXTINF:-1 tvg-id="" tvg-name="FR: TELETOON+" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"TELETOON+
+http://jessicatv.site:8080/scoffy/94c4179c1453/218
+#EXTINF:-1 tvg-id="" tvg-name="FR: TEVA" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"TEVA
+http://jessicatv.site:8080/scoffy/94c4179c1453/866
+#EXTINF:-1 tvg-id="" tvg-name="FR: TF1 +1" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"TF1 +1
+http://jessicatv.site:8080/scoffy/94c4179c1453/26214
+#EXTINF:-1 tvg-id="" tvg-name="FR: TF1" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"TF1
+http://jessicatv.site:8080/scoffy/94c4179c1453/153
+#EXTINF:-1 tvg-id="" tvg-name="FR: TF1 FILM" tvg-logo="" group-title="scoffy"TF1 FILM
+http://jessicatv.site:8080/scoffy/94c4179c1453/146349
+#EXTINF:-1 tvg-id="" tvg-name="FR: TF1 SERIE" tvg-logo="" group-title="scoffy"TF1 SERIE
+http://jessicatv.site:8080/scoffy/94c4179c1453/146348
+#EXTINF:-1 tvg-id="" tvg-name="FR: TF1 Series Films" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"TF1 Series Films
+http://jessicatv.site:8080/scoffy/94c4179c1453/1898
+#EXTINF:-1 tvg-id="" tvg-name="FR: TFX" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"TFX
+http://jessicatv.site:8080/scoffy/94c4179c1453/164
+#EXTINF:-1 tvg-id="" tvg-name="FR: TIJI" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"TIJI
+http://jessicatv.site:8080/scoffy/94c4179c1453/215
+#EXTINF:-1 tvg-id="" tvg-name="FR: TMA TV" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"TMA TV
+http://jessicatv.site:8080/scoffy/94c4179c1453/63643
+#EXTINF:-1 tvg-id="" tvg-name="FR: TMC" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"TMC
+http://jessicatv.site:8080/scoffy/94c4179c1453/865
+#EXTINF:-1 tvg-id="" tvg-name="FR: Toonami" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"Toonami
+http://jessicatv.site:8080/scoffy/94c4179c1453/39715
+#EXTINF:-1 tvg-id="" tvg-name="FR: TOONAMI UNLIMITED" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"TOONAMI UNLIMITED
+http://jessicatv.site:8080/scoffy/94c4179c1453/203
+#EXTINF:-1 tvg-id="" tvg-name="FR: TOUTE L HISTOIRE" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"TOUTE L HISTOIRE
+http://jessicatv.site:8080/scoffy/94c4179c1453/200
+#EXTINF:-1 tvg-id="" tvg-name="FR: Toutehistoire" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"Toutehistoire
+http://jessicatv.site:8080/scoffy/94c4179c1453/52192
+#EXTINF:-1 tvg-id="" tvg-name="FR: TRACE Africa" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"TRACE Africa
+http://jessicatv.site:8080/scoffy/94c4179c1453/4311
+#EXTINF:-1 tvg-id="" tvg-name="FR: TRACE AYITI" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"TRACE AYITI
+http://jessicatv.site:8080/scoffy/94c4179c1453/28501
+#EXTINF:-1 tvg-id="" tvg-name="FR: TRACE Gospel" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"TRACE Gospel
+http://jessicatv.site:8080/scoffy/94c4179c1453/11999
+#EXTINF:-1 tvg-id="" tvg-name="FR: TRACE Kitoco" tvg-logo="http://vod-gate.sytes.net/files/t20.png" group-title="scoffy"TRACE Kitoco
+http://jessicatv.site:8080/scoffy/94c4179c1453/3685
+#EXTINF:-1 tvg-id="" tvg-name="FR: TRACE KITOKO" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"TRACE KITOKO
+http://jessicatv.site:8080/scoffy/94c4179c1453/26385
+#EXTINF:-1 tvg-id="" tvg-name="FR: TRACE LATINA" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"TRACE LATINA
+http://jessicatv.site:8080/scoffy/94c4179c1453/32392
+#EXTINF:-1 tvg-id="" tvg-name="FR: TRACE MISIKI" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"TRACE MISIKI
+http://jessicatv.site:8080/scoffy/94c4179c1453/74092
+#EXTINF:-1 tvg-id="" tvg-name="FR: TRACE Mziki" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"TRACE Mziki
+http://jessicatv.site:8080/scoffy/94c4179c1453/12000
+#EXTINF:-1 tvg-id="" tvg-name="FR: TRACE Naija" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"TRACE Naija
+http://jessicatv.site:8080/scoffy/94c4179c1453/12001
+#EXTINF:-1 tvg-id="" tvg-name="FR: TRACE SPORTS STARS" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"TRACE SPORTS STARS
+http://jessicatv.site:8080/scoffy/94c4179c1453/12002
+#EXTINF:-1 tvg-id="" tvg-name="FR: TRACE SPORTS STARTS" tvg-logo="" group-title="scoffy"TRACE SPORTS STARTS
+http://jessicatv.site:8080/scoffy/94c4179c1453/146995
+#EXTINF:-1 tvg-id="" tvg-name="FR: TRACE Toca" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"TRACE Toca
+http://jessicatv.site:8080/scoffy/94c4179c1453/7560
+#EXTINF:-1 tvg-id="" tvg-name="FR: TRACE TOPICAL" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"TRACE TOPICAL
+http://jessicatv.site:8080/scoffy/94c4179c1453/74091
+#EXTINF:-1 tvg-id="" tvg-name="FR: TRACE Tropical" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"TRACE Tropical
+http://jessicatv.site:8080/scoffy/94c4179c1453/1679
+#EXTINF:-1 tvg-id="" tvg-name="FR: TRACE URBAINE" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"TRACE URBAINE
+http://jessicatv.site:8080/scoffy/94c4179c1453/74095
+#EXTINF:-1 tvg-id="" tvg-name="FR: TRACE URBAN" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"TRACE URBAN
+http://jessicatv.site:8080/scoffy/94c4179c1453/225
+#EXTINF:-1 tvg-id="" tvg-name="FR: TRACE URBAN Tropical" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"TRACE URBAN Tropical
+http://jessicatv.site:8080/scoffy/94c4179c1453/84604
+#EXTINF:-1 tvg-id="" tvg-name="FR: TREK" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"TREK
+http://jessicatv.site:8080/scoffy/94c4179c1453/194
+#EXTINF:-1 tvg-id="" tvg-name="FR: TV 5" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"TV 5
+http://jessicatv.site:8080/scoffy/94c4179c1453/6188
+#EXTINF:-1 tvg-id="" tvg-name="FR: TV 5 MONDE FRANCE" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"TV 5 MONDE FRANCE
+http://jessicatv.site:8080/scoffy/94c4179c1453/879
+#EXTINF:-1 tvg-id="" tvg-name="FR: TV 7" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"TV 7
+http://jessicatv.site:8080/scoffy/94c4179c1453/15359
+#EXTINF:-1 tvg-id="" tvg-name="FR: TV BREITZ" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"TV BREITZ
+http://jessicatv.site:8080/scoffy/94c4179c1453/69310
+#EXTINF:-1 tvg-id="" tvg-name="FR: TV BREIZH" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"TV BREIZH
+http://jessicatv.site:8080/scoffy/94c4179c1453/166
+#EXTINF:-1 tvg-id="" tvg-name="FR: TV5 FR BE SU" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"TV5 FR BE SU
+http://jessicatv.site:8080/scoffy/94c4179c1453/63619
+#EXTINF:-1 tvg-id="" tvg-name="FR: TV5 Monde Europe" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"TV5 Monde Europe
+http://jessicatv.site:8080/scoffy/94c4179c1453/36233
+#EXTINF:-1 tvg-id="" tvg-name="FR: TV5 MONDE FBS" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"TV5 MONDE FBS
+http://jessicatv.site:8080/scoffy/94c4179c1453/78526
+#EXTINF:-1 tvg-id="" tvg-name="FR: TV5 Monde" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"TV5 Monde
+http://jessicatv.site:8080/scoffy/94c4179c1453/39714
+#EXTINF:-1 tvg-id="" tvg-name="FR: TV5 MONDE INFO" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"TV5 MONDE INFO
+http://jessicatv.site:8080/scoffy/94c4179c1453/15322
+#EXTINF:-1 tvg-id="" tvg-name="FR: TV5 Monderique" tvg-logo="" group-title="scoffy"TV5 Monderique
+http://jessicatv.site:8080/scoffy/94c4179c1453/121802
+#EXTINF:-1 tvg-id="" tvg-name="FR: TV5 STYLE" tvg-logo="" group-title="scoffy"TV5 STYLE
+http://jessicatv.site:8080/scoffy/94c4179c1453/91845
+#EXTINF:-1 tvg-id="" tvg-name="FR: TV7 Colmar" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"TV7 Colmar
+http://jessicatv.site:8080/scoffy/94c4179c1453/44709
+#EXTINF:-1 tvg-id="" tvg-name="FR: TV8 MONT BLANC" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"TV8 MONT BLANC
+http://jessicatv.site:8080/scoffy/94c4179c1453/23464
+#EXTINF:-1 tvg-id="" tvg-name="FR: TV8 MontBlanc 1" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"TV8 MontBlanc 1
+http://jessicatv.site:8080/scoffy/94c4179c1453/75543
+#EXTINF:-1 tvg-id="" tvg-name="FR: TVM3" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"TVM3
+http://jessicatv.site:8080/scoffy/94c4179c1453/79804
+#EXTINF:-1 tvg-id="" tvg-name="FR: TVPI" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"TVPI
+http://jessicatv.site:8080/scoffy/94c4179c1453/28443
+#EXTINF:-1 tvg-id="" tvg-name="FR: TVPI BAYONNE" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"TVPI BAYONNE
+http://jessicatv.site:8080/scoffy/94c4179c1453/39717
+#EXTINF:-1 tvg-id="" tvg-name="FR: Ushuaia" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"Ushuaia
+http://jessicatv.site:8080/scoffy/94c4179c1453/190
+#EXTINF:-1 tvg-id="" tvg-name="FR: Ushuia TV" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"Ushuia TV
+http://jessicatv.site:8080/scoffy/94c4179c1453/71348
+#EXTINF:-1 tvg-id="" tvg-name="FR: VH1 CLASSIC" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"VH1 CLASSIC
+http://jessicatv.site:8080/scoffy/94c4179c1453/40094
+#EXTINF:-1 tvg-id="" tvg-name="FR: VIA MIRABELLE TV" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"VIA MIRABELLE TV
+http://jessicatv.site:8080/scoffy/94c4179c1453/75550
+#EXTINF:-1 tvg-id="" tvg-name="FR: VICELAND" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"VICELAND
+http://jessicatv.site:8080/scoffy/94c4179c1453/23417
+#EXTINF:-1 tvg-id="" tvg-name="FR: Vitrine CANAL PLAY Live" tvg-logo="" group-title="scoffy"Vitrine CANAL PLAY Live
+http://jessicatv.site:8080/scoffy/94c4179c1453/146586
+#EXTINF:-1 tvg-id="" tvg-name="FR: VOO SPORT 1" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"VOO SPORT 1
+http://jessicatv.site:8080/scoffy/94c4179c1453/53664
+#EXTINF:-1 tvg-id="" tvg-name="FR: VOSGES TV" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"VOSGES TV
+http://jessicatv.site:8080/scoffy/94c4179c1453/23460
+#EXTINF:-1 tvg-id="" tvg-name="FR: Voyage dans l espace temps" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"Voyage dans l espace temps
+http://jessicatv.site:8080/scoffy/94c4179c1453/57214
+#EXTINF:-1 tvg-id="" tvg-name="FR: VOYAGE" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"VOYAGE
+http://jessicatv.site:8080/scoffy/94c4179c1453/189
+#EXTINF:-1 tvg-id="" tvg-name="FR: W9" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"W9
+http://jessicatv.site:8080/scoffy/94c4179c1453/160
+#EXTINF:-1 tvg-id="" tvg-name="FR: WARNER" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"WARNER
+http://jessicatv.site:8080/scoffy/94c4179c1453/13360
+#EXTINF:-1 tvg-id="" tvg-name="FR: WEO" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"WEO
+http://jessicatv.site:8080/scoffy/94c4179c1453/15360
+#EXTINF:-1 tvg-id="" tvg-name="FR: ZOUZOU TV" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="scoffy"ZOUZOU TV
+http://jessicatv.site:8080/scoffy/94c4179c1453/217
+#EXTINF:-1 tvg-id="" tvg-name="13 EME RUE" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="yourdnshere",13 EME RUE
+http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/376279
+#EXTINF:-1 tvg-id="" tvg-name="6TER" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="yourdnshere",6TER
+http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/376280
+#EXTINF:-1 tvg-id="" tvg-name="A LA CARTE 1" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="yourdnshere",A LA CARTE 1
+http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/376392
+#EXTINF:-1 tvg-id="" tvg-name="A LA CARTE 10" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="yourdnshere",A LA CARTE 10
+http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/376281
+#EXTINF:-1 tvg-id="" tvg-name="A LA CARTE 5" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="yourdnshere",A LA CARTE 5
+http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/376390
+#EXTINF:-1 tvg-id="" tvg-name="A La Carte 6" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/375px-Flag_of_France.svg.png" group-title="yourdnshere",A La Carte 6
+http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/256807
+#EXTINF:-1 tvg-id="" tvg-name="A la Carte 6" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="yourdnshere",A la Carte 6
+http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/376391
+#EXTINF:-1 tvg-id="" tvg-name="A LA CARTE 7" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="yourdnshere",A LA CARTE 7
+http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/376282
+#EXTINF:-1 tvg-id="" tvg-name="A LA CARTE 8" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="yourdnshere",A LA CARTE 8
+http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/376283
+#EXTINF:-1 tvg-id="" tvg-name="A LA CARTE 9" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="yourdnshere",A LA CARTE 9
+http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/376284
+#EXTINF:-1 tvg-id="" tvg-name="A.LA.CARTE.3" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="yourdnshere",A.LA.CARTE.3
+http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/376393
+#EXTINF:-1 tvg-id="" tvg-name="A.LA.CARTE.4" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="yourdnshere",A.LA.CARTE.4
+http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/376394
+#EXTINF:-1 tvg-id="" tvg-name="AB Moteur" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="yourdnshere",AB Moteur
+http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/376285
+#EXTINF:-1 tvg-id="" tvg-name="AB1" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="yourdnshere",AB1
+http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/376286
+#EXTINF:-1 tvg-id="" tvg-name="AB3" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="yourdnshere",AB3
+http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/376287
+#EXTINF:-1 tvg-id="" tvg-name="ACTION" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="yourdnshere",ACTION
+http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/376288
+#EXTINF:-1 tvg-id="" tvg-name="ANIMAUX" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="yourdnshere",ANIMAUX
+http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/376289
+#EXTINF:-1 tvg-id="" tvg-name="ARTE" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="yourdnshere",ARTE
+http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/376290
+#EXTINF:-1 tvg-id="" tvg-name="ARTE ( 1080P )" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="yourdnshere",ARTE ( 1080P )
+http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/376400
+#EXTINF:-1 tvg-id="" tvg-name="Bein max 4(1)" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="yourdnshere",Bein max 4(1)
+http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/376265
+#EXTINF:-1 tvg-id="Bein10Max.fr" tvg-name="Bein Sp0rt Max 10" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/375px-Flag_of_France.svg.png" group-title="yourdnshere",Bein Sp0rt Max 10
+http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/195544
+#EXTINF:-1 tvg-id="Bein6Max.fr" tvg-name="Bein Sp0rt Max 6" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/375px-Flag_of_France.svg.png" group-title="yourdnshere",Bein Sp0rt Max 6
+http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/195546
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport Max 10" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="yourdnshere",Bein Sport Max 10
+http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/376296
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport Max 5" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="yourdnshere",Bein Sport Max 5
+http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/376295
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport Max 6" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="yourdnshere",Bein Sport Max 6
+http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/376294
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport Max 7" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="yourdnshere",Bein Sport Max 7
+http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/376293
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport Max 8" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="yourdnshere",Bein Sport Max 8
+http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/376292
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport Max 9" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="yourdnshere",Bein Sport Max 9
+http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/376291
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/BeIN_Sports.png/330px-BeIN_Sports.png" group-title="INTERNATIONAL SPORTS",FR: Bein Sports 1
+http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/348427
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 3HD" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="yourdnshere",BEIN SPORTS 3HD
+http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/376378
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS1" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="yourdnshere",beIN SPORTS1
+http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/376377
+#EXTINF:-1 tvg-id="" tvg-name="beINS PORTS 2HD" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="yourdnshere",beINS PORTS 2HD
+http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/376376
+#EXTINF:-1 tvg-id="" tvg-name="BFM TV" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="yourdnshere",BFM TV
+http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/376329
+#EXTINF:-1 tvg-id="" tvg-name="Boing" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="yourdnshere",Boing
+http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/376272
+#EXTINF:-1 tvg-id="" tvg-name="BOOMERANG" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="yourdnshere",BOOMERANG
+http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/376271
+#EXTINF:-1 tvg-id="" tvg-name="BRAVA ( 1080P )" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="yourdnshere",BRAVA ( 1080P )
+http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/376401
+#EXTINF:-1 tvg-id="" tvg-name="C8" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="yourdnshere",C8
+http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/376298
+#EXTINF:-1 tvg-id="" tvg-name="Canal Cinema" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="yourdnshere",Canal Cinema
+http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/376299
+#EXTINF:-1 tvg-id="" tvg-name="Canal Decale" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="yourdnshere",Canal Decale
+http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/376300
+#EXTINF:-1 tvg-id="" tvg-name="Canal Family" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="yourdnshere",Canal Family
+http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/376301
+#EXTINF:-1 tvg-id="" tvg-name="CANAL J" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="yourdnshere",CANAL J
+http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/376304
+#EXTINF:-1 tvg-id="" tvg-name="CANAL PLAY 1" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="yourdnshere",CANAL PLAY 1
+http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/376305
+#EXTINF:-1 tvg-id="" tvg-name="CANAL PLAY 2" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="yourdnshere",CANAL PLAY 2
+http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/376306
+#EXTINF:-1 tvg-id="" tvg-name="CANAL PLAY 3" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="yourdnshere",CANAL PLAY 3
+http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/376307
+#EXTINF:-1 tvg-id="" tvg-name="CANAL PLAY 4" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="yourdnshere",CANAL PLAY 4
+http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/376308
+#EXTINF:-1 tvg-id="" tvg-name="CANAL PLAY 5" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="yourdnshere",CANAL PLAY 5
+http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/376309
+#EXTINF:-1 tvg-id="" tvg-name="CANAL PLAY 6" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="yourdnshere",CANAL PLAY 6
+http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/376310
+#EXTINF:-1 tvg-id="" tvg-name="CANAL PLAY 7" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="yourdnshere",CANAL PLAY 7
+http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/376311
+#EXTINF:-1 tvg-id="" tvg-name="Canal Series" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="yourdnshere",Canal Series
+http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/376302
+#EXTINF:-1 tvg-id="" tvg-name="Canal Sport" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="yourdnshere",Canal Sport
+http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/376303
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="yourdnshere",CANAL+
+http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/376328
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="yourdnshere",Cartoon Network
+http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/376273
+#EXTINF:-1 tvg-id="" tvg-name="Chasse et Peche" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="yourdnshere",Chasse et Peche
+http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/376312
+#EXTINF:-1 tvg-id="" tvg-name="CHERIE 25" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="yourdnshere",CHERIE 25
+http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/376313
+#EXTINF:-1 tvg-id="" tvg-name="CINE CLASSIC" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="yourdnshere",CINE CLASSIC
+http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/376314
+#EXTINF:-1 tvg-id="" tvg-name="CINE CLASSIC" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="yourdnshere",CINE CLASSIC
+http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/376315
+#EXTINF:-1 tvg-id="" tvg-name="CINE EMOTION" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="yourdnshere",CINE EMOTION
+http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/376316
+#EXTINF:-1 tvg-id="" tvg-name="CINE EMOTION" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="yourdnshere",CINE EMOTION
+http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/376317
+#EXTINF:-1 tvg-id="" tvg-name="CINE FAMIZ" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="yourdnshere",CINE FAMIZ
+http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/376318
+#EXTINF:-1 tvg-id="" tvg-name="Cine Famiz" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="yourdnshere",Cine Famiz
+http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/376319
+#EXTINF:-1 tvg-id="" tvg-name="CINE FRISSON" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="yourdnshere",CINE FRISSON
+http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/376320
+#EXTINF:-1 tvg-id="" tvg-name="CINE FRISSON" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="yourdnshere",CINE FRISSON
+http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/376321
+#EXTINF:-1 tvg-id="" tvg-name="CINE FX" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="yourdnshere",CINE FX
+http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/376322
+#EXTINF:-1 tvg-id="" tvg-name="CINE POLAR" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="yourdnshere",CINE POLAR
+http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/376323
+#EXTINF:-1 tvg-id="" tvg-name="CINE PREMIER" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="yourdnshere",CINE PREMIER
+http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/376395
+#EXTINF:-1 tvg-id="" tvg-name="CINE PREMIER" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="yourdnshere",CINE PREMIER
+http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/376324
+#EXTINF:-1 tvg-id="" tvg-name="Comedie +" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="yourdnshere",Comedie +
+http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/376326
+#EXTINF:-1 tvg-id="" tvg-name="COMEDIE" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="yourdnshere",COMEDIE
+http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/376325
+#EXTINF:-1 tvg-id="" tvg-name="CSTAR" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="yourdnshere",CSTAR
+http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/376327
+#EXTINF:-1 tvg-id="" tvg-name="D8" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="yourdnshere",D8
+http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/376297
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="yourdnshere",DISCOVERY
+http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/376410
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Science" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="yourdnshere",Discovery Science
+http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/376274
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="yourdnshere",DISNEY CHANNEL
+http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/376342
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL 1080" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="yourdnshere",DISNEY CHANNEL 1080
+http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/376403
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY CINEMA" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="yourdnshere",DISNEY CINEMA
+http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/376341
+#EXTINF:-1 tvg-id="" tvg-name="Disney Jr Fr" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="yourdnshere",Disney Jr Fr
+http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/376275
+#EXTINF:-1 tvg-id="" tvg-name="Disney XD" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="yourdnshere",Disney XD
+http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/376340
+#EXTINF:-1 tvg-id="" tvg-name="EQUIDIA live" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="yourdnshere",EQUIDIA live
+http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/376339
+#EXTINF:-1 tvg-id="" tvg-name="EURONEWS" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="yourdnshere",EURONEWS
+http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/376266
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport 1" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="yourdnshere",Eurosport 1
+http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/376338
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport 2" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="yourdnshere",Eurosport 2
+http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/376337
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport 2 1080" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="yourdnshere",Eurosport 2 1080
+http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/376404
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT2" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="yourdnshere",EUROSPORT2
+http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/376336
+#EXTINF:-1 tvg-id="" tvg-name="FRANCE 2" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="yourdnshere",FRANCE 2
+http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/376335
+#EXTINF:-1 tvg-id="" tvg-name="FRANCE 24" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="yourdnshere",FRANCE 24
+http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/376396
+#EXTINF:-1 tvg-id="" tvg-name="FRANCE 3" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="yourdnshere",FRANCE 3
+http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/376267
+#EXTINF:-1 tvg-id="" tvg-name="France 4" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="yourdnshere",France 4
+http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/376334
+#EXTINF:-1 tvg-id="" tvg-name="France 5" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="yourdnshere",France 5
+http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/376333
+#EXTINF:-1 tvg-id="" tvg-name="France O" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="yourdnshere",France O
+http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/376332
+#EXTINF:-1 tvg-id="" tvg-name="GAME ONE" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="yourdnshere",GAME ONE
+http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/376331
+#EXTINF:-1 tvg-id="" tvg-name="GULLI" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="yourdnshere",GULLI
+http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/376330
+#EXTINF:-1 tvg-id="3ABN.us" tvg-name="GULLI" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/375px-Flag_of_France.svg.png" group-title="yourdnshere",GULLI
+http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/195509
+#EXTINF:-1 tvg-id="" tvg-name="HD1" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="yourdnshere",HD1
+http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/376343
+#EXTINF:-1 tvg-id="" tvg-name="i Tele" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="yourdnshere",i Tele
+http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/376344
+#EXTINF:-1 tvg-id="" tvg-name="INFOSPORT" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="yourdnshere",INFOSPORT
+http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/376345
+#EXTINF:-1 tvg-id="" tvg-name="La Deux" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="yourdnshere",La Deux
+http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/376346
+#EXTINF:-1 tvg-id="" tvg-name="La une BE" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="yourdnshere",La une BE
+http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/376347
+#EXTINF:-1 tvg-id="" tvg-name="LCI" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="yourdnshere",LCI
+http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/376348
+#EXTINF:-1 tvg-id="" tvg-name="M6" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="yourdnshere",M6
+http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/376349
+#EXTINF:-1 tvg-id="" tvg-name="Mangas" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="yourdnshere",Mangas
+http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/376350
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="yourdnshere",Nat Geo
+http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/376276
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo Wild" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="yourdnshere",Nat Geo Wild
+http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/376277
+#EXTINF:-1 tvg-id="" tvg-name="National geo wild" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="yourdnshere",National geo wild
+http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/376351
+#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="yourdnshere",NICKELODEON
+http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/376397
+#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON JUNIOR" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="yourdnshere",NICKELODEON JUNIOR
+http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/376352
+#EXTINF:-1 tvg-id="" tvg-name="NRJ Hits" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="yourdnshere",NRJ Hits
+http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/376353
+#EXTINF:-1 tvg-id="" tvg-name="NRJ12" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="yourdnshere",NRJ12
+http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/376278
+#EXTINF:-1 tvg-id="" tvg-name="NT1" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="yourdnshere",NT1
+http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/376405
+#EXTINF:-1 tvg-id="" tvg-name="NUMERO 23" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="yourdnshere",NUMERO 23
+http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/376354
+#EXTINF:-1 tvg-id="" tvg-name="OCS CHOC" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="yourdnshere",OCS CHOC
+http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/376355
+#EXTINF:-1 tvg-id="" tvg-name="OCS CITY" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="yourdnshere",OCS CITY
+http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/376356
+#EXTINF:-1 tvg-id="" tvg-name="OCS GEANT" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="yourdnshere",OCS GEANT
+http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/376357
+#EXTINF:-1 tvg-id="" tvg-name="OCS MAX" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="yourdnshere",OCS MAX
+http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/376358
+#EXTINF:-1 tvg-id="" tvg-name="OLTV" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="yourdnshere",OLTV
+http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/376359
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT CHANNEL" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="yourdnshere",PARAMOUNT CHANNEL
+http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/376360
+#EXTINF:-1 tvg-id="" tvg-name="PARIS PREMIERE" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="yourdnshere",PARIS PREMIERE
+http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/376361
+#EXTINF:-1 tvg-id="" tvg-name="PARIS PREMIERE" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="yourdnshere",PARIS PREMIERE
+http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/376362
+#EXTINF:-1 tvg-id="" tvg-name="PIWI" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="yourdnshere",PIWI
+http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/376363
+#EXTINF:-1 tvg-id="" tvg-name="PLANETE A&E" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="yourdnshere",PLANETE A&E
+http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/376365
+#EXTINF:-1 tvg-id="" tvg-name="PLANETE CI" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="yourdnshere",PLANETE CI
+http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/376366
+#EXTINF:-1 tvg-id="" tvg-name="PLANETE" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="yourdnshere",PLANETE
+http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/376364
+#EXTINF:-1 tvg-id="" tvg-name="rmc decouverte" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="yourdnshere",rmc decouverte
+http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/376368
+#EXTINF:-1 tvg-id="" tvg-name="RTL9" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="yourdnshere",RTL9
+http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/376268
+#EXTINF:-1 tvg-id="" tvg-name="RTS Deux" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="yourdnshere",RTS Deux
+http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/376370
+#EXTINF:-1 tvg-id="" tvg-name="RTS Un" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="yourdnshere",RTS Un
+http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/376371
+#EXTINF:-1 tvg-id="" tvg-name="SCIENCE ET VIE" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="yourdnshere",SCIENCE ET VIE
+http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/376372
+#EXTINF:-1 tvg-id="" tvg-name="SCIENCES & VIE" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="yourdnshere",SCIENCES & VIE
+http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/376373
+#EXTINF:-1 tvg-id="" tvg-name="SERIE CLUB" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="yourdnshere",SERIE CLUB
+http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/376374
+#EXTINF:-1 tvg-id="" tvg-name="Series Club" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="yourdnshere",Series Club
+http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/376375
+#EXTINF:-1 tvg-id="" tvg-name="SFR sport 5" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="yourdnshere",SFR sport 5
+http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/376398
+#EXTINF:-1 tvg-id="" tvg-name="SFR: Sport 1" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="yourdnshere",SFR Sport 1
+http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/376379
+#EXTINF:-1 tvg-id="" tvg-name="SFR: Sport 2" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="yourdnshere",SFR Sport 2
+http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/376380
+#EXTINF:-1 tvg-id="" tvg-name="SFR: Sport 3" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="yourdnshere",SFR Sport 3
+http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/376381
+#EXTINF:-1 tvg-id="" tvg-name="Syfy" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="yourdnshere",Syfy
+http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/376382
+#EXTINF:-1 tvg-id="" tvg-name="TCM CINEMA" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="yourdnshere",TCM CINEMA
+http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/376406
+#EXTINF:-1 tvg-id="" tvg-name="TELETOON +" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="yourdnshere",TELETOON +
+http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/376269
+#EXTINF:-1 tvg-id="" tvg-name="Teva" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="yourdnshere",Teva
+http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/376383
+#EXTINF:-1 tvg-id="" tvg-name="TEVA/TMC" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="yourdnshere",TEVA/TMC
+http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/376407
+#EXTINF:-1 tvg-id="" tvg-name="TF1" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="yourdnshere",TF1
+http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/376384
+#EXTINF:-1 tvg-id="" tvg-name="Tiji" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="yourdnshere",Tiji
+http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/376385
+#EXTINF:-1 tvg-id="" tvg-name="TMC ( 1080P )" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="yourdnshere",TMC ( 1080P )
+http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/376402
+#EXTINF:-1 tvg-id="" tvg-name="TOUTE L HISTOIRE" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="yourdnshere",TOUTE L HISTOIRE
+http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/376386
+#EXTINF:-1 tvg-id="" tvg-name="TRACE URBAN" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="yourdnshere",TRACE URBAN
+http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/376399
+#EXTINF:-1 tvg-id="" tvg-name="TREK" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="yourdnshere",TREK
+http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/376408
+#EXTINF:-1 tvg-id="" tvg-name="TV BREIZH" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="yourdnshere",TV BREIZH
+http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/376387
+#EXTINF:-1 tvg-id="" tvg-name="TV5 MONDE" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="yourdnshere",TV5 MONDE
+http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/376409
+#EXTINF:-1 tvg-id="" tvg-name="USHUAIA" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="yourdnshere",USHUAIA
+http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/376388
+#EXTINF:-1 tvg-id="" tvg-name="VOYAGE" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="yourdnshere",VOYAGE
+http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/376411
+#EXTINF:-1 tvg-id="" tvg-name="W9" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="yourdnshere",W9
+http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/376270
+#EXTINF:-1 tvg-id="" tvg-name="Zouzou TV LOCAL" tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/56/30/ea/shutterstock-95764384.jpg" group-title="yourdnshere",Zouzou TV LOCAL
+http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/376389
+#EXTINF:-1 tvg-id="" tvg-name="CNews" tvg-logo="" group-title="yourdnshere",CNews
+http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/381407
 
