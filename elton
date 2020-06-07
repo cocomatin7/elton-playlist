@@ -678,7 +678,7 @@ https://timesnow.airtel.tv/live/RN_pull/chunklist_3.m3u8
 https://itpolly.iptv.digijadoo.net/live/colors_infinity/chunks.m3u8
 #EXTINF:-1 tvg-id="id N/A" tvg-logo="http://imagesdishtv.whatsonindia.com/dasimages/ImageRightsManagement_ChannelLogo/b3rOycoF.png" group-title="Movies", Zee Cafe HD
 http://tv.flametv.design/zeee.m3u8?c=zeecafehd
-#EXTINF:-1 tvg-id="id N/A" tvg-logo="https://d1or4efq32i6bx.cloudfront.net/logo/15_180.png" group-title="Movies", in:AXN HD
+#EXTINF:-1 tvg-id="id N/A" tvg-logo="https://d1or4efq32i6bx.cloudfront.net/logo/15_180.png" group-title="Movies",AXN HD
 https://sony247channels.akamaized.net/hls/live/2011747/AXNHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
 #EXTINF:-1 tvg-id="n/a" tvg-logo="" group-title="Movies",USA TV 
 http://cdnak8.cast4u.info/channels/2/10802.m3u8
@@ -691,7 +691,7 @@ https://1949337293.rsc.cdn77.org/1949337293/tracks-v1a1/mono.m3u8
 http://ddn.amrbd.com:8081/live/starsports1/playlist.m3u8 
 #EXTINF:-1 ch-id="STAR SPORTS 2 (IN)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ac/Star_Sports_2.jpg" group-title="Sports",STAR SPORTS 2 (IN) 
 http://ddn.amrbd.com:8081/live/starsports2/playlist.m3u8 
-#EXTINF:-1 ch-id="SONY TEN 1 (IN)" tvg-logo="https://i.ytimg.com/vi/GHr_TFO-UgE/maxresdefault.jpg" group-title="Sports", SONY TEN 1 (IN) 
+#EXTINF:-1 ch-id="SONY TEN 1 (IN)" tvg-logo="https://i.ytimg.com/vi/GHr_TFO-UgE/maxresdefault.jpg" group-title="Sports",SONY TEN 1 (IN) 
 https://sony247channels.akamaized.net/hls/live/2004807/SonyTen1SD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&amp;__nn__=5606168722001&amp;hdne
 #EXTINF:-1 ch-id="SONY TEN 2 (IN)" tvg-logo="http://www.kcltv.com/software/images/uploads/sony_ten_2.jpg" group-title="Sports", SONY TEN 2 (IN) 
 https://sony247channels.akamaized.net/hls/live/2004808/SonyTen2SD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&amp;__nn__=5606168722001&amp;hdne
