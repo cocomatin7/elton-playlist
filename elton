@@ -618,8 +618,6 @@ https://mgm-ssai.akamaized.net/amagi_hls_data_mgmAAAAAA-theworks/CDN/720x404_142
 http://ott.artmott.com/FILMBOXEXTRA/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/cz/FilmboxPlus.cz.png" group-title="Movies",Filmbox Plus
 http://ott.artmott.com/FILMBOXPLUS/tracks-v1a1/mono.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png" group-title="Movies",HBO
 http://220.158.149.14:9999/live/TV00000000000000000166@HHZT;LIVE 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png" group-title="Movies",HBO
@@ -634,20 +632,6 @@ http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
 http://104.250.154.42:8080//ZZ_huanadianying/ZZ_huanadianying.m3u8 
 #EXTINF:-1 tvg-logo="https://www.pikpng.com/pngl/b/110-1103882_hollywood-tv-logo-clipart.png" group-title="Movies",Hollywood TV
 http://104.250.154.42:8080//ZZ_haolaiwu/ZZ_haolaiwu.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #EXTINF:-1,Pluto Movies
 http://stitcher.pluto.tv/stitch/hls/channel/564b9ed65fbbbca07e8d09d2/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=4eeea560-71a7-11e8-bcb5-a1b59b812cd7&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/FOXMovies.id.png" group-title="Movies",Fox Movies
@@ -745,15 +729,10 @@ https://cdn-laos.workpoint.news/uk-skysports-epl_720/index.m3u8
 https://cdn-laos.workpoint.news/uk-skysports-arena_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/SkySportsMix.uk.png" group-title="Sports",Sky Sports Mix
 https://cdn-laos.workpoint.news/uk-skysports-mix_480/index.m3u8
-
 #EXTINF:-1 tvg-id="Bahrain Sport 1 ARB" tvg-name="Bahrain Sport 1 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/G9BMhDS.png" tvg-country="BH" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="Sports",Bahrain Sport 1
 http://185.105.4.106:1935/live/Bahrain%20Sports/chunklist.m3u8?v=1548640033
 #EXTINF:-1 tvg-id="Bahrain Sport 1 ARB" tvg-name="Bahrain Sport 1 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/G9BMhDS.png" tvg-country="BH" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="Sports",Bahrain Sport 1
 http://185.105.4.106:1935/live/Bahrain%20Sports/chunklist.m3u8?v=1558393494
-
-
-
-
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/qa/beINSports1.qa.png" group-title="Sports",beIN Sports 1
 
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/qa/beINSports2.qa.png" group-title="Sports",beIN Sports 2
@@ -775,18 +754,6 @@ http://185.105.4.106:1935/live/Bahrain%20Sports/chunklist.m3u8?v=1558393494
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/qa/beINSports10.qa.png" group-title="Sports",beIN Sports 10
 
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/qa/beINSports11.qa.png" group-title="Sports",beIN Sports 11
-
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/0jdg1c6r/th1.png" group-title="Sports 2",Premier Football HD 1
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/QCqzyCPT/th2.png" group-title="Sports 2",Premier Football HD 2
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ncHgQKjY/th3.png" group-title="Sports 2",Premier Football HD 3
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/fyM2mZLT/th4.png" group-title="Sports 2",Premier Football HD 4
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/1RKYPgCg/th5.png" group-title="Sports 2",Premier Football HD 5
-
 
 #EXTINF:-1 tvg-id="Abu Dhabi Sports ARB" tvg-name="Abu Dhabi Sports ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lKl2wZH.png" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="Sports",Abu Dhabi Sports 1
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports1
@@ -812,7 +779,6 @@ http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1300000.m3u8?
 #EXTINF:-1,Dubai Sports 3
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8?
-
 #EXTINF:-1 tvg-logo="http://i.pinimg.com/originals/2a/cc/ee/2accee3ed2f6c675d66001711dcbd1c4.png" group-title="Sports",Premier Football 1
 https://cdn-laos.workpoint.news/epl-x1_720/index.m3u8
 #EXTINF:-1 tvg-logo="http://i.pinimg.com/originals/2a/cc/ee/2accee3ed2f6c675d66001711dcbd1c4.png" group-title="Sports",Premier Football 2
@@ -890,22 +856,11 @@ https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d556
 http://145.239.255.4:8080/eir1hd/mono.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://www.eirsport.ie/Themes/eir/imgs/channel_logos/Eir-Sport-2.png" group-title="Sports", Eir-Sport-2
 http://145.239.255.4:8080/eir2hd/mono.m3u8?token=test
-
-
-
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/es/RealMadridTV.es.png" group-title="Sports",Real Madrid TV
 http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/es/.es.png" group-title="Sports",BeIN Sports Xtra
 #EXTINF:71,BeIN Sports Xtra
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?deviceType=web&deviceMake=Opera&deviceModel=Opera&sid=855d6801-c912-428d-b620-ede4dd0c3b15&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceVersion=66.0.3515.44&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=40.8364&deviceLon=-74.1403&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
-
-
-
-
-
-
-
-
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/BloombergTV.us.png" group-title="UK",Bloomberg UK
 https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8
@@ -927,7 +882,6 @@ http://51.52.156.22:8888/http/006
 http://51.52.156.22:8888/http/007
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/CBSReality.uk.png" group-title="UK",CBS Reality
 http://ott.artmott.com/CBS-Reality/tracks-v1a1/mono.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a5/Ghana_TV.png" group-title="AFRICA",Ghana TV
 https://bk7l2g37dx53-hls-live.5centscdn.com/GTV/live1.stream/index.m3u8
@@ -993,9 +947,6 @@ https://stream.ecable.tv/afc/BANDAKANY.mp4/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/13N8UX5.jpg" group-title="AFRICA", KC2
 https://5c46fa289c89f.streamlock.net/kc2/kc2/chunklist.m3u8
 
-
-
-
 #EXTINF:-1 tvg-logo="https://nbs.ug/wp-content/uploads/2019/08/NBS-TV-Logo-1.png" group-title="Uganda",NBS
 http://1641497600.rsc.cdn77.org/1641497600/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.ntv.co.ug/image/view/-/4552762/data/1967367/-/bom96qz/-/logoMain.png" group-title="Uganda",NTV Uganda
@@ -1028,41 +979,25 @@ http://1285215926.rsc.cdn77.org/1285215926/index.m3u8
 #EXTINF:-1,ARK TV
 https://streaming.viewmedia.tv/viewsatstream35/viewsatstream35.smil/chunklist.m3u8
 
-
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kids", Boomerang
 http://livecdnh3.tvanywhere.ae/hls/boomerang/04.m3u8
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.googleapis.com/drive/v3/files/1GgbQxavNbWL2haK4-11-xy_nBaUEyO4T?alt=media&key=AIzaSyCBCEkxRT6ylhJS4XTS3-iy0zA0Y9UzV8E" group-title="Kids", Discovery Kids
 http://streamidvo.multitvsolution.in/live/DiscoveryKidsHindi-a/p4.m3u8
-
 #EXTINF:-1 tvg-id="id N/A" tvg-logo="https://www.googleapis.com/drive/v3/files/1G1-qMsnjvRCXX6fO9OvfQQ4LpBjGfJ9Y?alt=media&key=AIzaSyCBCEkxRT6ylhJS4XTS3-iy0zA0Y9UzV8E" group-title="Kids", Sony Yay Hindi
 https://sony247channels.akamaized.net/hls/live/2011746/SonyYaySD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne 
-
 #EXTINF:-1 tvg-id="id N/A" tvg-logo="https://retohercules.com/files/images/images600_/nick-logo-png.png" group-title="Kids", Nick HD+ Hindi
 http://tvservice.pro:80/b0lzUpjMUzmtMFV/xkuNBtaYT74vDAD/72232
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.googleapis.com/drive/v3/files/1GNcu9c1FiOXMm3IlKJw_Y_oenVrlPe8K?alt=media&key=AIzaSyCBCEkxRT6ylhJS4XTS3-iy0zA0Y9UzV8E" group-title="Kids", Disney
 http://ott.artmott.com/DisneyChannel/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-id="id N/A" tvg-logo="noimage.png" group-title="Kids", Nickelodeon
 https://anevia115.mncnow.id/live/eds/Nickelodeon/sa_hls/Nickelodeon.m3u8|user-agent="Hotstar;in.startv.hotstar/8.9.2.714 (Android/9.0)"
-
 #EXTINF:-1 tvg-id="id N/A" tvg-logo="https://www.googleapis.com/drive/v3/files/1HYPz-FFJSERgzsfZzTKTGKDk8QSj8thL?alt=media&key=AIzaSyCBCEkxRT6ylhJS4XTS3-iy0zA0Y9UzV8E" group-title="Kids", Nick Junior
 https://anevia115.mncnow.id/live/eds/NickJr/sa_hls/NickJr.m3u8
-
 #EXTINF:-1 tvg-id="id N/A" tvg-logo="noimage.png" group-title="Kids", Disney Jr.
 http://samrapro.com:7766/ramis/123456/5681
-
 #EXTINF:-1 tvg-id="id N/A" tvg-logo="https://www.googleapis.com/drive/v3/files/1G5GVZYPlOgL9Bb5n4lzC0gKLpvW9erCT?alt=media&key=AIzaSyCBCEkxRT6ylhJS4XTS3-iy0zA0Y9UzV8E" group-title="Kids", Pogo Hindi
 http://savetree123.cf/index.php/live/channels/Pogo_Hindi_800.m3u8|user-agent="plaYtv/5.9.2 (Linux;Android 6.0) ExoPlayerLib/2.8.0"
 
-
-
-#EXTINF:-1,TZ:RFA
-https://s3.radio.co/s8df0149e0/listen
-#EXTINF:-1,TZ:KISS FM
-https://s3.radio.co/sbe50ddddb/listen
 #EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s201129g.png" group-title="RADIO",TBC TAIFA
 https://usa9-vn.mixstream.net:8080/;listen.mp3
 #EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s201129g.png" group-title="RADIO",TBC FM
@@ -1094,13 +1029,8 @@ https://s3.radio.co/s8df0149e0/listen
 #EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s2443g.png" group-title="RADIO",KISS FM
 https://s3.radio.co/sbe50ddddb/listen
 
-
 #EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s3g.png" group-title="RELIGIOUS",HOPE CHANNEL INTERNATIONAL
 https://bcliveunivsecure-lh.akamaihd.net/i/International_1@571272/index_1192_av-p.m3u8
-
-
-
-
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Korean" tvg-logo="https://imgur.com/2TSc2pJ.png" group-title="KOREA",Animax
 http://211.49.191.148:9981/stream/channelid/1158483964
