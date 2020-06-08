@@ -565,9 +565,7 @@ https://liveanevia.mncnow.id/live/eds/Discovery/sa_hls/Discovery-avc1_2499968=13
 
 
 #EXTINF:-1 tvg-logo="https://i.ya-webdesign.com/images/movie-star-png.png" group-title="Movies",Star Movies
-http://livecdnh1.tvanywhere.ae:80/hls/star_movies/02.m3u8
-#EXTINF:-1 tvg-logo="https://i.ya-webdesign.com/images/movie-star-png.png" group-title="Movies",Star Movies
-http://livecdnh1.tvanywhere.ae:80/hls/star_movies/03.m3u8
+http://channels.ooguy.com:80/auth?channel=StarMoviesHd&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/MGM.us.png" group-title="Movies",MGM Scifi
 https://mgm-ssai.akamaized.net/amagi_hls_data_mgmAAAAAA-theworks/CDN/720x404_1425600/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/Movies_Now_logo.png" group-title="Movies",Movies Now
@@ -648,8 +646,6 @@ https://timesnow.airtel.tv/live/RN_pull/master.m3u8
 https://vcnleomarkstudios.teleosmedia.com/stream/leomarkstudios/screamfest/seglist_720p.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/hr/SciFi.hr.png" group-title="Movies",Scifi
 http://ott.artmott.com/sci-fi/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="id N/A" tvg-logo="https://www.googleapis.com/drive/v3/files/1YUOXNdamUa39f1YRxbWmTLAZ73RoPUzt?alt=media&key=AIzaSyCBCEkxRT6ylhJS4XTS3-iy0zA0Y9UzV8E" group-title="Movies", Star Movies HD IN
-http://51.15.8.16:8081/ind1live/starmovies/playlist.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/MarvelLogo.svg/1200px-MarvelLogo.svg.png" group-title="Movies", Marvel Movies
 http://tx.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.googleapis.com/drive/v3/files/1YhPoM87UDWgzQYXDYtdxZCGE_jqT3xKU?alt=media&key=AIzaSyCBCEkxRT6ylhJS4XTS3-iy0zA0Y9UzV8E" group-title="Movies", Star Movies Select HD
