@@ -286,20 +286,18 @@ https://shls-mbc4-prod.shahid.net/mbc4-prod_1.m3u8
 https://shls-mbc4-prod.shahid.net/mbc4-prod_3.m3u8
 #EXTINF:-1 tvg-id="MBC 4 ARB" tvg-name="MBC 4 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/pfF61uH.png" group-title="Arabia",MBC 4 SD
 https://shls-mbc4-prod.shahid.net/mbc4-prod_7.m3u8
-
-
-
-
-
-.
-
-
-#EXTINF:-1 tvg-logo="https://static.epg.best/eg/MbcMasr.eg.png" group-title="Entertainment",MBC masr FHD
+#EXTINF:-1 tvg-logo="https://static.epg.best/eg/MbcMasr.eg.png" group-title="Arabia",MBC masr FHD
 https://shls-masr-prod.shahid.net/masr-prod_1.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/eg/MbcMasr.eg.png" group-title="Entertainment",MBC masr HD
+#EXTINF:-1 tvg-logo="https://static.epg.best/eg/MbcMasr.eg.png" group-title="Arabia",MBC masr HD
 https://shls-masr-prod.shahid.net/masr-prod_3.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/eg/MbcMasr.eg.png" group-title="Entertainment",MBC masr SD
+#EXTINF:-1 tvg-logo="https://static.epg.best/eg/MbcMasr.eg.png" group-title="Arabia",MBC masr SD
 https://shls-masr-prod.shahid.net/masr-prod_7.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/eg/MbcMasr.eg.png" group-title="Arabia",MBC masr FHD
+https://shls-masr2-prod.shahid.net/masr2-prod_1.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/eg/MbcMasr.eg.png" group-title="Arabia",MBC masr HD
+https://shls-masr2-prod.shahid.net/masr2-prod_3.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/eg/MbcMasr.eg.png" group-title="Arabia",MBC masr SD
+https://shls-masr2-prod.shahid.net/masr2-prod_7.m3u8
 #EXTINF:-1 tvg-id="MBC Action ARB" tvg-name="MBC Action ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/n3TgfP0.png" group-title="Arabia",MBC Action FHD
 https://shls-mbcaction-prod.shahid.net/mbcaction-prod_1.m3u8
 #EXTINF:-1 tvg-id="MBC Action ARB" tvg-name="MBC Action ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/n3TgfP0.png" group-title="Arabia",MBC Action HD
@@ -318,14 +316,24 @@ https://shls-mbcmax-prod.shahid.net/mbcmax-prod_1.m3u8
 https://shls-mbcmax-prod.shahid.net/mbcmax-prod_3.m3u8
 #EXTINF:-1 tvg-id="MBC Max ARB" tvg-name="MBC Max ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/X6EliFm.png" group-title="Arabia",MBC Max SD
 https://shls-mbcmax-prod.shahid.net/mbcmax-prod_7.m3u8
-
-
+#EXTINF:-1 tvg-id=ARB" tvg-name="MBC Max ARB" tvg-language="Arabic" tvg-logo="https://i." group-title="Arabia",MBC drama FHD
+https://shls-mbcdramaksa-prod.shahid.net/mbcdramaksa-prod_1.m3u8
+#EXTINF:-1 tvg-id="ARB" tvg-name="MBC Max ARB" tvg-language="Arabic" tvg-logo="https://i." group-title="Arabia",MBC drama HD
+https://shls-mbcdramaksa-prod.shahid.net/mbcdramaksa-prod_3.m3u8
+#EXTINF:-1 tvg-id=" ARB" tvg-name="MBC Max ARB" tvg-language="Arabic" tvg-logo="https://i." group-title="Arabia",MBC drama SD
+https://shls-mbcdramaksa-prod.shahid.net/mbcdramaksa-prod_7m3u8
 #EXTINF:-1 tvg-id="MBC Max ARB" tvg-name="MBC Max ARB" tvg-language="Arabic" tvg-logo="https://i." group-title="Arabia",MBC plusdrama FHD
 https://shls-mbcplusdrama-prod.shahid.net/mbcplusdrama-prod_1.m3u8
 #EXTINF:-1 tvg-id="MBC Max ARB" tvg-name="MBC Max ARB" tvg-language="Arabic" tvg-logo="https://i.imgpng" group-title="Arabia",MBC plusdrama HD
 https://shls-mbcplusdrama-prod.shahid.net/mbcplusdrama-prod_3.m3u8
 #EXTINF:-1 tvg-id="MBC Max ARB" tvg-name="MBC Max ARB" tvg-language="Arabic" tvg-logo="i.i.png" group-title="Arabia",MBC plusdrama SD
 https://shls-mbcplusdrama-prod.shahid.net/mbcplusdrama-prod_7.m3u8
+
+
+
+
+
+
 
 
 
@@ -419,7 +427,8 @@ http://23.186.192.55:8080/live/primeplus/index.m3u8
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Zee_Cinema.png?raw=true" group-title="Entertainment", Zee Cinema UK 
 http://tv.flametv.design/zeee.m3u8?c=zeetvsduk
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Zee_Cinema.png?raw=true" group-title="Entertainment", Zee Cinema USA 
-http://tv.flametv.design/zeee.m3u8?c=smileuS#EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Zee_Cinema.png?raw=true" group-title="Entertainment", Zee Cinema ME 
+http://tv.flametv.design/zeee.m3u8?c=ztvhdusa
+#EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Zee_Cinema.png?raw=true" group-title="Entertainment", Zee Cinema ME 
 http://tv.flametv.design/zeee.m3u8?c=ztvme
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Zee_Cinema.png?raw=true" group-title="Entertainment", Zee Cinema HD
 https://y5w8j4a9.ssl.hwcdn.net/zcinemahd/tracks-v1a1/index.m3u8
