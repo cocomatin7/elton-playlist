@@ -265,27 +265,27 @@ http://ms-azure-video.gslb.startimestv.com/live/CLOUDS_TV_880_500_480x360_193984
 #EXTINF:-1 tvg-id="MBC 1 ARB" tvg-name="MBC 1 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/eKBXOKd.png" group-title="Arabia",MBC FHD
 https://shls-mbc1ksa-prod.shahid.net/mbc1ksa-prod_1.m3u8
 #EXTINF:-1 tvg-id="MBC 1 ARB" tvg-name="MBC 1 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/eKBXOKd.png" group-title="Arabia",MBC HD
-https://shls-mbc1ksa-prod.shahid.net/mbc1ksa-prod_4.m3u8
+https://shls-mbc1ksa-prod.shahid.net/mbc1ksa-prod_3.m3u8
 #EXTINF:-1 tvg-id="MBC 1 ARB" tvg-name="MBC 1 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/eKBXOKd.png" group-title="Arabia",MBC SD
-https://shls-mbc1ksa-prod.shahid.net/mbc1ksa-prod_8.m3u8
+https://shls-mbc1ksa-prod.shahid.net/mbc1ksa-prod_7.m3u8
 #EXTINF:-1 tvg-id="MBC 2 ARB" tvg-name="MBC 2 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/KXuzL1u.png" group-title="Arabia",MBC 2 FHD
 https://shls-mbc2-prod.shahid.net/mbc2-prod_1.m3u8
 #EXTINF:-1 tvg-id="MBC 2 ARB" tvg-name="MBC 2 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/KXuzL1u.png" group-title="Arabia",MBC 2 HD 
-https://shls-mbc2-prod.shahid.net/mbc2-prod_4.m3u8
+https://shls-mbc2-prod.shahid.net/mbc2-prod_3.m3u8
 #EXTINF:-1 tvg-id="MBC 2 ARB" tvg-name="MBC 2 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/KXuzL1u.png" group-title="Arabia",MBC 2 SD
-https://shls-mbc2-prod.shahid.net/mbc2-prod_8.m3u8
+https://shls-mbc2-prod.shahid.net/mbc2-prod_7.m3u8
 #EXTINF:-1 tvg-id="MBC 3 ARB" tvg-name="MBC 3 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/FVNVC73.png" group-title="Arabia",MBC 3 FHD
-https://shls-mbcmax-prod.shahid.net/mbcmax-prod_8.m3u8
+https://shls-mbcmax-prod.shahid.net/mbcmax-prod_1.m3u8
 #EXTINF:-1 tvg-id="MBC 3 ARB" tvg-name="MBC 3 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/FVNVC73.png" group-title="Arabia",MBC 3 HD
-https://shls-mbcmax-prod.shahid.net/mbcmax-prod_4.m3u8
+https://shls-mbcmax-prod.shahid.net/mbcmax-prod_3.m3u8
 #EXTINF:-1 tvg-id="MBC 3 ARB" tvg-name="MBC 3 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/FVNVC73.png" group-title="Arabia",MBC 3 SD
-https://shls-mbcmax-prod.shahid.net/mbcmax-prod_8.m3u8
+https://shls-mbcmax-prod.shahid.net/mbcmax-prod_7.m3u8
 #EXTINF:-1 tvg-id="MBC 4 ARB" tvg-name="MBC 4 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/pfF61uH.png" group-title="Arabia",MBC 4 FHD
 https://shls-mbc4-prod.shahid.net/mbc4-prod_1.m3u8
 #EXTINF:-1 tvg-id="MBC 4 ARB" tvg-name="MBC 4 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/pfF61uH.png" group-title="Arabia",MBC 4 HD
-https://shls-mbc4-prod.shahid.net/mbc4-prod_4.m3u8
+https://shls-mbc4-prod.shahid.net/mbc4-prod_3.m3u8
 #EXTINF:-1 tvg-id="MBC 4 ARB" tvg-name="MBC 4 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/pfF61uH.png" group-title="Arabia",MBC 4 SD
-https://shls-mbc4-prod.shahid.net/mbc4-prod_8.m3u8
+https://shls-mbc4-prod.shahid.net/mbc4-prod_7.m3u8
 
 
 
@@ -297,27 +297,37 @@ https://shls-mbc4-prod.shahid.net/mbc4-prod_8.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/eg/MbcMasr.eg.png" group-title="Entertainment",MBC masr FHD
 https://shls-masr-prod.shahid.net/masr-prod_1.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/eg/MbcMasr.eg.png" group-title="Entertainment",MBC masr HD
-https://shls-masr-prod.shahid.net/masr-prod_4.m3u8
+https://shls-masr-prod.shahid.net/masr-prod_3.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/eg/MbcMasr.eg.png" group-title="Entertainment",MBC masr SD
-https://shls-masr-prod.shahid.net/masr-prod_8.m3u8
+https://shls-masr-prod.shahid.net/masr-prod_7.m3u8
 #EXTINF:-1 tvg-id="MBC Action ARB" tvg-name="MBC Action ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/n3TgfP0.png" group-title="Arabia",MBC Action FHD
 https://shls-mbcaction-prod.shahid.net/mbcaction-prod_1.m3u8
 #EXTINF:-1 tvg-id="MBC Action ARB" tvg-name="MBC Action ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/n3TgfP0.png" group-title="Arabia",MBC Action HD
-https://shls-mbcaction-prod.shahid.net/mbcaction-prod_4.m3u8
+https://shls-mbcaction-prod.shahid.net/mbcaction-prod_3.m3u8
 #EXTINF:-1 tvg-id="MBC Action ARB" tvg-name="MBC Action ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/n3TgfP0.png" group-title="Arabia",MBC Action SD
-https://shls-mbcaction-prod.shahid.net/mbcaction-prod_8.m3u8
+https://shls-mbcaction-prod.shahid.net/mbcaction-prod_7.m3u8
 #EXTINF:-1 tvg-id="MBC Bollywood ARB" tvg-name="MBC Bollywood ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/fMjhK06.png" group-title="Arabia",MBC Bollywood FHD
 https://shls-mbcbollywood-prod.shahid.net/mbcbollywood-prod_1.m3u8
 #EXTINF:-1 tvg-id="MBC Bollywood ARB" tvg-name="MBC Bollywood ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/fMjhK06.png" group-title="Arabia",MBC Bollywood HD
-https://shls-mbcbollywood-prod.shahid.net/mbcbollywood-prod_4.m3u8
+https://shls-mbcbollywood-prod.shahid.net/mbcbollywood-prod_3.m3u8
 #EXTINF:-1 tvg-id="MBC Bollywood ARB" tvg-name="MBC Bollywood ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/fMjhK06.png" group-title="Arabia",MBC Bollywood SD
-https://shls-mbcbollywood-prod.shahid.net/mbcbollywood-prod_8.m3u8
+https://shls-mbcbollywood-prod.shahid.net/mbcbollywood-prod_7.m3u8
 #EXTINF:-1 tvg-id="MBC Max ARB" tvg-name="MBC Max ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/X6EliFm.png" group-title="Arabia",MBC Max FHD
 https://shls-mbcmax-prod.shahid.net/mbcmax-prod_1.m3u8
 #EXTINF:-1 tvg-id="MBC Max ARB" tvg-name="MBC Max ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/X6EliFm.png" group-title="Arabia",MBC Max HD
-https://shls-mbcmax-prod.shahid.net/mbcmax-prod_4.m3u8
+https://shls-mbcmax-prod.shahid.net/mbcmax-prod_3.m3u8
 #EXTINF:-1 tvg-id="MBC Max ARB" tvg-name="MBC Max ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/X6EliFm.png" group-title="Arabia",MBC Max SD
-https://shls-mbcmax-prod.shahid.net/mbcmax-prod_8.m3u8
+https://shls-mbcmax-prod.shahid.net/mbcmax-prod_7.m3u8
+
+
+#EXTINF:-1 tvg-id="MBC Max ARB" tvg-name="MBC Max ARB" tvg-language="Arabic" tvg-logo="https://i." group-title="Arabia",MBC plusdrama FHD
+https://shls-mbcplusdrama-prod.shahid.net/mbcplusdrama-prod_1.m3u8
+#EXTINF:-1 tvg-id="MBC Max ARB" tvg-name="MBC Max ARB" tvg-language="Arabic" tvg-logo="https://i.imgpng" group-title="Arabia",MBC plusdrama HD
+https://shls-mbcplusdrama-prod.shahid.net/mbcplusdrama-prod_3.m3u8
+#EXTINF:-1 tvg-id="MBC Max ARB" tvg-name="MBC Max ARB" tvg-language="Arabic" tvg-logo="i.i.png" group-title="Arabia",MBC plusdrama SD
+https://shls-mbcplusdrama-prod.shahid.net/mbcplusdrama-prod_7.m3u8
+
+
 
 
 
@@ -356,7 +366,7 @@ https://itpolly.iptv.digijadoo.net/live/star_gold/chunks.m3u8
 https://itpolly.iptv.digijadoo.net/live/movies_ok/chunks.m3u8
 #EXTINF:-1 tvg-id="n/a" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Colors_tv2017.png" group-title="Entertainment",IN Colors HD
 https://itpolly.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
-#EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Zee_Cinema.png?raw=true" group-title="Entertainment", Zee Cinema  
+#EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Zee_Cinema.png?raw=true" group-title="Entertainment", Zee Cinema 
 http://tv.flametv.design/zeee.m3u8?c=out/v1/14c290cdde854265b74f78b102f6ecd8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ca/HGTV.ca.png" group-title="Entertainment",HGTV
 https://liveanevia.mncnow.id/live/eds/HGTV/sa_hls/HGTV-avc1_2499968=12-HGTV-mp4a_98800_eng=3.m3u8
@@ -407,10 +417,11 @@ http://bolly360.xyz:80/zee.php?c=9xo
 #EXTINF:0 tvg-logo="http://smartsolutionpteltd.com/tv/images/36523_bollywood-hd-2.jpg" group-title="Entertainment", prime HD 
 http://23.186.192.55:8080/live/primeplus/index.m3u8
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Zee_Cinema.png?raw=true" group-title="Entertainment", Zee Cinema UK 
-http://bolly360.xyz:80/zee.php?c=cinemauk
+http://tv.flametv.design/zeee.m3u8?c=zeetvsduk
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Zee_Cinema.png?raw=true" group-title="Entertainment", Zee Cinema USA 
-http://bolly360.xyz:80/zee.php?c=ZEE-CINEMA
-#EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Zee_Cinema.png?raw=true" group-title="Entertainment", Zee Cinema ME 
+http://tv.flametv.design/zeee.m3u8?c=smileuS#EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Zee_Cinema.png?raw=true" group-title="Entertainment", Zee Cinema ME 
+http://tv.flametv.design/zeee.m3u8?c=ztvme
+#EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Zee_Cinema.png?raw=true" group-title="Entertainment", Zee Cinema HD
 https://y5w8j4a9.ssl.hwcdn.net/zcinemahd/tracks-v1a1/index.m3u8
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Zee_Bangla_Cinema.png?raw=true" group-title="Entertainment", Bollywood 
 http://tv.flametv.design/zeee.m3u8?c=classic
@@ -418,17 +429,8 @@ http://tv.flametv.design/zeee.m3u8?c=classic
 http://livecdnh3.tvanywhere.ae/hls/b4uplus/04.m3u8
 #EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/rai_movie.jpg" group-title="Entertainment",RAI MOVIE HD 
 http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
-#EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Zee_Cafe.png?raw=true" group-title="Entertainment",Zee Cafe SD 
-http://bolly360.xyz:80/zee.php?c=zeecafesd
-#EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Zee_Cafe.png?raw=true" group-title="Entertainment",Zee Cafe HD 
-http://bolly360.xyz:80/zee.php?c=zeecafehd
-EXTINF:-1, &Explore HD ND
 #EXTINF:0 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/B4U_Movies.png?raw=true" group-title="Entertainment",B4U Movies 
 http://103.199.161.254/Content/b4umovies/Live/Channel(B4UMovies)/Stream(01)/index.m3u8
-#EXTINF:-1,TEST
-http://bolly360.xyz/zee.php?c=out/v1/525714a3beef4b6a8eac1ca96ffd8f88
-#EXTINF:-1,FightBox
-https://1610186124.rsc.cdn77.org/1610186124/tracks-v1a1/mono.m3u8
 #EXTINF:-1,MUSIC INDIA
 http://ndasat.net:8000/live/493093298206867/1593574628/6845.m3u8
 #EXTINF:53,Blue Ant Entertainment
@@ -439,7 +441,7 @@ https://1294836789.rsc.cdn77.org/1294836789/tracks-v1a1/mono.m3u8
 http://1002631743.rsc.cdn77.org/1002631743/index.m3u8
 #EXTINF:-1,Reel px Action
 https://1586823379.rsc.cdn77.org/1586823379/tracks-v2a1/2020/02/12/19/35/51-06000.ts
-#EXTINF:-1,SONY SAB
+#EXTINF:0 tvg-logo="https://githuogos/blob/master/India/Zee_Cinema.png?raw=true" group-title="Entertainment", SONY SAB HD
 https://sony247channels.akamaized.net/hls/live/2011749/SABHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
 #EXTINF:-1 tvg-logo="http://azamtv.com/tan/assets/images/logo.png" group-title="Entertainment",WWE
 https://delivery.macan.live/stream/macan_sport_15/index.m3u8?token=Yq91Jdf0&v=20200308
