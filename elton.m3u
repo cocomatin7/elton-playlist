@@ -292,11 +292,11 @@ https://shls-masr-prod.shahid.net/masr-prod_1.m3u8
 https://shls-masr-prod.shahid.net/masr-prod_3.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/eg/MbcMasr.eg.png" group-title="Arabia",MBC masr SD
 https://shls-masr-prod.shahid.net/masr-prod_7.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/eg/MbcMasr.eg.png" group-title="Arabia",MBC masr FHD
+#EXTINF:-1 tvg-logo="https://static.epg.best/eg/MbcMasr2.eg.png" group-title="Arabia",MBC masr 2 FHD
 https://shls-masr2-prod.shahid.net/masr2-prod_1.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/eg/MbcMasr.eg.png" group-title="Arabia",MBC masr HD
+#EXTINF:-1 tvg-logo="https://static.epg.best/eg/MbcMasr2.eg.png" group-title="Arabia",MBC masr 2 HD
 https://shls-masr2-prod.shahid.net/masr2-prod_3.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/eg/MbcMasr.eg.png" group-title="Arabia",MBC masr SD
+#EXTINF:-1 tvg-logo="https://static.epg.best/eg/MbcMasr2.eg.png" group-title="Arabia",MBC masr 2 SD
 https://shls-masr2-prod.shahid.net/masr2-prod_7.m3u8
 #EXTINF:-1 tvg-id="MBC Action ARB" tvg-name="MBC Action ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/n3TgfP0.png" group-title="Arabia",MBC Action FHD
 https://shls-mbcaction-prod.shahid.net/mbcaction-prod_1.m3u8
@@ -321,7 +321,7 @@ https://shls-mbcdramaksa-prod.shahid.net/mbcdramaksa-prod_1.m3u8
 #EXTINF:-1 tvg-id="ARB" tvg-name="MBC Max ARB" tvg-language="Arabic" tvg-logo="https://i." group-title="Arabia",MBC drama HD
 https://shls-mbcdramaksa-prod.shahid.net/mbcdramaksa-prod_3.m3u8
 #EXTINF:-1 tvg-id=" ARB" tvg-name="MBC Max ARB" tvg-language="Arabic" tvg-logo="https://i." group-title="Arabia",MBC drama SD
-https://shls-mbcdramaksa-prod.shahid.net/mbcdramaksa-prod_7m3u8
+https://shls-mbcdramaksa-prod.shahid.net/mbcdramaksa-prod_7.m3u8
 #EXTINF:-1 tvg-id="MBC Max ARB" tvg-name="MBC Max ARB" tvg-language="Arabic" tvg-logo="https://i." group-title="Arabia",MBC plusdrama FHD
 https://shls-mbcplusdrama-prod.shahid.net/mbcplusdrama-prod_1.m3u8
 #EXTINF:-1 tvg-id="MBC Max ARB" tvg-name="MBC Max ARB" tvg-language="Arabic" tvg-logo="https://i.imgpng" group-title="Arabia",MBC plusdrama HD
