@@ -341,7 +341,7 @@ https://rotana.hibridmedia.com/rotana/drama_dabr/rotana/drama_720p/chunks.m3u8
 #EXTINF:-1 tvg-id= ARB" tvg-name="MBC Max ARB" tvg-language="Arabic" tvg-logo="i.i.png" group-title="Arabia",Rotana drama SD
 https://rotana.hibridmedia.com/rotana/drama_dabr/rotana/drama_360p/chunks.m3u8
 #EXTINF:-1 tvg-id= ARB" tvg-name="MBC Max ARB" tvg-language="Arabic" tvg-logo="i.i.png" group-title="Arabia",Rotana classical FHD
-https://rotana.hibridmedia.com/rotana/classical_dabr/rotana/classical_1020p/chunks.m3u8
+https://rotana.hibridmedia.com/rotana/classical_dabr/rotana/classical_1080p/chunks.m3u8
 #EXTINF:-1 tvg-id= ARB" tvg-name="MBC Max ARB" tvg-language="Arabic" tvg-logo="i.i.png" group-title="Arabia",Rotana classical HD
 https://rotana.hibridmedia.com/rotana/classical_dabr/rotana/classical_720p/chunks.m3u8
 #EXTINF:-1 tvg-id= ARB" tvg-name="MBC Max ARB" tvg-language="Arabic" tvg-logo="i.i.png" group-title="Arabia",Rotana classical SD
@@ -349,7 +349,7 @@ https://rotana.hibridmedia.com/rotana/classical_dabr/rotana/classical_360p/chunk
 #EXTINF:-1 tvg-id= ARB" tvg-name="MBC Max ARB" tvg-language="Arabic" tvg-logo="i.i.png" group-title="Arabia",Rotana kids FHD
 https://rotana.hibridmedia.com/rotana/kids_dabr/rotana/kids_1080p/chunks.m3u8
 #EXTINF:-1 tvg-id= ARB" tvg-name="MBC Max ARB" tvg-language="Arabic" tvg-logo="i.i.png" group-title="Arabia",Rotana kids HD
-https://rotana.hibridmedia.com/rotana/kids_dabr/rotana/kids_720pchunks.m3u8
+https://rotana.hibridmedia.com/rotana/kids_dabr/rotana/kids_720p/chunks.m3u8
 #EXTINF:-1 tvg-id= ARB" tvg-name="MBC Max ARB" tvg-language="Arabic" tvg-logo="i.i.png" group-title="Arabia",Rotana kids SD
 https://rotana.hibridmedia.com/rotana/kids_dabr/rotana/kids_360p/chunks.m3u8
 
