@@ -1,11 +1,4 @@
 #EXTM3U
-http://plus-tv.us:8080/live/1899/1899/14566.ts
-#EXTINF:-1 ,US | Nat Geo Wild
-http://plus-tv.us:8080/live/1899/1899/14567.ts
-#EXTINF:-1 ,US | Unimas
-http://plus-tv.us:8080/live/1899/1899/14576.ts
-#EXTINF:-1 ,US | Galavision
-http://plus-tv.us:8080/live/1899/1899/14577.ts
 #EXTINF:-1 ,US | Telemundo
 http://plus-tv.us:8080/live/1899/1899/14578.ts
 #EXTINF:-1 ,US | Telemundo Chicago
@@ -20,22 +13,12 @@ http://plus-tv.us:8080/live/1899/1899/14582.ts
 http://plus-tv.us:8080/live/1899/1899/14583.ts
 #EXTINF:-1 ,US | NBC Universo
 http://plus-tv.us:8080/live/1899/1899/14584.ts
-#EXTINF:-1 ,US | Discovery Familia
-http://plus-tv.us:8080/live/1899/1899/14585.ts
 #EXTINF:-1 ,US | Discovery
 http://plus-tv.us:8080/live/1899/1899/14586.ts
 #EXTINF:-1 ,US | Cinemax East
 http://plus-tv.us:8080/live/1899/1899/14595.ts
 #EXTINF:-1 ,US | EPIX
 http://plus-tv.us:8080/live/1899/1899/14596.ts
-#EXTINF:-1 ,US | Showtime
-http://plus-tv.us:8080/live/1899/1899/14597.ts
-#EXTINF:-1 ,US | Showtime 2
-http://plus-tv.us:8080/live/1899/1899/14598.ts
-#EXTINF:-1 ,US | Showtime Extreme
-http://plus-tv.us:8080/live/1899/1899/14600.ts
-#EXTINF:-1 ,US | Starz Encore Western
-http://plus-tv.us:8080/live/1899/1899/14601.ts
 #EXTINF:-1 ,US | Starz
 http://plus-tv.us:8080/live/1899/1899/14602.ts
 #EXTINF:-1 ,US | Starz Black
@@ -50,8 +33,6 @@ http://plus-tv.us:8080/live/1899/1899/14606.ts
 http://plus-tv.us:8080/live/1899/1899/14607.ts
 #EXTINF:-1 ,US | HBO Signature ESP
 http://plus-tv.us:8080/live/1899/1899/14608.ts
-#EXTINF:-1 ,US | SHOWTIME ESP
-http://plus-tv.us:8080/live/1899/1899/14609.ts
 #EXTINF:-1 ,US | HBO
 http://plus-tv.us:8080/live/1899/1899/14610.ts
 #EXTINF:-1 ,US | HBO Latino
@@ -98,62 +79,14 @@ http://plus-tv.us:8080/live/1899/1899/14653.ts
 http://plus-tv.us:8080/live/1899/1899/14654.ts
 #EXTINF:-1 ,US | Fox Soccer Plus
 http://plus-tv.us:8080/live/1899/1899/14655.ts
-#EXTINF:-1 ,US | Showtime
-http://plus-tv.us:8080/live/1899/1899/14679.ts
-#EXTINF:-1 ,US | Showtime 2
-http://plus-tv.us:8080/live/1899/1899/14680.ts
-#EXTINF:-1 ,US | Showtime Extreme
-http://plus-tv.us:8080/live/1899/1899/14681.ts
-#EXTINF:-1 ,US | Showtime West
-http://plus-tv.us:8080/live/1899/1899/14683.ts
-#EXTINF:-1 ,US | Showtime HD
-http://plus-tv.us:8080/live/1899/1899/14684.ts
-#EXTINF:-1 ,US | Showtime 2 *
-http://plus-tv.us:8080/live/1899/1899/14685.ts
-#EXTINF:-1 ,US | Showtime Extreme *
-http://plus-tv.us:8080/live/1899/1899/14686.ts
-#EXTINF:-1 ,US | Showtime Latino
-http://plus-tv.us:8080/live/1899/1899/14687.ts
-#EXTINF:-1 ,US | Discovery ID
-http://plus-tv.us:8080/live/1899/1899/14552.ts
-#EXTINF:-1 ,US | Destination America
-http://plus-tv.us:8080/live/1899/1899/14555.ts
-#EXTINF:-1 ,US | Discovery Family
-http://plus-tv.us:8080/live/1899/1899/14556.ts
-#EXTINF:-1 ,US | Discovery Life
-http://plus-tv.us:8080/live/1899/1899/14557.ts
-#EXTINF:-1 ,US | Discovery Science
-http://plus-tv.us:8080/live/1899/1899/14558.ts
-#EXTINF:-1 ,US | History Channel
-http://plus-tv.us:8080/live/1899/1899/14564.ts
-#EXTINF:-1 ,Nba Tv
-http://cdn.miip.tv:8080/canada/123456/518
-#EXTINF:-1 ,NFL
-http://cdn.miip.tv:8080/canada/123456/519
-#EXTINF:-1 ,Fox Deportes
-http://cdn.miip.tv:8080/canada/123456/531
-#EXTINF:-1 ,History Usa
-http://cdn.miip.tv:8080/canada/123456/532
-#EXTINF:-1 ,Lifetime Usa
-http://cdn.miip.tv:8080/canada/123456/535
-#EXTINF:-1 ,Lifetime Movie
-http://cdn.miip.tv:8080/canada/123456/536
 #EXTINF:-1 ,Fox Sport 1 Usa
 http://cdn.miip.tv:8080/canada/123456/537
 #EXTINF:-1 ,Fox Sport Usa 2
 http://cdn.miip.tv:8080/canada/123456/538
 #EXTINF:-1 ,ESPN USA
 http://cdn.miip.tv:8080/canada/123456/541
-#EXTINF:-1 ,TVO Canal 23 | ESA
-http://cdn.miip.tv:8080/canada/123456/1317
-#EXTINF:-1 ,SPECTRUM HOUSTON
-http://cdn.miip.tv:8080/canada/123456/1320
-#EXTINF:-1 ,PRIME TICKET LOS ANGELES
-http://cdn.miip.tv:8080/canada/123456/1321
-#EXTINF:-1 ,SHOWTIME NEXT
-http://cdn.miip.tv:8080/canada/123456/1375
-#EXTINF:-1 ,SHOWTIME WOMEN
-http://cdn.miip.tv:8080/canada/123456/1422
+
+
 #EXTINF:-1 tvg-logo="http://cdn.startimestv.com/static/image/program/c_-1898472178.png" group-title="STARTIMES",ST Novela E +
 http://ms-azure-video.gslb.startimestv.com/live_record/ST_NOVELA_E_PLUS_631_500_480x360_7781/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://cdn.startimestv.com/static/image/product/7324f1d5-ed32-4e96-afc1-a4ecba60111e.png" group-title="STARTIMES",ST Rise
