@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1 ,ESP| LA LIGA TV BAR FULL HD
+http://doubleagechanmain.com:80/123456/123456/13639
+#EXTINF:-1 ,US:ESPN 1
+http://linux-app.tv:6204/15020208413552/24021189856304/33437
+#EXTINF:-1 ,US:ESPN 2
+http://linux-app.tv:6204/15020208413552/24021189856304/33438
+#EXTINF:-1 ,US:NBC Sports Northeast
+http://linux-app.tv:6204/15020208413552/24021189856304/33451
 #EXTINF:-1 ,BT Sport Extra 1
 http://81.24.248.26:9981/stream/channelid/16796585?ticket=0B678CDF48C0F52E225366F36752EA027561AF4F&profile=pass
 #EXTINF:-1 ,Uk:Sky True Movies 1
@@ -11,6 +19,14 @@ http://m-iptv.net:6204/95025267076109/65839594001441/33630
 http://m-iptv.net:6204/95025267076109/65839594001441/33631
 #EXTINF:-1 ,Uk:Sky BT Sport 3 HD
 http://m-iptv.net:6204/95025267076109/65839594001441/33577
+#EXTINF:-1 ,US:BeIN Sports
+http://linux-app.tv:6204/15020208413552/24021189856304/33435
+#EXTINF:-1 ,US:BeIN2 Sports
+http://linux-app.tv:6204/15020208413552/24021189856304/33436
+#EXTINF:-1 ,US | Bein Sports Ñ HD
+http://69.64.33.127:25461/LifeUsu04/C0251/1226
+#EXTINF:-1 ,US | Bein Sports USA HD
+http://69.64.33.127:25461/LifeUsu04/C0251/1227
 #EXTINF:-1 ,Uk:Sky Eir Sport 1
 http://m-iptv.net:6204/95025267076109/65839594001441/33557
 #EXTINF:-1 ,Uk:Sky Eir Sport 2
@@ -131,6 +147,24 @@ http://cdn.miip.tv:8080/canada/123456/537
 http://cdn.miip.tv:8080/canada/123456/538
 #EXTINF:-1 ,ESPN USA
 http://cdn.miip.tv:8080/canada/123456/541
+#EXTINF:-1 ,US | MTV
+http://69.64.33.127:25461/LifeUsu04/C0251/351
+#EXTINF:-1 ,US | MTV 2
+http://69.64.33.127:25461/LifeUsu04/C0251/352
+#EXTINF:-1 ,US | AMC
+http://69.64.33.127:25461/LifeUsu04/C0251/244
+#EXTINF:-1 ,US | Fox Sports 1
+http://69.64.33.127:25461/LifeUsu04/C0251/1274
+#EXTINF:-1 ,US | Fox Sports 2
+http://69.64.33.127:25461/LifeUsu04/C0251/1275
+#EXTINF:-1 ,US | Fox Soccer Plus
+http://69.64.33.127:25461/LifeUsu04/C0251/1276
+#EXTINF:-1 ,US | GINX eSports
+http://69.64.33.127:25461/LifeUsu04/C0251/1277
+#EXTINF:-1 ,US | MSNBC
+http://69.64.33.127:25461/LifeUsu04/C0251/1283
+#EXTINF:-1 ,US | NBA TV
+http://69.64.33.127:25461/LifeUsu04/C0251/1284
 
 
 #EXTINF:-1 tvg-logo="http://cdn.startimestv.com/static/image/program/c_-1898472178.png" group-title="STARTIMES",ST Novela E +
